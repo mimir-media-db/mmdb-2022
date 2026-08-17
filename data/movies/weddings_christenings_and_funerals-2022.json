@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weddings_christenings_and_funerals_2022",
+  "title": "Weddings, Christenings and Funerals",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116728864",
+    "imdb": "tt16027918",
+    "tmdb": 1023273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-12",
+  "runtime_minutes": 121
+}

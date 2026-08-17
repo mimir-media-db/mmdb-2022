@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wandari_2022",
+  "title": "Wändari",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943789",
+    "imdb": "tt21614220",
+    "tmdb": 1004546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

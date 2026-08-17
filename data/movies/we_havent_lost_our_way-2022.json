@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_havent_lost_our_way_2022",
+  "title": "We Haven’t Lost Our Way",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110899457",
+    "imdb": "tt17550784",
+    "tmdb": 928003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 73
+}

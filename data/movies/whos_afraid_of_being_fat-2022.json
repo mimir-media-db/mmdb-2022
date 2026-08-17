@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_afraid_of_being_fat_2022",
+  "title": "Who's Afraid of Being Fat?!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083571",
+    "imdb": "tt15763826",
+    "tmdb": 1009792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-22",
+  "runtime_minutes": 100
+}

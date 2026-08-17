@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_days_2022",
+  "title": "The Wedding Days",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115184339",
+    "imdb": "tt20871388",
+    "tmdb": 919952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-22",
+  "runtime_minutes": 100
+}

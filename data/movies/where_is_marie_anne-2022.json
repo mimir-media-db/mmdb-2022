@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_is_marie_anne_2022",
+  "title": "Where is Marie Anne?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140603495",
+    "imdb": "tt31592596",
+    "tmdb": 1006713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 6
+}

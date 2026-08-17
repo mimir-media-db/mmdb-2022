@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whina_2022",
+  "title": "Whina",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112692820",
+    "imdb": "tt6826120",
+    "tmdb": 766314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

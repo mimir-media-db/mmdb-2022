@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wings_of_dust_2022",
+  "title": "Wings of Dust",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124100820",
+    "imdb": "tt26673911",
+    "tmdb": 1180666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

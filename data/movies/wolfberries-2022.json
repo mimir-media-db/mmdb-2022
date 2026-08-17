@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfberries_2022",
+  "title": "Wolfberries",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125506893",
+    "imdb": "tt21871440",
+    "tmdb": 1034767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-20",
+  "runtime_minutes": 91
+}

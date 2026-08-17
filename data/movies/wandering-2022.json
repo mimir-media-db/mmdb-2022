@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wandering_2022",
+  "title": "Wandering",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113163737",
+    "imdb": "tt15150608",
+    "tmdb": 849786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-13",
+  "runtime_minutes": 150
+}

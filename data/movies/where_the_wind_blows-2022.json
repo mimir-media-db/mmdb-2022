@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_wind_blows_2022",
+  "title": "Where the Wind Blows",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43734006",
+    "imdb": "tt6902394",
+    "tmdb": 531379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 144
+}

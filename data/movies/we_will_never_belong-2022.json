@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_will_never_belong_2022",
+  "title": "We Will Never Belong",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843084",
+    "imdb": "tt12191458",
+    "tmdb": 772566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 93
+}

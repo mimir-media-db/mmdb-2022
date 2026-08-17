@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_the_fitness_2022",
+  "title": "Witness the Fitness",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111801826",
+    "imdb": "tt14353504",
+    "tmdb": 785218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-21"
+}

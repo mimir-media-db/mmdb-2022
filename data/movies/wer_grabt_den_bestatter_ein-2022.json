@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wer_grabt_den_bestatter_ein_2022",
+  "title": "Wer gräbt den Bestatter ein?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114796549",
+    "imdb": "tt20249402",
+    "tmdb": 978339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-03",
+  "runtime_minutes": 106
+}

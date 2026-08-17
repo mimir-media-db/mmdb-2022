@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_list_2022",
+  "title": "The White List",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109726871",
+    "imdb": "tt14157172",
+    "tmdb": 820095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}

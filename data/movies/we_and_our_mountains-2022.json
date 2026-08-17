@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_we_and_our_mountains_2022",
+  "title": "We and Our Mountains",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114010035",
+    "imdb": "tt38734001"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}
