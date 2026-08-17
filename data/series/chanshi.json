@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chanshi",
+  "title": "Chanshi",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111220845",
+    "imdb": "tt15495784",
+    "tmdb": 216024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_carmen_curlers",
+  "title": "Carmen Curlers",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115173056",
+    "imdb": "tt19383936",
+    "tmdb": 211280
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_challenges_at_midlife",
+  "title": "Challenges at Midlife",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q97958618",
+    "imdb": "tt12391744",
+    "tmdb": 158168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

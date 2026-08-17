@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_guerrero",
+  "title": "Corazón guerrero",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110643257",
+    "imdb": "tt16341678",
+    "tmdb": 196028
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

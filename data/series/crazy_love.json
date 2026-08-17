@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crazy_love",
+  "title": "Crazy Love",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110531195",
+    "imdb": "tt18550036"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

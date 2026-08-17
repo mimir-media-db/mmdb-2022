@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_jansing_reports",
+  "title": "Chris Jansing Reports",
+  "start_year": 2022,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6155554",
+    "imdb": "tt18884264",
+    "tmdb": 272032
+  },
+  "last_updated": "2026-08-17"
+}

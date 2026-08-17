@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_candy",
+  "title": "Candy",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111633080",
+    "imdb": "tt13729648",
+    "tmdb": 105804
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}
