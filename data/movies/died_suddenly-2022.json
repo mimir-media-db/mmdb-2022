@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_died_suddenly_2022",
+  "title": "Died Suddenly",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115388053",
+    "imdb": "tt23810972",
+    "tmdb": 1388466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-21"
+}

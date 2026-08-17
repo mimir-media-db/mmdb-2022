@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_des_mots_qui_restent_2022",
+  "title": "Des mots qui restent",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111208383",
+    "imdb": "tt18549724",
+    "tmdb": 942181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 52
+}

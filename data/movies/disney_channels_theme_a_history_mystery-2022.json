@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disney_channels_theme_a_history_mystery_2022",
+  "title": "Disney Channel's Theme: A History Mystery",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132529917",
+    "imdb": "tt23778158",
+    "tmdb": 1669242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-20"
+}

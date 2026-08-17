@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_wimpy_kid_rodrick_rules_2022",
+  "title": "Diary of a Wimpy Kid: Rodrick Rules",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114842711",
+    "imdb": "tt15847828",
+    "tmdb": 897192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02",
+  "runtime_minutes": 75
+}

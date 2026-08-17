@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desperate_souls_dark_city_and_the_legend_of_midnight_cowboy_2022",
+  "title": "Desperate Souls, Dark City and the Legend of Midnight Cowboy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113636048",
+    "imdb": "tt21372066",
+    "tmdb": 1004929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

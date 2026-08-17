@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_liaisons_2022",
+  "title": "Dangerous Liaisons",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112960787",
+    "imdb": "tt15548032",
+    "tmdb": 968739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-08",
+  "runtime_minutes": 109
+}

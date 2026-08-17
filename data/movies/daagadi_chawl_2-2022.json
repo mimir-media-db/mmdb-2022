@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daagadi_chawl_2_2022",
+  "title": "Daagadi Chawl 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120793992",
+    "imdb": "tt13618756",
+    "tmdb": 1014729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-19"
+}

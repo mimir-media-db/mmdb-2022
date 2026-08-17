@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_humani_corporis_fabrica_2022",
+  "title": "De Humani Corporis Fabrica",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113614019",
+    "imdb": "tt19783948",
+    "tmdb": 721232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

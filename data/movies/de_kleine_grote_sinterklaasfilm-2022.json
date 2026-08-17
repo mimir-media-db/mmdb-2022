@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_kleine_grote_sinterklaasfilm_2022",
+  "title": "De Kleine Grote Sinterklaasfilm",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114839825",
+    "imdb": "tt21626948",
+    "tmdb": 1054140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-04"
+}

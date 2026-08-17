@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_do_it_scared_2022",
+  "title": "Do It Scared",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600351",
+    "imdb": "tt6805224"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_don_juan_2022",
+  "title": "Don Juan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111264510",
+    "imdb": "tt14590650",
+    "tmdb": 657198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-23",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dissonantes_2022",
+  "title": "Dissonantes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119411074",
+    "imdb": "tt10407924",
+    "tmdb": 974174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

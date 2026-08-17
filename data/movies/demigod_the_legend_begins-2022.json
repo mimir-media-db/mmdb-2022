@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demigod_the_legend_begins_2022",
+  "title": "DEMIGOD: The Legend Begins",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113577002",
+    "imdb": "tt16077426",
+    "tmdb": 925725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-28"
+}

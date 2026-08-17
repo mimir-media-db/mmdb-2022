@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downfall_the_case_against_boeing_2022",
+  "title": "Downfall: The Case Against Boeing",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110666435",
+    "imdb": "tt11893274",
+    "tmdb": 913862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21",
+  "runtime_minutes": 89
+}

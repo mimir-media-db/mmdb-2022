@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_and_ashes_2022",
+  "title": "Dust and Ashes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114583707",
+    "imdb": "tt13513548",
+    "tmdb": 707172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24",
+  "runtime_minutes": 79
+}

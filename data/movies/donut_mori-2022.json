@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_donut_mori_2022",
+  "title": "Donut Mori",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108886446",
+    "tmdb": 1047472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02"
+}

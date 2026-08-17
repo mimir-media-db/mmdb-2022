@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_geschichte_der_menschheit_leicht_gekurzt_2022",
+  "title": "Die Geschichte der Menschheit - leicht gekürzt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112624717",
+    "imdb": "tt15684550",
+    "tmdb": 915646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-16",
+  "runtime_minutes": 96
+}

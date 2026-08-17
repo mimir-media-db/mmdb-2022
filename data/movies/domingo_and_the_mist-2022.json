@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_domingo_and_the_mist_2022",
+  "title": "Domingo and the Mist",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113678179",
+    "imdb": "tt19719864",
+    "tmdb": 962565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 86
+}

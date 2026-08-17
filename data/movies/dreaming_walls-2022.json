@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreaming_walls_2022",
+  "title": "Dreaming Walls",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110501159",
+    "imdb": "tt14679114",
+    "tmdb": 916427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 80
+}

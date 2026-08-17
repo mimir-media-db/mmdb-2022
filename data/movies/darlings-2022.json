@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_darlings_2022",
+  "title": "Darlings",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107584214",
+    "imdb": "tt14152140",
+    "tmdb": 801526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-05",
+  "runtime_minutes": 134
+}

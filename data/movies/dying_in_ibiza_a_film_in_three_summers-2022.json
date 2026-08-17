@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_in_ibiza_a_film_in_three_summers_2022",
+  "title": "Dying in Ibiza (A Film in Three Summers)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115621929",
+    "imdb": "tt21272582",
+    "tmdb": 998007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 107
+}

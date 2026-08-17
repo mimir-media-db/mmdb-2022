@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_memories_a_journey_with_magnum_photographer_thomas_hoepker_2022",
+  "title": "Dear Memories - A journey with Magnum Photographer Thomas Hoepker",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112127209",
+    "imdb": "tt16255832",
+    "tmdb": 968655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06",
+  "runtime_minutes": 102
+}

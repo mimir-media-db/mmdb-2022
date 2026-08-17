@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_on_the_nile_2022",
+  "title": "Death on the Nile",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56816969",
+    "imdb": "tt7657566",
+    "tmdb": 505026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-09",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamin_wild_2022",
+  "title": "Dreamin' Wild",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113296125",
+    "imdb": "tt10245106",
+    "tmdb": 887321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-07",
+  "runtime_minutes": 110
+}

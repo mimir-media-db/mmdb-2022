@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_december_2022",
+  "title": "December",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106527639",
+    "imdb": "tt14716702",
+    "tmdb": 586364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

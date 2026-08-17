@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_down_with_the_king_2022",
+  "title": "Down with the King",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108518308",
+    "imdb": "tt13834078",
+    "tmdb": 838889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-12"
+}

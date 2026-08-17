@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daliland_2022",
+  "title": "Dalíland",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52559148",
+    "imdb": "tt8399658",
+    "tmdb": 522925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-17",
+  "runtime_minutes": 104
+}

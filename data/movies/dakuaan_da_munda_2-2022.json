@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dakuaan_da_munda_2_2022",
+  "title": "Dakuaan Da Munda 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112567392",
+    "imdb": "tt14888342",
+    "tmdb": 979971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-27"
+}

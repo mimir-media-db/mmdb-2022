@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_damal_2022",
+  "title": "Damal",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114877199",
+    "imdb": "tt14256386",
+    "tmdb": 906147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-28"
+}

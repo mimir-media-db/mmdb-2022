@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doula_2022",
+  "title": "Doula",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124540956",
+    "imdb": "tt14622542",
+    "tmdb": 956496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-20"
+}

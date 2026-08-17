@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhaakad_2022",
+  "title": "Dhaakad",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111801723",
+    "imdb": "tt10598156",
+    "tmdb": 712863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deinfluencer_2022",
+  "title": "Deinfluencer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130254987",
+    "imdb": "tt15790974",
+    "tmdb": 969160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 91
+}

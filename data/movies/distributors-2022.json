@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_distributors_2022",
+  "title": "The Distributors",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432270",
+    "imdb": "tt23871514",
+    "tmdb": 1039376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-23"
+}

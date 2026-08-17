@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_heart_of_the_forest_2022",
+  "title": "Dark Heart of the Forest",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115306748",
+    "imdb": "tt12485780",
+    "tmdb": 820717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-01",
+  "runtime_minutes": 101
+}

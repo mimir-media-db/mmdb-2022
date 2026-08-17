@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_make_me_go_2022",
+  "title": "Don't Make Me Go",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112160956",
+    "imdb": "tt2597804",
+    "tmdb": 861072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-13",
+  "runtime_minutes": 109
+}

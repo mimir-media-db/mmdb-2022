@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disappear_completely_2022",
+  "title": "Disappear Completely",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125510635",
+    "imdb": "tt8851084",
+    "tmdb": 671317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

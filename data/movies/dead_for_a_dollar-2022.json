@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_for_a_dollar_2022",
+  "title": "Dead for a Dollar",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108325691",
+    "imdb": "tt14895206",
+    "tmdb": 843380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-06",
+  "runtime_minutes": 107
+}

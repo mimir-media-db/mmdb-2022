@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_is_the_night_2022",
+  "title": "Dark Is The Night",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123283998",
+    "imdb": "tt21836608",
+    "tmdb": 1029224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

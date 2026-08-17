@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_knight_redemption_2022",
+  "title": "Detective Knight: Redemption",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114850108",
+    "imdb": "tt22394694",
+    "tmdb": 1035803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09",
+  "runtime_minutes": 97
+}
