@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pan_de_limon_con_semillas_de_amapola_2022",
+  "title": "Pan de limón con semillas de amapola",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108458240",
+    "imdb": "tt12658852",
+    "tmdb": 793157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-29",
+  "runtime_minutes": 121
+}

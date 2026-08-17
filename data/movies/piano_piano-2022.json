@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_piano_2022",
+  "title": "Piano Piano",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121603234",
+    "imdb": "tt21230132",
+    "tmdb": 997670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

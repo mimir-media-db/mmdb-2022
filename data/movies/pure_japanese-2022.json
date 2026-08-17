@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pure_japanese_2022",
+  "title": "Pure Japanese",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109600897",
+    "imdb": "tt21817596",
+    "tmdb": 890316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-28",
+  "runtime_minutes": 88
+}

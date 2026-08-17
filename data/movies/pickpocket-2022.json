@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pickpocket_2022",
+  "title": "Pickpocket",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107566705",
+    "imdb": "tt14049016",
+    "tmdb": 741722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

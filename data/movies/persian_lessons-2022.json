@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_persian_lessons_2022",
+  "title": "Persian Lessons",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83487969",
+    "imdb": "tt9738784",
+    "tmdb": 581577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-19",
+  "runtime_minutes": 127
+}

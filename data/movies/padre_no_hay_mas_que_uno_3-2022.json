@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_padre_no_hay_mas_que_uno_3_2022",
+  "title": "Padre no hay más que uno 3",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110820319",
+    "imdb": "tt16452664",
+    "tmdb": 975120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-14",
+  "runtime_minutes": 134
+}

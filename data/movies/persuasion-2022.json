@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_persuasion_2022",
+  "title": "Persuasion",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106911865",
+    "imdb": "tt13456318",
+    "tmdb": 820912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15"
+}

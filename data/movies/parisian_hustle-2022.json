@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parisian_hustle_2022",
+  "title": "Parisian Hustle",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123663972",
+    "imdb": "tt14872500",
+    "tmdb": 958502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-26"
+}

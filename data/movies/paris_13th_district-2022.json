@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_13th_district_2022",
+  "title": "Paris, 13th District",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104862168",
+    "imdb": "tt12708658",
+    "tmdb": 746131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07",
+  "runtime_minutes": 106
+}

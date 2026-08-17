@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phoenix_2022",
+  "title": "Phoenix",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110584809",
+    "imdb": "tt15520090",
+    "tmdb": 934358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-28",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_petromax_2022",
+  "title": "Petromax",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108612294",
+    "imdb": "tt14783562",
+    "tmdb": 1003541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15"
+}

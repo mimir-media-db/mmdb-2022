@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_dinner_2022",
+  "title": "The Perfect Dinner",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112174369",
+    "imdb": "tt15213704",
+    "tmdb": 838876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 106
+}

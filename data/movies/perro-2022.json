@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perro_2022",
+  "title": "Perro",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85179950",
+    "imdb": "tt11724018",
+    "tmdb": 656529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07",
+  "runtime_minutes": 79
+}

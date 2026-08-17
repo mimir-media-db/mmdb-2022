@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_memories_2022",
+  "title": "Paris Memories",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111264314",
+    "imdb": "tt15329224",
+    "tmdb": 915931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-07",
+  "runtime_minutes": 102
+}

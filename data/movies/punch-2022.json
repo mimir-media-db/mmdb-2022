@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punch_2022",
+  "title": "Punch",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112190835",
+    "imdb": "tt13153494",
+    "tmdb": 942802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-30",
+  "runtime_minutes": 98
+}

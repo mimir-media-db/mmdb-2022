@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poppy_field_2022",
+  "title": "Poppy Field",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102312685",
+    "imdb": "tt11768008",
+    "tmdb": 763605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24",
+  "runtime_minutes": 81
+}

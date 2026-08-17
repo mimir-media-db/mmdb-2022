@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_2022",
+  "title": "The Princess",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112169176",
+    "imdb": "tt13393128",
+    "tmdb": 913868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-20",
+  "runtime_minutes": 106
+}

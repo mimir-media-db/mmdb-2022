@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_per_niente_al_mondo_2022",
+  "title": "Per niente al mondo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113864872",
+    "imdb": "tt14915626",
+    "tmdb": 834127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 105
+}

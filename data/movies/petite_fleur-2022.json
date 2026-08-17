@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petite_fleur_2022",
+  "title": "Petite Fleur",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111795457",
+    "imdb": "tt10940736",
+    "tmdb": 660327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-19",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psychologist_2022",
+  "title": "The Psychologist",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573755",
+    "imdb": "tt15451628"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01",
+  "runtime_minutes": 72
+}

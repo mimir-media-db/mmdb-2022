@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_prema_atm_2022",
+  "title": "Prema ATM",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112164537"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-27"
+}

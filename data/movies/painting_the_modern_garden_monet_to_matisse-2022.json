@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_painting_the_modern_garden_monet_to_matisse_2022",
+  "title": "Painting the Modern Garden: Monet to Matisse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24050240",
+    "imdb": "tt5458484",
+    "tmdb": 381705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-28",
+  "runtime_minutes": 93
+}

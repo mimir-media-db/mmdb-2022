@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pratikshya_2022",
+  "title": "Pratikshya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115551490",
+    "imdb": "tt12054850",
+    "tmdb": 1031996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_problematic_romance_2022",
+  "title": "Problematic Romance",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083599",
+    "imdb": "tt21862890",
+    "tmdb": 1003226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-23"
+}

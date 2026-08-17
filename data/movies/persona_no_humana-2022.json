@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_persona_no_humana_2022",
+  "title": "Persona [no] humana",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121832881",
+    "imdb": "tt13328974",
+    "tmdb": 1008010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

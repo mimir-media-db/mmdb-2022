@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_party_harder_summer_massacre_2022",
+  "title": "Párty Hárder: Summer Massacre",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112730824",
+    "imdb": "tt21138358",
+    "tmdb": 992092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-23",
+  "runtime_minutes": 100
+}

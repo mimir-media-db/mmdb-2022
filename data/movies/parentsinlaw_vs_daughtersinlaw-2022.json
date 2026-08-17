@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parentsinlaw_vs_daughtersinlaw_2022",
+  "title": "Parents-in-law vs. Daughters-in-law",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125796351",
+    "tmdb": 1018513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-29",
+  "runtime_minutes": 81
+}

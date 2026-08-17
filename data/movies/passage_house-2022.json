@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passage_house_2022",
+  "title": "Passage House",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115038496",
+    "imdb": "tt12925390",
+    "tmdb": 925488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08",
+  "runtime_minutes": 103
+}
