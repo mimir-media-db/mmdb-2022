@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lust",
+  "title": "Lust",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110551766",
+    "imdb": "tt17550758",
+    "tmdb": 155648
+  },
+  "last_updated": "2026-08-17"
+}

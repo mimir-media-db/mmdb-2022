@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_borbones_una_familia_real",
+  "title": "Los Borbones: una familia real",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q112580790",
+    "imdb": "tt21029836",
+    "tmdb": 202298
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

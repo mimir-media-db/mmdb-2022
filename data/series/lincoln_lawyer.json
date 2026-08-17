@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lincoln_lawyer",
+  "title": "The Lincoln Lawyer",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106536181",
+    "imdb": "tt13833978",
+    "tmdb": 116799
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

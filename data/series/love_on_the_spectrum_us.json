@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_on_the_spectrum_us",
+  "title": "Love on the Spectrum U.S.",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112123869",
+    "imdb": "tt19037550",
+    "tmdb": 200731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_longest_night",
+  "title": "The Longest Night",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107392376",
+    "imdb": "tt14463552",
+    "tmdb": 201331
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

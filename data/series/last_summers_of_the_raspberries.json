@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_summers_of_the_raspberries",
+  "title": "Last Summers of the Raspberries",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110990639",
+    "imdb": "tt16226504",
+    "tmdb": 105341
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}
