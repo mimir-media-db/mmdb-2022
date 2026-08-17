@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_42_days_of_darkness",
+  "title": "42 Days of Darkness",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109254886",
+    "imdb": "tt15090462",
+    "tmdb": 197190
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
