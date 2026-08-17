@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_georgina",
+  "title": "I Am Georgina",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110734341",
+    "imdb": "tt15494864",
+    "tmdb": 156077
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

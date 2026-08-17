@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_grande_gioco",
+  "title": "Il grande gioco",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q115754264",
+    "imdb": "tt22900702",
+    "tmdb": 214501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
