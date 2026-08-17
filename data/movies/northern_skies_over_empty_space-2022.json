@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_skies_over_empty_space_2022",
+  "title": "Northern Skies Over Empty Space",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110726468",
+    "imdb": "tt14030846",
+    "tmdb": 926325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 117
+}

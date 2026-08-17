@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nocebo_2022",
+  "title": "Nocebo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105905540",
+    "imdb": "tt11212572",
+    "tmdb": 782936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 96
+}

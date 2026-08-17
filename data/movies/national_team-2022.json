@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_national_team_2022",
+  "title": "National Team",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575590",
+    "imdb": "tt21990068",
+    "tmdb": 921408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27",
+  "runtime_minutes": 90
+}

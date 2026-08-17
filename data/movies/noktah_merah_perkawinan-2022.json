@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noktah_merah_perkawinan_2022",
+  "title": "Noktah Merah Perkawinan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110799259",
+    "imdb": "tt17634494",
+    "tmdb": 754314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 119
+}

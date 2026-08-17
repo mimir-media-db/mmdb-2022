@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_vamos_a_callar_un_filme_por_la_libertad_2022",
+  "title": "No vamos a callar, un filme por la libertad",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122873724",
+    "imdb": "tt22544070",
+    "tmdb": 1105744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

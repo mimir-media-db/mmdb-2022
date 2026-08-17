@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natalia_natalia_2022",
+  "title": "Natalia Natalia",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117826145",
+    "imdb": "tt18289848",
+    "tmdb": 911499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24",
+  "runtime_minutes": 90
+}

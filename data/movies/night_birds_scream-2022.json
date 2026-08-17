@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_birds_scream_2022",
+  "title": "Night, Birds Scream",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113989980",
+    "imdb": "tt22774608",
+    "tmdb": 1009013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09"
+}

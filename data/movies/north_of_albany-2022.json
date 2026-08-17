@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_of_albany_2022",
+  "title": "North of Albany",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104861687",
+    "imdb": "tt13105480",
+    "tmdb": 986755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-19",
+  "runtime_minutes": 107
+}

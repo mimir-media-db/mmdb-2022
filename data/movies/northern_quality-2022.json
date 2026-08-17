@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_quality_2022",
+  "title": "Northern Quality",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110530795",
+    "imdb": "tt14164102",
+    "tmdb": 916343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

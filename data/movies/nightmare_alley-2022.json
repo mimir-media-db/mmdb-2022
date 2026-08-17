@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_alley_2022",
+  "title": "Nightmare Alley",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q82430214",
+    "imdb": "tt7740496",
+    "tmdb": 597208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-19",
+  "runtime_minutes": 150
+}

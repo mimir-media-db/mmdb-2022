@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nazar_andaaz_2022",
+  "title": "Nazar Andaaz",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115013634",
+    "imdb": "tt22311492",
+    "tmdb": 1026792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07"
+}

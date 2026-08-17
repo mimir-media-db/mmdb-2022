@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notredame_on_fire_2022",
+  "title": "Notre-Dame on Fire",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106489375",
+    "imdb": "tt12264966",
+    "tmdb": 811596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 110
+}

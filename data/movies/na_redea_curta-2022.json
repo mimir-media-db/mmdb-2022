@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_redea_curta_2022",
+  "title": "Na Rédea Curta",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257958",
+    "imdb": "tt24251076",
+    "tmdb": 1038810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01",
+  "runtime_minutes": 95
+}

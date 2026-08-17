@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_natchathiram_nagargiradhu_2022",
+  "title": "Natchathiram Nagargiradhu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113614198",
+    "imdb": "tt15097236",
+    "tmdb": 856007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-31"
+}

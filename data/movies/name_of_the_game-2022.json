@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_name_of_the_game_2022",
+  "title": "Name of the game",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109713819",
+    "imdb": "tt16088562",
+    "tmdb": 893477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-18",
+  "runtime_minutes": 101
+}

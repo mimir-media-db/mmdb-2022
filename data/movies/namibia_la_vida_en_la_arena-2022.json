@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_namibia_la_vida_en_la_arena_2022",
+  "title": "Namibia, la vida en la arena",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129571684",
+    "tmdb": 1337458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

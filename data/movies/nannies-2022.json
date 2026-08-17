@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nannies_2022",
+  "title": "The Nannies",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113839470",
+    "imdb": "tt13136332",
+    "tmdb": 765822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-16",
+  "runtime_minutes": 105
+}

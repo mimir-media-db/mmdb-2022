@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_napoleon_in_the_name_of_art_2022",
+  "title": "Napoleon - In the Name of Art",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122900323",
+    "imdb": "tt16733276",
+    "tmdb": 887642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 91
+}

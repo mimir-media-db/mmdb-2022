@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_has_to_know_2022",
+  "title": "Nobody Has to Know",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108939072",
+    "imdb": "tt11188010",
+    "tmdb": 788933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 99
+}
