@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_rome_2022",
+  "title": "The Man from Rome",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111594819",
+    "imdb": "tt4194974",
+    "tmdb": 1029862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 116
+}

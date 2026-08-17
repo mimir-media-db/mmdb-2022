@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_small_land_2022",
+  "title": "My Small Land",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110621291",
+    "imdb": "tt16410620",
+    "tmdb": 918101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 114
+}

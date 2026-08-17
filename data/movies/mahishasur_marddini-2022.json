@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mahishasur_marddini_2022",
+  "title": "Mahishasur Marddini",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120763227",
+    "imdb": "tt15717054",
+    "tmdb": 796515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25",
+  "runtime_minutes": 126
+}

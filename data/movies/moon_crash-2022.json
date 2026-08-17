@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_crash_2022",
+  "title": "Moon Crash",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112245958",
+    "imdb": "tt17425022",
+    "tmdb": 931140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02"
+}

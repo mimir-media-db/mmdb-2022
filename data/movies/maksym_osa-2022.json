@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maksym_osa_2022",
+  "title": "Maksym Osa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16705981",
+    "imdb": "tt18688348",
+    "tmdb": 960668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-13",
+  "runtime_minutes": 100
+}

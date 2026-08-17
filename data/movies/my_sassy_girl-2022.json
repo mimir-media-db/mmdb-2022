@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sassy_girl_2022",
+  "title": "My Sassy Girl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109420019",
+    "imdb": "tt15850384",
+    "tmdb": 894693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-23",
+  "runtime_minutes": 117
+}

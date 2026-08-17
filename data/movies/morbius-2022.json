@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morbius_2022",
+  "title": "Morbius",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55405369",
+    "imdb": "tt5108870",
+    "tmdb": 526896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 104
+}

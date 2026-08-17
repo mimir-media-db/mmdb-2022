@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_marilyn_monroe_the_unheard_tapes_2022",
+  "title": "The Mystery of Marilyn Monroe: The Unheard Tapes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111520744",
+    "imdb": "tt19034332",
+    "tmdb": 953300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-27",
+  "runtime_minutes": 101
+}

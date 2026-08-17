@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_metal_lords_2022",
+  "title": "Metal Lords",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111265026",
+    "imdb": "tt12141112",
+    "tmdb": 739993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-08",
+  "runtime_minutes": 98
+}

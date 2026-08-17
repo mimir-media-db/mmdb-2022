@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_man_the_angel_2022",
+  "title": "The Man & The Angel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113134982",
+    "imdb": "tt18260516"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

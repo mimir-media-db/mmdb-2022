@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_message_for_christmas_2022",
+  "title": "A Message for Christmas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116205222",
+    "imdb": "tt23633050",
+    "tmdb": 1396207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 7
+}

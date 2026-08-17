@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_couldnt_leave_2022",
+  "title": "The Man Who Couldn't Leave",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123459318",
+    "imdb": "tt21871924",
+    "tmdb": 1015914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

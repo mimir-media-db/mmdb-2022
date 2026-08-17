@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_paints_water_drops_2022",
+  "title": "The Man Who Paints Water Drops",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432137",
+    "imdb": "tt14413342",
+    "tmdb": 809677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-28"
+}

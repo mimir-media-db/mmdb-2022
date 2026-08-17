@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_teacher_2022",
+  "title": "My Teacher",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115789960",
+    "imdb": "tt25147606",
+    "tmdb": 998095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-25"
+}

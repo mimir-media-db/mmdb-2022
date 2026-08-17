@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moloch_2022",
+  "title": "Moloch",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804579",
+    "imdb": "tt14412446",
+    "tmdb": 959558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-19",
+  "runtime_minutes": 69
+}

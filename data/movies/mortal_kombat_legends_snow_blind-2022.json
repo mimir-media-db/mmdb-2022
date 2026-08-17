@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mortal_kombat_legends_snow_blind_2022",
+  "title": "Mortal Kombat Legends: Snow Blind",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114313116",
+    "imdb": "tt21477618",
+    "tmdb": 1007401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-11"
+}

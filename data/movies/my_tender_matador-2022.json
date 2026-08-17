@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_tender_matador_2022",
+  "title": "My Tender Matador",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85787342",
+    "imdb": "tt10879920",
+    "tmdb": 651170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-15",
+  "runtime_minutes": 93
+}

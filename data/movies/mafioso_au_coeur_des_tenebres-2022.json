@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mafioso_au_coeur_des_tenebres_2022",
+  "title": "Mafioso, au coeur des ténèbres",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113815629",
+    "imdb": "tt19352108",
+    "tmdb": 940519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 52
+}

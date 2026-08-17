@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mirciulica_2022",
+  "title": "Mirciulica",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114648587",
+    "imdb": "tt21745356",
+    "tmdb": 1030908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

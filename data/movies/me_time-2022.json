@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_time_2022",
+  "title": "Me Time",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113331358",
+    "imdb": "tt14309446",
+    "tmdb": 862551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-26",
+  "runtime_minutes": 101
+}

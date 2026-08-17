@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_2022",
+  "title": "Midnight",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106996423",
+    "imdb": "tt14757872",
+    "tmdb": 628704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 103
+}

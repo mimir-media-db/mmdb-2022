@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_tira_da_mira_2022",
+  "title": "Me Tira da Mira",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110800992",
+    "imdb": "tt14257960",
+    "tmdb": 799804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

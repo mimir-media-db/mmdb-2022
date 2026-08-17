@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_menestrel_2022",
+  "title": "Ménestrel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113377232",
+    "imdb": "tt21369730",
+    "tmdb": 968278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-03",
+  "runtime_minutes": 112
+}

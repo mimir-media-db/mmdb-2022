@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muru_2022",
+  "title": "Muru",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113156871",
+    "imdb": "tt15686638",
+    "tmdb": 995885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-28"
+}

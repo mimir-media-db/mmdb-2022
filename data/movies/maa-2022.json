@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maa_2022",
+  "title": "Maa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115811261",
+    "imdb": "tt15340798",
+    "tmdb": 974304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06",
+  "runtime_minutes": 140
+}

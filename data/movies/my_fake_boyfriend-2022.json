@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fake_boyfriend_2022",
+  "title": "My Fake Boyfriend",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111426842",
+    "imdb": "tt15143222",
+    "tmdb": 908762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17",
+  "runtime_minutes": 100
+}

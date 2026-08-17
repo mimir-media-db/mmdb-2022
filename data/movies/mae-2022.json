@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mae_2022",
+  "title": "A Mãe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111383054",
+    "imdb": "tt17058302",
+    "tmdb": 764522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

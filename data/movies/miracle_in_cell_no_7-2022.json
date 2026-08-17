@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_in_cell_no_7_2022",
+  "title": "Miracle in Cell No. 7",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93421627",
+    "imdb": "tt11799822",
+    "tmdb": 665042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 132
+}

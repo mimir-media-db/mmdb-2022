@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moshari_2022",
+  "title": "Moshari",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116923001",
+    "imdb": "tt17499740",
+    "tmdb": 934709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-13"
+}

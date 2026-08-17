@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_loved_speed_2022",
+  "title": "A Man Who Loved Speed",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113550036",
+    "imdb": "tt20224920",
+    "tmdb": 910438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-26"
+}

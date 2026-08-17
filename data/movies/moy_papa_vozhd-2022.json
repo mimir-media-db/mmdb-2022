@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moy_papa_vozhd_2022",
+  "title": "Moy papa - vozhd",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111840628",
+    "imdb": "tt19404382",
+    "tmdb": 591668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-26",
+  "runtime_minutes": 94
+}

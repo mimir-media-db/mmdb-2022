@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_possible_2022",
+  "title": "Mission Possible",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105294011",
+    "imdb": "tt14140954",
+    "tmdb": 629028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 105
+}

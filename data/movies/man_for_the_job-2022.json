@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_for_the_job_2022",
+  "title": "The Man For The Job",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111663594",
+    "imdb": "tt19800436",
+    "tmdb": 1022733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 120
+}

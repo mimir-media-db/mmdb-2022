@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mermaids_dont_cry_2022",
+  "title": "Mermaids don’t cry",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117042286",
+    "imdb": "tt16750550",
+    "tmdb": 1040581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

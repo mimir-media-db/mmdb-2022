@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_and_child_stroll_2022",
+  "title": "Mother and Child Stroll",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597938",
+    "tmdb": 1042790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-10"
+}

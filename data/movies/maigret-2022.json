@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maigret_2022",
+  "title": "Maigret",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85854045",
+    "imdb": "tt10545696",
+    "tmdb": 752564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23",
+  "runtime_minutes": 88
+}

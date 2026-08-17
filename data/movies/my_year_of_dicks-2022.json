@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_year_of_dicks_2022",
+  "title": "My Year of Dicks",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113578342",
+    "imdb": "tt17663790",
+    "tmdb": 971188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 24
+}

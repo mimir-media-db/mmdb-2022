@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_motherinlaw_hates_me_2022",
+  "title": "My Mother-in-law Hates Me",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118910355",
+    "imdb": "tt23709686",
+    "tmdb": 1049038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-22",
+  "runtime_minutes": 90
+}

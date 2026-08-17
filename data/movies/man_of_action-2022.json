@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_action_2022",
+  "title": "A Man of Action",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805549",
+    "imdb": "tt12703292",
+    "tmdb": 945897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 111
+}

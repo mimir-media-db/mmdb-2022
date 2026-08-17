@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moment_of_contact_2022",
+  "title": "Moment of Contact",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133734350",
+    "imdb": "tt21451264",
+    "tmdb": 957864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

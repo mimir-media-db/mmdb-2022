@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mel_brooks_the_genius_entertainer_2022",
+  "title": "Mel Brooks: The Genius Entertainer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136343633",
+    "imdb": "tt24328850",
+    "tmdb": 1316632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 53
+}

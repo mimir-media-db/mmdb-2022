@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_from_toronto_2022",
+  "title": "The Man from Toronto",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101091774",
+    "imdb": "tt11671006",
+    "tmdb": 667739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-12",
+  "runtime_minutes": 110
+}

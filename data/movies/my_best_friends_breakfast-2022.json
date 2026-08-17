@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_friends_breakfast_2022",
+  "title": "My Best Friend's Breakfast",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106871354",
+    "imdb": "tt17292614",
+    "tmdb": 839294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

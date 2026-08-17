@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_country_my_parents_2022",
+  "title": "My Country, My Parents",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108800348",
+    "imdb": "tt15465312",
+    "tmdb": 869724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-19",
+  "runtime_minutes": 157
+}

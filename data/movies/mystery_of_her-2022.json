@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_her_2022",
+  "title": "The Mystery of Her",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120747736",
+    "imdb": "tt13308110",
+    "tmdb": 944024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-01",
+  "runtime_minutes": 108
+}

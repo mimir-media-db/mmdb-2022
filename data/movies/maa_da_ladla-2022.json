@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maa_da_ladla_2022",
+  "title": "Maa Da Ladla",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114953827",
+    "imdb": "tt21874530",
+    "tmdb": 1021661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-16"
+}

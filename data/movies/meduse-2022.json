@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meduse_2022",
+  "title": "Méduse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187446",
+    "imdb": "tt15834708",
+    "tmdb": 933100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

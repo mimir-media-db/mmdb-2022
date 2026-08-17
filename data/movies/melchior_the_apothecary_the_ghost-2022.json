@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melchior_the_apothecary_the_ghost_2022",
+  "title": "Melchior the Apothecary. The Ghost",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113269780",
+    "imdb": "tt20452514",
+    "tmdb": 964269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-19",
+  "runtime_minutes": 90
+}

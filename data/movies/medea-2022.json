@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_medea_2022",
+  "title": "Medea",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135968459",
+    "imdb": "tt22078586",
+    "tmdb": 741083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

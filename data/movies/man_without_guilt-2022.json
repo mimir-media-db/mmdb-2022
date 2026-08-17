@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_without_guilt_2022",
+  "title": "The Man Without Guilt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119520701",
+    "imdb": "tt4697200",
+    "tmdb": 1053133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

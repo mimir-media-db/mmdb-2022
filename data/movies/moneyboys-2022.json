@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moneyboys_2022",
+  "title": "MONEYBOYS",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107094446",
+    "imdb": "tt11783988",
+    "tmdb": 676819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 120
+}

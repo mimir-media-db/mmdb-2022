@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mar_de_dentro_2022",
+  "title": "Mar de Dentro",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110628046",
+    "imdb": "tt13342872",
+    "tmdb": 752637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17"
+}
