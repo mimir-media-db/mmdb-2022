@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eleita",
+  "title": "Eleita",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114349675",
+    "imdb": "tt22054790",
+    "tmdb": 158224
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

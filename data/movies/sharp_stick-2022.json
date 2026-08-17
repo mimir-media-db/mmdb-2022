@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sharp_stick_2022",
+  "title": "Sharp Stick",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105985338",
+    "imdb": "tt14158346",
+    "tmdb": 801913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-22",
+  "runtime_minutes": 86
+}

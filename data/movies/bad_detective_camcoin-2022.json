@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_detective_camcoin_2022",
+  "title": "Bad Detective: Camcoin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842498",
+    "tmdb": 937406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21"
+}

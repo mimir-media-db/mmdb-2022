@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gentlemen_of_east_8th",
+  "title": "Gentlemen of East 8th",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115260523",
+    "imdb": "tt26916019",
+    "tmdb": 209222
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

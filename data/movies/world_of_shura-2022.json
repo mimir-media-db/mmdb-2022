@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_shura_2022",
+  "title": "The World of Shura",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333196",
+    "imdb": "tt20224106",
+    "tmdb": 1030144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-29"
+}

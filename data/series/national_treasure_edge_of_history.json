@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_national_treasure_edge_of_history",
+  "title": "National Treasure: Edge of History",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110938022",
+    "imdb": "tt12580982",
+    "tmdb": 137437
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

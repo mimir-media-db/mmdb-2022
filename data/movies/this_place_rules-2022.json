@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_place_rules_2022",
+  "title": "This Place Rules",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805922",
+    "imdb": "tt23950956",
+    "tmdb": 1024433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-30",
+  "runtime_minutes": 82
+}

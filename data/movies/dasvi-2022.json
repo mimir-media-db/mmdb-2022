@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dasvi_2022",
+  "title": "Dasvi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106311023",
+    "imdb": "tt14107554",
+    "tmdb": 799713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07"
+}

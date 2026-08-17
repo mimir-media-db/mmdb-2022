@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_labyu_with_an_accent_2022",
+  "title": "Labyu with an Accent",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115813893",
+    "imdb": "tt22170224",
+    "tmdb": 998092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-25"
+}

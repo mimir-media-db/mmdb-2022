@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_motivation_for_admission_2022",
+  "title": "Motivation for Admission",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842435",
+    "tmdb": 1242788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-29"
+}

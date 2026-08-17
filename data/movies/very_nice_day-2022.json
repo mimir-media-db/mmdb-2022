@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_very_nice_day_2022",
+  "title": "Very Nice Day",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111578548",
+    "imdb": "tt15339966",
+    "tmdb": 604751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01"
+}

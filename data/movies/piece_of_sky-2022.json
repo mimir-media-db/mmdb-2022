@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piece_of_sky_2022",
+  "title": "A Piece of Sky",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110621293",
+    "imdb": "tt14783042",
+    "tmdb": 728499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 137
+}

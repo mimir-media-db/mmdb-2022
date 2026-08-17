@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kulkuset_kulkuset_2022",
+  "title": "Kulkuset kulkuset",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114902139",
+    "imdb": "tt21876846",
+    "tmdb": 947052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-28",
+  "runtime_minutes": 98
+}

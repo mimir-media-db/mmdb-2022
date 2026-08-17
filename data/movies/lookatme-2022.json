@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lookatme_2022",
+  "title": "LookAtMe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115907846",
+    "imdb": "tt21187744",
+    "tmdb": 1000221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-23"
+}

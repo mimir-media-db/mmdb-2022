@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_lal_odhani_2022",
+  "title": "Lal Odhani",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116008635"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-28"
+}

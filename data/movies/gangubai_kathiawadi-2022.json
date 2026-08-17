@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gangubai_kathiawadi_2022",
+  "title": "Gangubai Kathiawadi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85762670",
+    "imdb": "tt10083340",
+    "tmdb": 664332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 152
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corner_office_2022",
+  "title": "Corner Office",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105962629",
+    "imdb": "tt13849558",
+    "tmdb": 800279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

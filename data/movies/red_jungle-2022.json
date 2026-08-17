@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_jungle_2022",
+  "title": "Red Jungle",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111907608",
+    "imdb": "tt11385554",
+    "tmdb": 814699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-06",
+  "runtime_minutes": 80
+}

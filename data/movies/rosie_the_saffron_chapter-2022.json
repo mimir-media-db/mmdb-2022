@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rosie_the_saffron_chapter_2022",
+  "title": "Rosie: The Saffron Chapter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129035365",
+    "imdb": "tt12631534",
+    "tmdb": 728405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-14"
+}

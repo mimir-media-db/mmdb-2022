@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinta_subuh_2022",
+  "title": "Cinta Subuh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109564432",
+    "imdb": "tt19366946",
+    "tmdb": 724080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-19",
+  "runtime_minutes": 112
+}

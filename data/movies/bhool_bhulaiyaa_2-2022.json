@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhool_bhulaiyaa_2_2022",
+  "title": "Bhool Bhulaiyaa 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67200799",
+    "imdb": "tt6455162",
+    "tmdb": 695962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-20",
+  "runtime_minutes": 143
+}

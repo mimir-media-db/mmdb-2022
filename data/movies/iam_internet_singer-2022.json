@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iam_internet_singer_2022",
+  "title": "I'am Internet Singer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118917498",
+    "imdb": "tt27710916",
+    "tmdb": 1118700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-06",
+  "runtime_minutes": 189
+}

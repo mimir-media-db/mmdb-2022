@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kura_pokkhir_shunne_ura_2022",
+  "title": "Kura Pokkhir Shunne Ura",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115801815",
+    "imdb": "tt23622804",
+    "tmdb": 1048679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-04"
+}

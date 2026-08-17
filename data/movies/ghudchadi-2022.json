@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghudchadi_2022",
+  "title": "Ghudchadi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111213921",
+    "imdb": "tt21836384",
+    "tmdb": 942561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aller_simple",
+  "title": "Aller Simple",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131237386",
+    "imdb": "tt17042566",
+    "tmdb": 133923
+  },
+  "last_updated": "2026-08-17"
+}

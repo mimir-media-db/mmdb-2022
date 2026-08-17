@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veetla_vishesham_2022",
+  "title": "Veetla Vishesham",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111915170",
+    "imdb": "tt15115714",
+    "tmdb": 927602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17"
+}

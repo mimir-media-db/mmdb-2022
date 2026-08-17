@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_vs_aliens_2022",
+  "title": "Kids vs. Aliens",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115479279",
+    "imdb": "tt21862626",
+    "tmdb": 1013870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

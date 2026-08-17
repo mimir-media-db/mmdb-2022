@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vedette_2022",
+  "title": "Vedette",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111759045",
+    "imdb": "tt15067158",
+    "tmdb": 838898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 99
+}

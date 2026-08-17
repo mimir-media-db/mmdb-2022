@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mittens_pants",
+  "title": "Mittens & Pants",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139862747",
+    "imdb": "tt21309446",
+    "tmdb": 215444
+  },
+  "last_updated": "2026-08-17"
+}

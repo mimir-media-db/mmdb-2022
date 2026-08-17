@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfumier_2022",
+  "title": "The Perfumier",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114669762",
+    "imdb": "tt21916206",
+    "tmdb": 1016446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-21",
+  "runtime_minutes": 96
+}

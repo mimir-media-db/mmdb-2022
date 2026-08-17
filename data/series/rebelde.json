@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rebelde",
+  "title": "Rebelde",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105724697",
+    "imdb": "tt14153686",
+    "tmdb": 134949
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

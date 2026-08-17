@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_that_year_2022",
+  "title": "A Day, That Year",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134414986",
+    "imdb": "tt22261500",
+    "tmdb": 1022251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

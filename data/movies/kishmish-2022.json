@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kishmish_2022",
+  "title": "Kishmish",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111633416",
+    "imdb": "tt15433754",
+    "tmdb": 718099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29"
+}

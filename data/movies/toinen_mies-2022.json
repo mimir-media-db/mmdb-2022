@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toinen_mies_2022",
+  "title": "Toinen mies",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803576",
+    "imdb": "tt15681038",
+    "tmdb": 925791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_franz_2022",
+  "title": "Tales of Franz",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111087642",
+    "imdb": "tt15240158",
+    "tmdb": 933845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 79
+}

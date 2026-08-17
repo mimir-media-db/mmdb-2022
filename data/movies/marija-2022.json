@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marija_2022",
+  "title": "Marija",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959462",
+    "imdb": "tt4539140",
+    "tmdb": 408197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-13",
+  "runtime_minutes": 100
+}

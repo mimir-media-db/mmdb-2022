@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_about_yourself_2022",
+  "title": "Tell Me About Yourself",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843067",
+    "imdb": "tt21110704",
+    "tmdb": 895078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

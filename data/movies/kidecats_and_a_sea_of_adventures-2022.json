@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidecats_and_a_sea_of_adventures_2022",
+  "title": "Kid-E-Cats and a sea of adventures",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109375356",
+    "imdb": "tt21033870",
+    "tmdb": 895542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-01",
+  "runtime_minutes": 3900
+}

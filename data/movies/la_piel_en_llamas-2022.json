@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_piel_en_llamas_2022",
+  "title": "La piel en llamas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719373",
+    "imdb": "tt13518808",
+    "tmdb": 940215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

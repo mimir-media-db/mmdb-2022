@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portrait_of_a_nightmare_2022",
+  "title": "The Portrait of a Nightmare",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124744751",
+    "imdb": "tt11853706",
+    "tmdb": 829058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-18",
+  "runtime_minutes": 84
+}

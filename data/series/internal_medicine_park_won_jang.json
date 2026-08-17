@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_internal_medicine_park_won_jang",
+  "title": "Internal Medicine Park Won Jang",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110224034",
+    "imdb": "tt16970738",
+    "tmdb": 154522
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

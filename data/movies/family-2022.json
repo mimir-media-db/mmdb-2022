@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_2022",
+  "title": "The Family",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110973436",
+    "imdb": "tt13282344",
+    "tmdb": 860700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-16",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_urban_legend",
+  "title": "Urban Legend",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q123107779",
+    "imdb": "tt22177770",
+    "tmdb": 33275
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

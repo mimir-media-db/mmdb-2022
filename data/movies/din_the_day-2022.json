@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_din_the_day_2022",
+  "title": "Din - The Day",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65036793",
+    "imdb": "tt14668224",
+    "tmdb": 997936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-10"
+}

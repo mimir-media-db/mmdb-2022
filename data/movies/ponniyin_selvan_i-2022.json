@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ponniyin_selvan_i_2022",
+  "title": "Ponniyin Selvan: I",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108940413",
+    "imdb": "tt10701074",
+    "tmdb": 660046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 167
+}

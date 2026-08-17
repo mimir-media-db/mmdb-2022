@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_das_bose_im_wald_2022",
+  "title": "Das Böse im Wald",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114028185",
+    "imdb": "tt21412876",
+    "tmdb": 1024823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29"
+}

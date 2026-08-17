@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dio_dreamers_never_die_2022",
+  "title": "DIO: Dreamers Never Die",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114059527",
+    "imdb": "tt11851698",
+    "tmdb": 934670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-28",
+  "runtime_minutes": 113
+}

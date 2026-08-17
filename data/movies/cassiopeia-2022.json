@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cassiopeia_2022",
+  "title": "Cassiopeia",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111914907",
+    "imdb": "tt20918806",
+    "tmdb": 875153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-01"
+}

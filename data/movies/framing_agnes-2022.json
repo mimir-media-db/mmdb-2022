@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_framing_agnes_2022",
+  "title": "Framing Agnes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110810690",
+    "imdb": "tt11513696",
+    "tmdb": 913854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qorin_2022",
+  "title": "Qorin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115447399",
+    "imdb": "tt19367194",
+    "tmdb": 1045343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sparring_partner_2022",
+  "title": "The Sparring Partner",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114539219",
+    "imdb": "tt21867590",
+    "tmdb": 1005251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27"
+}

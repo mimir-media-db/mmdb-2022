@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slaughterhouse_2022",
+  "title": "Slaughterhouse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117460233",
+    "imdb": "tt12390388",
+    "tmdb": 840789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-10",
+  "runtime_minutes": 106
+}

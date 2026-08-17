@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boku_mo_aitsu_mo_shinro_desu_2022",
+  "title": "Boku mo aitsu mo shinrô desu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125662087",
+    "imdb": "tt20308842",
+    "tmdb": 943845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

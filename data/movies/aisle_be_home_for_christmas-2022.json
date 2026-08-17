@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aisle_be_home_for_christmas_2022",
+  "title": "Aisle Be Home for Christmas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135939284",
+    "imdb": "tt22499790",
+    "tmdb": 1032578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

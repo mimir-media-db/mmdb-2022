@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_icahn_the_restless_billionaire_2022",
+  "title": "Icahn: The Restless Billionaire",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110946343",
+    "imdb": "tt15462640",
+    "tmdb": 933249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

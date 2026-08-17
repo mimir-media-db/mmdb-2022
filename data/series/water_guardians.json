@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_water_guardians",
+  "title": "The Water Guardians",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q130009988",
+    "imdb": "tt21104204",
+    "tmdb": 217592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

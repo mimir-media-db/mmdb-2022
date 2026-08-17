@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_behind_the_door_2022",
+  "title": "The Boy Behind the Door",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107704115",
+    "imdb": "tt10772662",
+    "tmdb": 741613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10",
+  "runtime_minutes": 88
+}

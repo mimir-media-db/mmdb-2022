@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_lubovyu_luka_2022",
+  "title": "S lubovyu, Luka",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575968",
+    "imdb": "tt23711506",
+    "tmdb": 1049259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-03",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barbie_it_takes_two",
+  "title": "Barbie: It Takes Two",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111952685",
+    "imdb": "tt19178656",
+    "tmdb": 199175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

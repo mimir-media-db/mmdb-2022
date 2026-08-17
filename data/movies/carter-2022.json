@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carter_2022",
+  "title": "Carter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110629410",
+    "imdb": "tt21237030",
+    "tmdb": 800345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-05",
+  "runtime_minutes": 132
+}

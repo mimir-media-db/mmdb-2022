@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_towards_sunset_prayer_2022",
+  "title": "Towards Sunset Prayer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083850",
+    "imdb": "tt14288636",
+    "tmdb": 942012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-31",
+  "runtime_minutes": 102
+}

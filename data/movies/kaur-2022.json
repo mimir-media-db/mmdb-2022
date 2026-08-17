@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaur_2022",
+  "title": "Kaur",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126126944",
+    "imdb": "tt19726530",
+    "tmdb": 1143233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 13
+}

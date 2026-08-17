@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u_poshukakh_skovorody_2022",
+  "title": "U poshukakh Skovorody",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575604",
+    "imdb": "tt27170339",
+    "tmdb": 1101767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-21",
+  "runtime_minutes": 76
+}

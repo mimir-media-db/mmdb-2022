@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carol_of_the_bells_2022",
+  "title": "Carol of the Bells",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116025068",
+    "imdb": "tt8332658",
+    "tmdb": 853079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 122
+}

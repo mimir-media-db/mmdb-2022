@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_route_10_2022",
+  "title": "Route 10",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113412732",
+    "imdb": "tt18500680",
+    "tmdb": 912770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25",
+  "runtime_minutes": 85
+}

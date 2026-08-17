@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moonbound_2022",
+  "title": "Moonbound",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108872418",
+    "imdb": "tt14534992",
+    "tmdb": 809717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24",
+  "runtime_minutes": 84
+}

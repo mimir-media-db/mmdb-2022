@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chest_2022",
+  "title": "CHEST",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115496365",
+    "imdb": "tt9568318",
+    "tmdb": 931375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 95
+}

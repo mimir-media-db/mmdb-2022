@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_earth_arcade",
+  "title": "Earth Arcade",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113543575",
+    "imdb": "tt27744576",
+    "tmdb": 203508
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

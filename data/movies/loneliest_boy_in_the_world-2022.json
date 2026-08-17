@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loneliest_boy_in_the_world_2022",
+  "title": "The Loneliest Boy in the World",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843180",
+    "imdb": "tt12553046",
+    "tmdb": 992277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 91
+}

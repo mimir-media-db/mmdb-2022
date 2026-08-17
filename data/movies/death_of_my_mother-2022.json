@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_my_mother_2022",
+  "title": "The Death of my Mother",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110687008",
+    "imdb": "tt17009236",
+    "tmdb": 928737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

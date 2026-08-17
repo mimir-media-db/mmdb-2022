@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roleless_2022",
+  "title": "Roleless",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333239",
+    "imdb": "tt22299226",
+    "tmdb": 1007692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-18",
+  "runtime_minutes": 88
+}

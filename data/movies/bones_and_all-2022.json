@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bones_and_all_2022",
+  "title": "Bones and All",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107027721",
+    "imdb": "tt10168670",
+    "tmdb": 791177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-02",
+  "runtime_minutes": 130
+}

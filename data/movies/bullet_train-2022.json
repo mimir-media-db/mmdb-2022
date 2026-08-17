@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullet_train_2022",
+  "title": "Bullet Train",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99900595",
+    "imdb": "tt12593682",
+    "tmdb": 718930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-18",
+  "runtime_minutes": 126
+}

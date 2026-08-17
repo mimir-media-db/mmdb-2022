@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scream_2022",
+  "title": "Scream",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88563268",
+    "imdb": "tt11245972",
+    "tmdb": 646385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-12",
+  "runtime_minutes": 114
+}

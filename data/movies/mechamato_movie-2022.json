@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mechamato_movie_2022",
+  "title": "Mechamato Movie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115470582",
+    "imdb": "tt24225212",
+    "tmdb": 1051180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 122
+}

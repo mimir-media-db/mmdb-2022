@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elsker_dig_for_tiden_2022",
+  "title": "Elsker dig for tiden",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141794",
+    "imdb": "tt20449626",
+    "tmdb": 1019835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 109
+}

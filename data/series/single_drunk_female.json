@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_single_drunk_female",
+  "title": "Single Drunk Female",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110339422",
+    "imdb": "tt13790652",
+    "tmdb": 136739
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

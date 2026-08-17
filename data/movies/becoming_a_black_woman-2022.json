@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_becoming_a_black_woman_2022",
+  "title": "Becoming A Black Woman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137946378",
+    "imdb": "tt21435034",
+    "tmdb": 939125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 52
+}

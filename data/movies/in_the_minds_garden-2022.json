@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_minds_garden_2022",
+  "title": "In the Mind's Garden",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051332",
+    "imdb": "tt21381432",
+    "tmdb": 1023591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 92
+}

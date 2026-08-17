@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nico_2022",
+  "title": "Nico",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104836803",
+    "imdb": "tt13793134",
+    "tmdb": 777947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-12",
+  "runtime_minutes": 75
+}

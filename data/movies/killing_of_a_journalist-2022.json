@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_of_a_journalist_2022",
+  "title": "The Killing of a Journalist",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113362750",
+    "imdb": "tt21093696",
+    "tmdb": 956443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 102
+}

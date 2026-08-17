@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cyber_hell_exposing_an_internet_horror_2022",
+  "title": "Cyber Hell: Exposing an Internet Horror",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111662797",
+    "imdb": "tt19768508",
+    "tmdb": 965143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-18",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bolsonaro_brazil_under_pressure_2022",
+  "title": "Bolsonaro, Brazil under pressure",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114154933",
+    "imdb": "tt22021296",
+    "tmdb": 1336464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 70
+}

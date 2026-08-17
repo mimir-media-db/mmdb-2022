@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_te_la_dedico",
+  "title": "Te la dedico",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110576023",
+    "imdb": "tt16761288",
+    "tmdb": 157315
+  },
+  "last_updated": "2026-08-17"
+}

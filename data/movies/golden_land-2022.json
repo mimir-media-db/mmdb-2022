@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_land_2022",
+  "title": "Golden Land",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112075303",
+    "imdb": "tt18225290",
+    "tmdb": 841646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-11"
+}

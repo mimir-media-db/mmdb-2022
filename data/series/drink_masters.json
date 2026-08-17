@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_drink_masters",
+  "title": "Drink Masters",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114705481",
+    "imdb": "tt21840870",
+    "tmdb": 211104
+  },
+  "last_updated": "2026-08-17"
+}

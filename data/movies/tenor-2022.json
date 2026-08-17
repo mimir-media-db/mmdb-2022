@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenor_2022",
+  "title": "Tenor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111754419",
+    "imdb": "tt15740736",
+    "tmdb": 936074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

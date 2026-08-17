@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_verabredungen_mit_einem_dichter_michael_kruger_2022",
+  "title": "Verabredungen mit einem Dichter – Michael Krüger",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113494567",
+    "imdb": "tt22262504",
+    "tmdb": 1027984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-08",
+  "runtime_minutes": 75
+}

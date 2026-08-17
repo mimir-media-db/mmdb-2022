@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_heretic_2022",
+  "title": "The Last Heretic",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124365966",
+    "imdb": "tt19885330",
+    "tmdb": 790409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 80
+}

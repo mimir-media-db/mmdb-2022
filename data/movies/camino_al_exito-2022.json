@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camino_al_exito_2022",
+  "title": "Camino al éxito",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117817192",
+    "imdb": "tt10877890",
+    "tmdb": 956130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 73
+}

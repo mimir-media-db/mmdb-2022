@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ring_nation",
+  "title": "Ring Nation",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113561092",
+    "imdb": "tt23553292"
+  },
+  "last_updated": "2026-08-17"
+}

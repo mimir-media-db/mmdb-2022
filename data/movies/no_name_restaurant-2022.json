@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_name_restaurant_2022",
+  "title": "No Name Restaurant",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113254757",
+    "imdb": "tt7691384",
+    "tmdb": 979873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-29",
+  "runtime_minutes": 120
+}

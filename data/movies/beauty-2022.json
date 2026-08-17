@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_2022",
+  "title": "Beauty",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112862943",
+    "imdb": "tt11364112",
+    "tmdb": 667642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-29",
+  "runtime_minutes": 95
+}

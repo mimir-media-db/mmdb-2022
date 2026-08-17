@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimes_of_the_future_2022",
+  "title": "Crimes of the Future",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107883998",
+    "imdb": "tt14549466",
+    "tmdb": 819876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-23",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_chittagong_2022",
+  "title": "Made in Chittagong",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124414992",
+    "imdb": "tt26687660",
+    "tmdb": 1116009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-18"
+}

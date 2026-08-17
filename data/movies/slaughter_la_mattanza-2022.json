@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slaughter_la_mattanza_2022",
+  "title": "The Slaughter - La mattanza",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051367",
+    "imdb": "tt15315812",
+    "tmdb": 1000624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 77
+}

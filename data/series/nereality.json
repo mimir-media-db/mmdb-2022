@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nereality",
+  "title": "Nereality",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111917380",
+    "imdb": "tt19785014",
+    "tmdb": 197950
+  },
+  "last_updated": "2026-08-17"
+}

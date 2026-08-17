@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vysehrad_fylm_2022",
+  "title": "Vyšehrad: Fylm",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898639",
+    "imdb": "tt13086670",
+    "tmdb": 749026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14",
+  "runtime_minutes": 105
+}

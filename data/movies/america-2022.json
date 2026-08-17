@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_america_2022",
+  "title": "America",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113168683",
+    "imdb": "tt12252488",
+    "tmdb": 987088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-05",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lenfant_du_paradis_2022",
+  "title": "L'Enfant du paradis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123560888",
+    "imdb": "tt21962812",
+    "tmdb": 1013975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25"
+}

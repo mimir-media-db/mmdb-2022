@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mizh_nebom_ta_horamy_2022",
+  "title": "Mizh nebom ta horamy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575593",
+    "imdb": "tt15546030",
+    "tmdb": 881059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-01",
+  "runtime_minutes": 70
+}

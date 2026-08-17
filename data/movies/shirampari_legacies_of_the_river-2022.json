@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shirampari_legacies_of_the_river_2022",
+  "title": "Shirampari: Legacies of the River",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134958",
+    "imdb": "tt22748080",
+    "tmdb": 1021918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 16
+}

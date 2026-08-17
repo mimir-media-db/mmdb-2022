@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_days_to_eternity_2022",
+  "title": "4 Days to Eternity",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117861568",
+    "imdb": "tt12794540",
+    "tmdb": 956615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 108
+}

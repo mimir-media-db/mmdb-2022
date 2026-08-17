@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_silence_2022",
+  "title": "The Power of Silence",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111261810",
+    "imdb": "tt19874876",
+    "tmdb": 881642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-18",
+  "runtime_minutes": 82
+}

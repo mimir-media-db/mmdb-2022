@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_dijo_detox_2022",
+  "title": "¿Quién dijo Detox?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115447022",
+    "imdb": "tt23784342",
+    "tmdb": 939256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

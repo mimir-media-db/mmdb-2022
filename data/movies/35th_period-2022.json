@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_35th_period_2022",
+  "title": "3.5th Period",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597853",
+    "imdb": "tt32283078",
+    "tmdb": 952090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hopfen_malz_und_blei_2022",
+  "title": "Hopfen, Malz und Blei",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108084643",
+    "imdb": "tt15172410",
+    "tmdb": 884057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-05"
+}

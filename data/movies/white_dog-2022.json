@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_dog_2022",
+  "title": "White Dog",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109036225",
+    "imdb": "tt18350136",
+    "tmdb": 913243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

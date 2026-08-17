@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deux_visages_pour_une_mere_2022",
+  "title": "Deux visages pour une mère",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118212622",
+    "imdb": "tt13071552",
+    "tmdb": 957402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-21",
+  "runtime_minutes": 104
+}

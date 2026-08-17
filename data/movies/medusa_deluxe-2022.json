@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_medusa_deluxe_2022",
+  "title": "Medusa Deluxe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116214218",
+    "imdb": "tt14773478",
+    "tmdb": 935903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-06",
+  "runtime_minutes": 101
+}

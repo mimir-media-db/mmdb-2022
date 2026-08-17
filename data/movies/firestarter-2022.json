@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firestarter_2022",
+  "title": "Firestarter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61883109",
+    "imdb": "tt1798632",
+    "tmdb": 532710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-12",
+  "runtime_minutes": 94
+}

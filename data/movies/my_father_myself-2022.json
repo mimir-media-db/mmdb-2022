@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_myself_2022",
+  "title": "My Father, Myself",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115456439",
+    "imdb": "tt23771510",
+    "tmdb": 1037814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-25"
+}

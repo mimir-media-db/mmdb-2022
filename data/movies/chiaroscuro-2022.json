@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chiaroscuro_2022",
+  "title": "Chiaroscuro",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121818613",
+    "imdb": "tt18362492",
+    "tmdb": 1010996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 9
+}

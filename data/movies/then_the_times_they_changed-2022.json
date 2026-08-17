@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_then_the_times_they_changed_2022",
+  "title": "Then the Times, They Changed",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110821310",
+    "imdb": "tt18335818",
+    "tmdb": 929489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-31",
+  "runtime_minutes": 76
+}

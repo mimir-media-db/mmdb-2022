@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lulus_2022",
+  "title": "The Lulus",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116152767",
+    "imdb": "tt22039496",
+    "tmdb": 961725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 109
+}

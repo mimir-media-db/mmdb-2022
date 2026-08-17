@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_love_2022",
+  "title": "Dear Love",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116008638",
+    "imdb": "tt19625056",
+    "tmdb": 1012165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_espera_de_liz_2022",
+  "title": "A Espera de Liz",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110800968",
+    "imdb": "tt4546156",
+    "tmdb": 935724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 114
+}

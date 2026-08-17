@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_letters_to_santa_5_2022",
+  "title": "Letters to Santa 5",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112670364",
+    "imdb": "tt21847254",
+    "tmdb": 1019354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

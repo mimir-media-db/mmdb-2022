@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_world",
+  "title": "Hello World",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115815872",
+    "imdb": "tt21617580",
+    "tmdb": 208094
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

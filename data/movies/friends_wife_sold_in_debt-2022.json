@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_wife_sold_in_debt_2022",
+  "title": "A Friend's Wife Sold in Debt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842453",
+    "imdb": "tt31638341",
+    "tmdb": 1016007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-30"
+}

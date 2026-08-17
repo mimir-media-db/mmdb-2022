@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plai_2022",
+  "title": "Plai",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575960",
+    "imdb": "tt18307232",
+    "tmdb": 942587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-02",
+  "runtime_minutes": 75
+}

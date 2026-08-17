@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_front_2022",
+  "title": "Inner Front",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051281",
+    "imdb": "tt14630818"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1744_white_alto_2022",
+  "title": "1744 White Alto",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115614206",
+    "imdb": "tt18306232",
+    "tmdb": 927325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-18"
+}

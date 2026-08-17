@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_say_yes_again_2022",
+  "title": "Say Yes Again",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114797988",
+    "imdb": "tt15677260",
+    "tmdb": 846517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-19"
+}

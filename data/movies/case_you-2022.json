@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_you_2022",
+  "title": "The Case You",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110519864",
+    "imdb": "tt13551570",
+    "tmdb": 770579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10",
+  "runtime_minutes": 80
+}

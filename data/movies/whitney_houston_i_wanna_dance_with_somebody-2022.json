@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whitney_houston_i_wanna_dance_with_somebody_2022",
+  "title": "Whitney Houston: I Wanna Dance with Somebody",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109446845",
+    "imdb": "tt12193804",
+    "tmdb": 696157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 143
+}

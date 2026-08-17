@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thing_about_pam",
+  "title": "The Thing About Pam",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108882993",
+    "imdb": "tt13984270",
+    "tmdb": 125714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

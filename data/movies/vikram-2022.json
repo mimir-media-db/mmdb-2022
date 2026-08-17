@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vikram_2022",
+  "title": "Vikram",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102147287",
+    "imdb": "tt9179430",
+    "tmdb": 743563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 173
+}

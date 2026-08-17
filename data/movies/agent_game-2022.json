@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_game_2022",
+  "title": "Agent Game",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106631071",
+    "imdb": "tt14168394",
+    "tmdb": 872542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

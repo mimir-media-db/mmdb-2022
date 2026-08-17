@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_kung_fu_cult_master_1_2022",
+  "title": "New Kung Fu Cult Master 1",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97352241",
+    "imdb": "tt12292314",
+    "tmdb": 931175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-28"
+}

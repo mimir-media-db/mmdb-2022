@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ratu_dansa_2022",
+  "title": "Ratu Dansa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131553828",
+    "imdb": "tt24225960",
+    "tmdb": 1048476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-16"
+}

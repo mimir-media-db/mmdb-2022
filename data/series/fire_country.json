@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_country",
+  "title": "Fire Country",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114434662",
+    "imdb": "tt16098700",
+    "tmdb": 202297
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 72
+}

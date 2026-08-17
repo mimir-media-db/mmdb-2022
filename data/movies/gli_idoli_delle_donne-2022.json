@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gli_idoli_delle_donne_2022",
+  "title": "Gli idoli delle donne",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111467063",
+    "imdb": "tt14469460",
+    "tmdb": 840118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14",
+  "runtime_minutes": 91
+}

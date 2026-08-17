@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_the_world_i_love_you_2022",
+  "title": "Tell the World I Love You",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121222155",
+    "imdb": "tt16697972",
+    "tmdb": 767423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-27"
+}

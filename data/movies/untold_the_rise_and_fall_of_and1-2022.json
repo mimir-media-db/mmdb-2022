@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_untold_the_rise_and_fall_of_and1_2022",
+  "title": "Untold: The Rise and Fall of AND1",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113489500",
+    "imdb": "tt21388560",
+    "tmdb": 1002305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-23"
+}

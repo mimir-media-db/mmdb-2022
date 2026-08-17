@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tutto_per_mio_figlio_2022",
+  "title": "Tutto per mio figlio",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115267080",
+    "imdb": "tt16393220",
+    "tmdb": 1044184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-07"
+}

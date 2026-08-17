@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singing_jailbirds_2022",
+  "title": "Singing Jailbirds",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104179443",
+    "imdb": "tt13038218",
+    "tmdb": 893894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-13",
+  "runtime_minutes": 106
+}

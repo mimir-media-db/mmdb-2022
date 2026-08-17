@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f3_2022",
+  "title": "F3",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105145336",
+    "imdb": "tt13645322",
+    "tmdb": 802065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-27",
+  "runtime_minutes": 148
+}

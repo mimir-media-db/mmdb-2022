@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_of_us_are_dead",
+  "title": "All of Us Are Dead",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96414952",
+    "imdb": "tt14169960",
+    "tmdb": 99966
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

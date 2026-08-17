@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nekomimi_seaside_pet_detective_2022",
+  "title": "Nekomimi   Seaside Pet Detective",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274916",
+    "imdb": "tt33310230",
+    "tmdb": 1106168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02"
+}

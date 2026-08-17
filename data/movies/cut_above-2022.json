@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cut_above_2022",
+  "title": "A Cut Above",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112972288",
+    "imdb": "tt21265550",
+    "tmdb": 997023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

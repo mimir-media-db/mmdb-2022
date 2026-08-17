@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boomba_ride_2022",
+  "title": "Boomba Ride",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115816421",
+    "imdb": "tt17037804",
+    "tmdb": 897664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

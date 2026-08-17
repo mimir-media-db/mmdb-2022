@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summerlight_and_then_comes_the_night_2022",
+  "title": "Summerlight… and Then Comes the Night",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117305918",
+    "imdb": "tt9315684",
+    "tmdb": 860711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-08",
+  "runtime_minutes": 111
+}

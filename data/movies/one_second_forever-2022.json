@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_second_forever_2022",
+  "title": "One Second Forever",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111429590",
+    "imdb": "tt14824860",
+    "tmdb": 832992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-16",
+  "runtime_minutes": 85
+}

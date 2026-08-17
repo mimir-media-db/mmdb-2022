@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_of_the_ants_2022",
+  "title": "The Lord of the Ants",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113446859",
+    "imdb": "tt14575898",
+    "tmdb": 840098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 134
+}

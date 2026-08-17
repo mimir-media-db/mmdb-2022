@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_comme_des_gosses",
+  "title": "Comme des gosses",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113383267",
+    "imdb": "tt21054726"
+  },
+  "last_updated": "2026-08-17"
+}

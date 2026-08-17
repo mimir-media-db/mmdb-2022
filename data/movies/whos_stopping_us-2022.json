@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_stopping_us_2022",
+  "title": "Who's Stopping Us",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101985",
+    "imdb": "tt15398166",
+    "tmdb": 531921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-20",
+  "runtime_minutes": 220
+}

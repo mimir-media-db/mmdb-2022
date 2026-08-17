@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curious_world_of_hieronymus_bosch_2022",
+  "title": "The Curious World of Hieronymus Bosch",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28869374",
+    "imdb": "tt6336002",
+    "tmdb": 431444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-30"
+}

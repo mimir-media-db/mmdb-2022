@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_2022",
+  "title": "Shadow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115640602",
+    "imdb": "tt19814740",
+    "tmdb": 895539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08"
+}

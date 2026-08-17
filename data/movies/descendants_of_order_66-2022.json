@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_descendants_of_order_66_2022",
+  "title": "Descendants of Order 66",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349457",
+    "imdb": "tt27411350"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 109
+}

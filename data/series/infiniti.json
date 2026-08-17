@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_infiniti",
+  "title": "Infiniti",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q114799383",
+    "imdb": "tt14902026",
+    "tmdb": 128798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

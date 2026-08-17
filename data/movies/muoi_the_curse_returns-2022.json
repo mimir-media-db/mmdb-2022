@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muoi_the_curse_returns_2022",
+  "title": "Muoi: The Curse Returns",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122585049",
+    "imdb": "tt21210720",
+    "tmdb": 1016737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30",
+  "runtime_minutes": 95
+}

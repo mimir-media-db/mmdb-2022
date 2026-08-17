@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sebastian_pc_524_2022",
+  "title": "Sebastian P.C. 524",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110996013",
+    "imdb": "tt18885164",
+    "tmdb": 903283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-04"
+}

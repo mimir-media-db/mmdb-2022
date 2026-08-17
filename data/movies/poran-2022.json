@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poran_2022",
+  "title": "Poran",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113003427",
+    "imdb": "tt21281462",
+    "tmdb": 865951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-10"
+}

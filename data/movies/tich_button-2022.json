@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tich_button_2022",
+  "title": "Tich Button",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768624",
+    "imdb": "tt12259888",
+    "tmdb": 1045211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25"
+}

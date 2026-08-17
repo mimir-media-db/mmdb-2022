@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_duck_family_treasure",
+  "title": "Duck Family Treasure",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113624922",
+    "imdb": "tt18974462",
+    "tmdb": 205882
+  },
+  "last_updated": "2026-08-17"
+}

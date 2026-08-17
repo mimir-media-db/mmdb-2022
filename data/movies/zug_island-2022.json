@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zug_island_2022",
+  "title": "Zug Island",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113819637",
+    "imdb": "tt18375854",
+    "tmdb": 997168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 22
+}

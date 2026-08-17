@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sinar_untuk_genta_2022",
+  "title": "Sinar untuk Genta",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122225914",
+    "imdb": "tt21147038"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-22",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_margrete_queen_of_the_north_2022",
+  "title": "Margrete: Queen of the North",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87240826",
+    "imdb": "tt9308390",
+    "tmdb": 659370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13",
+  "runtime_minutes": 110
+}

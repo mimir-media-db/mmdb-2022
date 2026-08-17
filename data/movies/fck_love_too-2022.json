@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fck_love_too_2022",
+  "title": "F*ck Love Too",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111698633",
+    "imdb": "tt15432804",
+    "tmdb": 970308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_underground_2022",
+  "title": "Underground",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106472965",
+    "imdb": "tt11956066",
+    "tmdb": 661927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-26",
+  "runtime_minutes": 97
+}

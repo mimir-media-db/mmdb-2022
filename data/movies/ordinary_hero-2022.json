@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_hero_2022",
+  "title": "Ordinary Hero",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114593288",
+    "imdb": "tt22240434",
+    "tmdb": 1028526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uman_the_perfect_man_2022",
+  "title": "Uman - The Perfect Man",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111907516",
+    "imdb": "tt10415020",
+    "tmdb": 785200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-22",
+  "runtime_minutes": 86
+}

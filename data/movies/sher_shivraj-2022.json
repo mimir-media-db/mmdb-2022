@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sher_shivraj_2022",
+  "title": "Sher Shivraj",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111697243",
+    "imdb": "tt17274522",
+    "tmdb": 959834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22"
+}

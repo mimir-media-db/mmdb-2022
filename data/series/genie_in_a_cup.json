@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_genie_in_a_cup",
+  "title": "Genie in a Cup",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111219827",
+    "tmdb": 158386
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

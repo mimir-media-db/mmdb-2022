@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dubai_is_a_diamond_2022",
+  "title": "Dubai Is a Diamond",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110911360",
+    "imdb": "tt17940406"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-07",
+  "runtime_minutes": 6
+}

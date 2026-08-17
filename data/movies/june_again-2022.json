@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_june_again_2022",
+  "title": "June Again",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110983659",
+    "imdb": "tt9729768",
+    "tmdb": 590304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-17"
+}

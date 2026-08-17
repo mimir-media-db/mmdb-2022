@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_pursuit_2022",
+  "title": "Death Pursuit",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130320458",
+    "imdb": "tt10198564",
+    "tmdb": 993145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 81
+}

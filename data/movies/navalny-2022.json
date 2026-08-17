@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_navalny_2022",
+  "title": "Navalny",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110550428",
+    "imdb": "tt17041964",
+    "tmdb": 926676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-25",
+  "runtime_minutes": 98
+}

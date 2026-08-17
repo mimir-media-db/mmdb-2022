@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_bauer_und_der_bobo_2022",
+  "title": "Der Bauer und der Bobo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114050327",
+    "imdb": "tt24806706",
+    "tmdb": 940272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29",
+  "runtime_minutes": 96
+}

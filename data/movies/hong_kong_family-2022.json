@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hong_kong_family_2022",
+  "title": "Hong Kong Family",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114540276",
+    "imdb": "tt22398080",
+    "tmdb": 1021734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

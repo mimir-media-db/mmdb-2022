@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_highway_2022",
+  "title": "Paradise Highway",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113070883",
+    "imdb": "tt7469828",
+    "tmdb": 939979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-29",
+  "runtime_minutes": 115
+}

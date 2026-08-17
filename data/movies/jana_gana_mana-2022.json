@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jana_gana_mana_2022",
+  "title": "Jana Gana Mana",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112072761",
+    "imdb": "tt13391710",
+    "tmdb": 792358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-28",
+  "runtime_minutes": 162
+}

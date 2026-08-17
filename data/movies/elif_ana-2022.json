@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elif_ana_2022",
+  "title": "Elif Ana",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115868985",
+    "imdb": "tt23142610",
+    "tmdb": 1050164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jo1_the_movie_unfinished_go_to_the_top_2022",
+  "title": "JO1 the Movie: Unfinished - Go to the Top",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110207370",
+    "tmdb": 1058758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-11"
+}

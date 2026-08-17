@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beatles_get_back_the_rooftop_concert_2022",
+  "title": "The Beatles: Get Back - The Rooftop Concert",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110787453",
+    "imdb": "tt16899584",
+    "tmdb": 923403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-30",
+  "runtime_minutes": 65
+}

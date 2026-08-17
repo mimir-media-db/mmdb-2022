@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jailbird_2022",
+  "title": "Jailbird",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114797113",
+    "imdb": "tt16961210",
+    "tmdb": 1053024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 88
+}

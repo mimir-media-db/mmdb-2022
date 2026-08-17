@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_draw_the_line",
+  "title": "Draw The Line",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114228330",
+    "imdb": "tt22775772",
+    "tmdb": 210594
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

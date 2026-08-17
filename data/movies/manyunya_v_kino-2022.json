@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manyunya_v_kino_2022",
+  "title": "Manyunya v kino",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112266094",
+    "imdb": "tt20834762",
+    "tmdb": 975920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-26",
+  "runtime_minutes": 88
+}

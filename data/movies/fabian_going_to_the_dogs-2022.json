@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabian_going_to_the_dogs_2022",
+  "title": "Fabian: Going to the Dogs",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72626552",
+    "imdb": "tt13846414",
+    "tmdb": 620498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-17",
+  "runtime_minutes": 186
+}

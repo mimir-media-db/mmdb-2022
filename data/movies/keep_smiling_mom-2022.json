@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keep_smiling_mom_2022",
+  "title": "Keep Smiling, Mom!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115327913",
+    "imdb": "tt13812906",
+    "tmdb": 885313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tove_2022",
+  "title": "Tove",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96628864",
+    "imdb": "tt11007444",
+    "tmdb": 608232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-24",
+  "runtime_minutes": 103
+}

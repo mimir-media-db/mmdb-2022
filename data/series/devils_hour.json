@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_hour",
+  "title": "The Devil's Hour",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107316056",
+    "imdb": "tt14379784",
+    "tmdb": 157061
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 11
+}

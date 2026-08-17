@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninne_pelladatha_2022",
+  "title": "Ninne Pelladatha",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119842043",
+    "imdb": "tt22543458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 103
+}

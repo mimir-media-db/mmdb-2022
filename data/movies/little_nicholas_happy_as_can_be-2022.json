@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_nicholas_happy_as_can_be_2022",
+  "title": "Little Nicholas - Happy as Can Be",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112730403",
+    "imdb": "tt10290244",
+    "tmdb": 893366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-20",
+  "runtime_minutes": 82
+}

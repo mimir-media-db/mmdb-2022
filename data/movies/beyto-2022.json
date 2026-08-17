@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyto_2022",
+  "title": "Beyto",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100716189",
+    "imdb": "tt12683198",
+    "tmdb": 745931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-02",
+  "runtime_minutes": 98
+}

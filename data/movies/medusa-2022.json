@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_medusa_2022",
+  "title": "Medusa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111144593",
+    "imdb": "tt13846494",
+    "tmdb": 820710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 128
+}

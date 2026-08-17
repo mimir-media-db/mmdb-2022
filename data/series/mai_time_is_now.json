@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mai_time_is_now",
+  "title": "Mai Time Is Now",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114854413"
+  },
+  "last_updated": "2026-08-17"
+}

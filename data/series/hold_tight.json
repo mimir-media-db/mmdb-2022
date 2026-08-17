@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hold_tight",
+  "title": "Hold Tight",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111728941",
+    "imdb": "tt15019128",
+    "tmdb": 158155
+  },
+  "last_updated": "2026-08-17"
+}

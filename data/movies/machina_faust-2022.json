@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_machina_faust_2022",
+  "title": "Machina Faust",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130318658",
+    "imdb": "tt26894597",
+    "tmdb": 1038861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

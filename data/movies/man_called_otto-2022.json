@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_called_otto_2022",
+  "title": "A Man Called Otto",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111608782",
+    "imdb": "tt7405458",
+    "tmdb": 937278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-29",
+  "runtime_minutes": 126
+}

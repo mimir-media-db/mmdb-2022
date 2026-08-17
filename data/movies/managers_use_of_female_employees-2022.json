@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_managers_use_of_female_employees_2022",
+  "title": "Manager's use of female employees",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842483",
+    "tmdb": 971801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-18"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gravity_2022",
+  "title": "The Gravity",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117442784",
+    "imdb": "tt18990128",
+    "tmdb": 959101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_cold_2022",
+  "title": "The Burning Cold",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111677394",
+    "imdb": "tt11934038",
+    "tmdb": 895956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-25",
+  "runtime_minutes": 116
+}

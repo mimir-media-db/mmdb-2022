@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_do_we_see_when_we_look_at_the_sky_2022",
+  "title": "What Do We See When We Look at the Sky ?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105441001",
+    "imdb": "tt14035154",
+    "tmdb": 795815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23",
+  "runtime_minutes": 150
+}

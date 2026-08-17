@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prey_for_the_devil_2022",
+  "title": "Prey for the Devil",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104214267",
+    "imdb": "tt9271672",
+    "tmdb": 676547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27",
+  "runtime_minutes": 93
+}

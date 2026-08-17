@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bromates_2022",
+  "title": "Bromates",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114243332",
+    "imdb": "tt15131130",
+    "tmdb": 860854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 98
+}

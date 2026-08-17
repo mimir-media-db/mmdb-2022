@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_severance",
+  "title": "Severance",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101096725",
+    "imdb": "tt11280740",
+    "tmdb": 95396
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

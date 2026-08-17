@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_myanmar_the_forgotten_revolution_2022",
+  "title": "Myanmar: The Forgotten Revolution",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116453591",
+    "imdb": "tt21312210",
+    "tmdb": 1031074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 47
+}

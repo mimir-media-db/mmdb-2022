@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_killing_it",
+  "title": "Killing It",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111973054",
+    "imdb": "tt14129378",
+    "tmdb": 156878
+  },
+  "last_updated": "2026-08-17"
+}

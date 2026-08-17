@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_auschwitz_report_2022",
+  "title": "The Auschwitz Report",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104778542",
+    "imdb": "tt9415108",
+    "tmdb": 717694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-27",
+  "runtime_minutes": 94
+}

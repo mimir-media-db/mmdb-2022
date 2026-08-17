@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fenix_2022",
+  "title": "Fenix",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110716195",
+    "imdb": "tt14259318",
+    "tmdb": 938149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

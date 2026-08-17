@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_game_of_witches",
+  "title": "Game of Witches",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113482369",
+    "imdb": "tt32012587",
+    "tmdb": 208249
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 119
+}

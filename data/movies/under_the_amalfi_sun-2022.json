@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_amalfi_sun_2022",
+  "title": "Under the Amalfi Sun",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113555378",
+    "imdb": "tt15311262",
+    "tmdb": 873127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-13",
+  "runtime_minutes": 95
+}

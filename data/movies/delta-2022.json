@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delta_2022",
+  "title": "Delta",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113952340",
+    "imdb": "tt14055526",
+    "tmdb": 784375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-07"
+}

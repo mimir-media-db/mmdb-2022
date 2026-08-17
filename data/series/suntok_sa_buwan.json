@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suntok_sa_buwan",
+  "title": "Suntok sa Buwan",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113468665",
+    "imdb": "tt21310660",
+    "tmdb": 213003
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_run_to_me",
+  "title": "Run To Me",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111942386",
+    "imdb": "tt20243882",
+    "tmdb": 194535
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

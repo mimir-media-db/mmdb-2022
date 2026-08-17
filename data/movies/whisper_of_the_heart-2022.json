@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whisper_of_the_heart_2022",
+  "title": "Whisper of the Heart",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111622332",
+    "imdb": "tt21651570",
+    "tmdb": 700145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14"
+}

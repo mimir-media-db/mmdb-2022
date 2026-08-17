@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mauvaises_filles_2022",
+  "title": "Mauvaises filles",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116619077",
+    "imdb": "tt23465952",
+    "tmdb": 986018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-23",
+  "runtime_minutes": 71
+}

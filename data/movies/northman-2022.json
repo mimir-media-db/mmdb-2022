@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northman_2022",
+  "title": "The Northman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87126244",
+    "imdb": "tt11138512",
+    "tmdb": 639933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-15",
+  "runtime_minutes": 137
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cemaras_family_2_2022",
+  "title": "Cemara's Family 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65213376",
+    "imdb": "tt13580706",
+    "tmdb": 779890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

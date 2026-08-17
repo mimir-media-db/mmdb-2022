@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voy_a_pasarmelo_bien_2022",
+  "title": "Voy a pasármelo bien",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110913618",
+    "imdb": "tt15198592",
+    "tmdb": 888311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-12"
+}

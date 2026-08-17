@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_judaa_hoke_bhi_2022",
+  "title": "Judaa Hoke Bhi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112689686",
+    "imdb": "tt21237108",
+    "tmdb": 988988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15"
+}

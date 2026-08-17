@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_indefendable",
+  "title": "Indéfendable",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125694805",
+    "imdb": "tt21826522",
+    "tmdb": 157616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 375
+}

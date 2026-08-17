@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_i_change_my_mind_2022",
+  "title": "Before I Change My Mind",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113481174",
+    "imdb": "tt15209902",
+    "tmdb": 969047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

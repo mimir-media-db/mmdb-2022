@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hagar_2022",
+  "title": "HAGAR",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120478204",
+    "imdb": "tt22050248",
+    "tmdb": 1038500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-14",
+  "runtime_minutes": 7
+}

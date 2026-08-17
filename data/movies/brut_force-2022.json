@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brut_force_2022",
+  "title": "Brut Force",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124213905",
+    "imdb": "tt12476270",
+    "tmdb": 959617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 93
+}

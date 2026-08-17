@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_o_cangaceiro_do_futuro",
+  "title": "O Cangaceiro do Futuro",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111269519",
+    "imdb": "tt18313946",
+    "tmdb": 195298
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

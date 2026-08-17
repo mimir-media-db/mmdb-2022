@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soof_3_2022",
+  "title": "Soof 3",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111686202",
+    "imdb": "tt11847834",
+    "tmdb": 613743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15"
+}

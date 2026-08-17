@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_summit_2022",
+  "title": "Beyond The Summit",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111134216",
+    "imdb": "tt13667044",
+    "tmdb": 895953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-25"
+}

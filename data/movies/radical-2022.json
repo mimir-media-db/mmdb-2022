@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_radical_2022",
+  "title": "The Radical",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130680881",
+    "imdb": "tt10453358",
+    "tmdb": 742116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tad_the_lost_explorer_and_the_emerald_tablet_2022",
+  "title": "Tad the Lost Explorer and the Emerald Tablet",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113459376",
+    "imdb": "tt14941698",
+    "tmdb": 676701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-24",
+  "runtime_minutes": 89
+}

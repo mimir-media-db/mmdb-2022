@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adieu_godard_2022",
+  "title": "Adieu Godard",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111942188",
+    "imdb": "tt14502658",
+    "tmdb": 819165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-02"
+}

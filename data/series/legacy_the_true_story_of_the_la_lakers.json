@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legacy_the_true_story_of_the_la_lakers",
+  "title": "Legacy: The True Story of the LA Lakers",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138012361",
+    "imdb": "tt6484074",
+    "tmdb": 204554
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

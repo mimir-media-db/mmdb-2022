@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ode_to_the_spring_2022",
+  "title": "Ode to the Spring",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114367974",
+    "imdb": "tt14432822",
+    "tmdb": 824124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-01"
+}

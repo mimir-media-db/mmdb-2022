@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gymnastics_academy_a_second_chance",
+  "title": "Gymnastics Academy: A Second Chance",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130677852",
+    "imdb": "tt15654944",
+    "tmdb": 208527
+  },
+  "last_updated": "2026-08-17"
+}

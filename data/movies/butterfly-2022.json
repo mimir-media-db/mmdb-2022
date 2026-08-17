@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_butterfly_2022",
+  "title": "Butterfly",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116744971",
+    "imdb": "tt24330464",
+    "tmdb": 945482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahora_la_luz_cae_vertical_2022",
+  "title": "Ahora la luz cae vertical",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125303706",
+    "imdb": "tt19846068",
+    "tmdb": 1047319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 85
+}

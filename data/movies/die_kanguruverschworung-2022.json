@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_kanguruverschworung_2022",
+  "title": "Die Känguru-Verschwörung",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110373736",
+    "imdb": "tt14005250",
+    "tmdb": 979251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29"
+}

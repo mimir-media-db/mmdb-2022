@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honeymoon_2022",
+  "title": "Honeymoon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115456281",
+    "imdb": "tt19488344",
+    "tmdb": 1033884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-25"
+}

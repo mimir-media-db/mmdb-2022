@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_high_2022",
+  "title": "Wedding High",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109595585",
+    "imdb": "tt15400628",
+    "tmdb": 912632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-12"
+}

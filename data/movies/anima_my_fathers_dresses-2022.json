@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anima_my_fathers_dresses_2022",
+  "title": "Anima – My father's dresses",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110678317",
+    "imdb": "tt20221818",
+    "tmdb": 932664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21",
+  "runtime_minutes": 99
+}

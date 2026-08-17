@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_might_as_well_be_dead_2022",
+  "title": "We Might as Well Be Dead",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110567969",
+    "imdb": "tt13269868",
+    "tmdb": 818783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-11",
+  "runtime_minutes": 94
+}

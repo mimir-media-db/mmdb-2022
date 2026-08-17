@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_10",
+  "title": "未来への10カウント",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110848746",
+    "tmdb": 195343
+  },
+  "last_updated": "2026-08-17"
+}

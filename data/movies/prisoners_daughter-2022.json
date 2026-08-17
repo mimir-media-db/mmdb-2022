@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoners_daughter_2022",
+  "title": "Prisoner's Daughter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115608952",
+    "imdb": "tt4671326",
+    "tmdb": 865382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-14",
+  "runtime_minutes": 98
+}

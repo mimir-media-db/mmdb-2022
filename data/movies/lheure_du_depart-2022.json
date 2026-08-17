@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lheure_du_depart_2022",
+  "title": "L'heure du départ",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111221901",
+    "imdb": "tt18689984",
+    "tmdb": 948354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 80
+}

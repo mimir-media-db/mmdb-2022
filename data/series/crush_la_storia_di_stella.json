@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crush_la_storia_di_stella",
+  "title": "Crush - La storia di Stella",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115534891",
+    "imdb": "tt23459614",
+    "tmdb": 215484
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

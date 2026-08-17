@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mona_lisa_and_the_blood_moon_2022",
+  "title": "Mona Lisa and the Blood Moon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032559",
+    "imdb": "tt8760670",
+    "tmdb": 522526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30",
+  "runtime_minutes": 106
+}

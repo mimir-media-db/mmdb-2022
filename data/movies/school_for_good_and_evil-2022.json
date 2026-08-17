@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_for_good_and_evil_2022",
+  "title": "The School for Good and Evil",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105103910",
+    "imdb": "tt2935622",
+    "tmdb": 779782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-19",
+  "runtime_minutes": 147
+}

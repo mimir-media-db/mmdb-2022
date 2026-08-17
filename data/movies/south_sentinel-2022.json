@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_south_sentinel_2022",
+  "title": "South Sentinel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111039882",
+    "imdb": "tt16912766",
+    "tmdb": 893739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 97
+}

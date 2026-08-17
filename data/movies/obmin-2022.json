@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obmin_2022",
+  "title": "Obmin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867634",
+    "imdb": "tt22487374",
+    "tmdb": 1033069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-06",
+  "runtime_minutes": 90
+}

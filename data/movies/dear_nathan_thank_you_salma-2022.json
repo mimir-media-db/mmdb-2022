@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_nathan_thank_you_salma_2022",
+  "title": "Dear Nathan: Thank You Salma",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109441936",
+    "imdb": "tt12747222",
+    "tmdb": 725870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13",
+  "runtime_minutes": 112
+}

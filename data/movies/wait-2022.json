@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wait_2022",
+  "title": "The Wait",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97191856",
+    "imdb": "tt12453124",
+    "tmdb": 716814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01"
+}

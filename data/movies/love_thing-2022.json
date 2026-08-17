@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_thing_2022",
+  "title": "Love Thing",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105682249",
+    "imdb": "tt14125262",
+    "tmdb": 790806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-07",
+  "runtime_minutes": 99
+}

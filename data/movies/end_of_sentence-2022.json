@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_sentence_2022",
+  "title": "End of Sentence",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54020415",
+    "imdb": "tt6910006",
+    "tmdb": 472500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-15",
+  "runtime_minutes": 96
+}

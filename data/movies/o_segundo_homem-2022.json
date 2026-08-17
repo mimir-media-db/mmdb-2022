@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_segundo_homem_2022",
+  "title": "O Segundo Homem",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110888222",
+    "imdb": "tt12935690",
+    "tmdb": 799808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14",
+  "runtime_minutes": 111
+}

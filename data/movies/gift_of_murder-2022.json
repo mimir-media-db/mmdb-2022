@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gift_of_murder_2022",
+  "title": "Gift of Murder",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138307429",
+    "imdb": "tt15352826",
+    "tmdb": 952603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_startup",
+  "title": "Start-Up",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111982480",
+    "imdb": "tt22171072",
+    "tmdb": 211162
+  },
+  "last_updated": "2026-08-17"
+}

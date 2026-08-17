@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_costa_2022",
+  "title": "Costa!!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110910180",
+    "imdb": "tt15079778",
+    "tmdb": 923140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-28",
+  "runtime_minutes": 101
+}

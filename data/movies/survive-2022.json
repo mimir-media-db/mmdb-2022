@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survive_2022",
+  "title": "Survive",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719316",
+    "imdb": "tt17080412",
+    "tmdb": 1132079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 108
+}

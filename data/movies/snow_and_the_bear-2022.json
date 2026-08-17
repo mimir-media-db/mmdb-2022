@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_and_the_bear_2022",
+  "title": "Snow and the Bear",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121288695",
+    "imdb": "tt21612768",
+    "tmdb": 1008393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

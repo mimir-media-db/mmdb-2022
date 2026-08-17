@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_licorice_pizza_2022",
+  "title": "Licorice Pizza",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036245",
+    "imdb": "tt11271038",
+    "tmdb": 718032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-05",
+  "runtime_minutes": 133
+}

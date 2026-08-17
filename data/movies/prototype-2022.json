@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prototype_2022",
+  "title": "The Prototype",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136542673",
+    "imdb": "tt1754700",
+    "tmdb": 425906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 97
+}

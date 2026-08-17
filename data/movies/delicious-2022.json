@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delicious_2022",
+  "title": "Delicious",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106357649",
+    "imdb": "tt10738536",
+    "tmdb": 745611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-05",
+  "runtime_minutes": 112
+}

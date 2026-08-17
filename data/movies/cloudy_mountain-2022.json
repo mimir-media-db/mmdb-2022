@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloudy_mountain_2022",
+  "title": "Cloudy Mountain",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108578472",
+    "imdb": "tt15413054",
+    "tmdb": 862855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01"
+}

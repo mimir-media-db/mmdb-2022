@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_ete_afghan_2022",
+  "title": "Un été afghan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129084657",
+    "imdb": "tt21816560",
+    "tmdb": 1013569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_father_2022",
+  "title": "The Good Father",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333189",
+    "imdb": "tt21649884",
+    "tmdb": 958017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_maid_marian_2022",
+  "title": "The Adventures of Maid Marian",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111899797",
+    "imdb": "tt14072910",
+    "tmdb": 893334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 82
+}

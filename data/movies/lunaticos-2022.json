@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lunaticos_2022",
+  "title": "Lunáticos",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113378688",
+    "imdb": "tt20753464",
+    "tmdb": 998491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-04",
+  "runtime_minutes": 98
+}

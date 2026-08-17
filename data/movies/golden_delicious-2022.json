@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_delicious_2022",
+  "title": "Golden Delicious",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114964699",
+    "imdb": "tt13358190",
+    "tmdb": 1021968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 119
+}

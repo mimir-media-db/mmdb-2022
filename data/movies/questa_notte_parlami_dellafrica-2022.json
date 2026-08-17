@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_questa_notte_parlami_dellafrica_2022",
+  "title": "Questa notte parlami dell'Africa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116205115",
+    "imdb": "tt15006560",
+    "tmdb": 1036863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 96
+}

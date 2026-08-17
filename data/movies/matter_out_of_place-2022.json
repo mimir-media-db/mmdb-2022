@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matter_out_of_place_2022",
+  "title": "Matter Out of Place",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117814179",
+    "imdb": "tt21149114",
+    "tmdb": 727945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

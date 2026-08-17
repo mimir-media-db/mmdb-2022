@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_polkan",
+  "title": "Polkan",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q116830999",
+    "imdb": "tt26340745",
+    "tmdb": 212772
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

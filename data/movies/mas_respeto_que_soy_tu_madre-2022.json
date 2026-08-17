@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mas_respeto_que_soy_tu_madre_2022",
+  "title": "Más respeto que soy tu madre",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113978680",
+    "imdb": "tt22077666",
+    "tmdb": 848763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sen_wa_boku_o_egaku_2022",
+  "title": "Sen wa, Boku o Egaku",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113164873",
+    "imdb": "tt21816922",
+    "tmdb": 961266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-21"
+}

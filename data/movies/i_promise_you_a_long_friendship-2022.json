@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_promise_you_a_long_friendship_2022",
+  "title": "I promise you a long friendship",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116447866",
+    "imdb": "tt23036408",
+    "tmdb": 1022129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 69
+}

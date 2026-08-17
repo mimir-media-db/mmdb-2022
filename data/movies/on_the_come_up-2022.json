@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_come_up_2022",
+  "title": "On the Come Up",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113514946",
+    "imdb": "tt9783730",
+    "tmdb": 655322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

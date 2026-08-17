@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_rocket_2022",
+  "title": "Red Rocket",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105657351",
+    "imdb": "tt13453006",
+    "tmdb": 763329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 130
+}

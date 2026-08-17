@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_son_hunter_2022",
+  "title": "My Son Hunter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110174266",
+    "imdb": "tt15481952",
+    "tmdb": 900159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-07"
+}

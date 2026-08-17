@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_courtship",
+  "title": "The Courtship",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112221580",
+    "imdb": "tt15005814",
+    "tmdb": 194526
+  },
+  "last_updated": "2026-08-17"
+}

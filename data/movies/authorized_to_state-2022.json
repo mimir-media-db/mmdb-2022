@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_authorized_to_state_2022",
+  "title": "Authorized to State",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573862",
+    "imdb": "tt19866192"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23"
+}

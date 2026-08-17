@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_to_happiness_2022",
+  "title": "The Way to Happiness",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111210150",
+    "imdb": "tt12970142",
+    "tmdb": 944320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-06",
+  "runtime_minutes": 113
+}

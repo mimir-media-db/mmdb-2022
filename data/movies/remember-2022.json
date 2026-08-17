@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remember_2022",
+  "title": "Re/Member",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598096",
+    "imdb": "tt21250176",
+    "tmdb": 991814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 102
+}

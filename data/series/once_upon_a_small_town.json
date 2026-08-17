@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_once_upon_a_small_town",
+  "title": "Once Upon a Small Town",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113611791",
+    "imdb": "tt21875462",
+    "tmdb": 133678
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

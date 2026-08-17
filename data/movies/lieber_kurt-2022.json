@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lieber_kurt_2022",
+  "title": "Lieber Kurt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117844701",
+    "imdb": "tt15352480",
+    "tmdb": 915891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 136
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_lovers_2022",
+  "title": "The Young Lovers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110566848",
+    "imdb": "tt13462472",
+    "tmdb": 811211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamas_affair_2022",
+  "title": "Mama's Affair",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108830052",
+    "imdb": "tt15244854",
+    "tmdb": 942171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-11"
+}

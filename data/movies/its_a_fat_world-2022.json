@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_fat_world_2022",
+  "title": "It's a Fat World",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115812196",
+    "imdb": "tt11807968",
+    "tmdb": 1004988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

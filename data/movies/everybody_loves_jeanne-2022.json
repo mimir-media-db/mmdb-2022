@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_loves_jeanne_2022",
+  "title": "Everybody Loves Jeanne",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113471670",
+    "imdb": "tt14913250",
+    "tmdb": 925096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-21",
+  "runtime_minutes": 95
+}

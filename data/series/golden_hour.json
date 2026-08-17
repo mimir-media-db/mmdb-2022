@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_hour",
+  "title": "The Golden Hour",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114866427",
+    "imdb": "tt15554596",
+    "tmdb": 212408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

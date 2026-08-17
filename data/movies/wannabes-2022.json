@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wannabes_2022",
+  "title": "The Wannabes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104839812",
+    "imdb": "tt13460190",
+    "tmdb": 740460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

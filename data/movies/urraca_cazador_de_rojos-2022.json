@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_urraca_cazador_de_rojos_2022",
+  "title": "Urraca, cazador de rojos",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115056523",
+    "imdb": "tt23546220",
+    "tmdb": 1176899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

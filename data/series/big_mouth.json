@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_mouth",
+  "title": "Big Mouth",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109459739",
+    "imdb": "tt21195490",
+    "tmdb": 155226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

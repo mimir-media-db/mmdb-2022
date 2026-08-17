@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_foot_print_2022",
+  "title": "Foot Print",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123265741",
+    "imdb": "tt15610672"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-23"
+}

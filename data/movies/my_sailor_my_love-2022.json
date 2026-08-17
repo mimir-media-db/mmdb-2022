@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sailor_my_love_2022",
+  "title": "My Sailor, My Love",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111755658",
+    "imdb": "tt5851696",
+    "tmdb": 511424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09"
+}

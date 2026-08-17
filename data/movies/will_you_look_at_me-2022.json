@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_will_you_look_at_me_2022",
+  "title": "Will You Look at Me",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115632864",
+    "imdb": "tt19781792",
+    "tmdb": 965170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 20
+}

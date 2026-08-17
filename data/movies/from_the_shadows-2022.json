@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_the_shadows_2022",
+  "title": "From the Shadows",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107125026",
+    "imdb": "tt13867056",
+    "tmdb": 939899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-22",
+  "runtime_minutes": 107
+}

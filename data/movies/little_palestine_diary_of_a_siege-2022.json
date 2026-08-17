@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_palestine_diary_of_a_siege_2022",
+  "title": "Little Palestine, Diary of a Siege",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110471388",
+    "imdb": "tt14524436",
+    "tmdb": 810950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-12",
+  "runtime_minutes": 89
+}

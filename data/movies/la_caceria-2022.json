@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_la_caceria_2022",
+  "title": "La cacería",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943782"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

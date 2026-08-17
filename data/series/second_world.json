@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_second_world",
+  "title": "The Second World",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113653595",
+    "tmdb": 209195
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

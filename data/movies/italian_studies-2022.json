@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_studies_2022",
+  "title": "Italian Studies",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106588609",
+    "imdb": "tt9893084",
+    "tmdb": 662399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14",
+  "runtime_minutes": 81
+}

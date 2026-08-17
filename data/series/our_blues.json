@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_our_blues",
+  "title": "Our Blues",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110627977",
+    "imdb": "tt19115260",
+    "tmdb": 135840
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

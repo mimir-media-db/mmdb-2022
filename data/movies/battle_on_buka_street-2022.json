@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_on_buka_street_2022",
+  "title": "Battle on Buka Street",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115802968",
+    "imdb": "tt23635786",
+    "tmdb": 1058479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-16"
+}

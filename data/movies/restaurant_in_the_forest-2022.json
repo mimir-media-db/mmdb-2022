@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_restaurant_in_the_forest_2022",
+  "title": "Restaurant in the Forest",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333241",
+    "tmdb": 1179489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-19"
+}

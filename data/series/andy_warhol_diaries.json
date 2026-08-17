@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_andy_warhol_diaries",
+  "title": "The Andy Warhol Diaries",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111179823",
+    "imdb": "tt18082212",
+    "tmdb": 158233
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fresh_2022",
+  "title": "Fresh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105393880",
+    "imdb": "tt13403046",
+    "tmdb": 787752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21",
+  "runtime_minutes": 114
+}

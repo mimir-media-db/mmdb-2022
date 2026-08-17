@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_azuro_2022",
+  "title": "Azuro",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109017152",
+    "imdb": "tt12698684",
+    "tmdb": 843066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 105
+}

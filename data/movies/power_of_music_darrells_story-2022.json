@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_music_darrells_story_2022",
+  "title": "The Power of Music - Darrell's Story",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123359860",
+    "imdb": "tt21146350",
+    "tmdb": 1073708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-06",
+  "runtime_minutes": 12
+}

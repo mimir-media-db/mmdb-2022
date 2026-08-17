@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corro_da_te_2022",
+  "title": "Corro da te",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110620203",
+    "imdb": "tt12215252",
+    "tmdb": 654895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17"
+}

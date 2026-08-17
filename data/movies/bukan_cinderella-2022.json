@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bukan_cinderella_2022",
+  "title": "Bukan Cinderella",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115136735",
+    "imdb": "tt21100454",
+    "tmdb": 958760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-28",
+  "runtime_minutes": 88
+}

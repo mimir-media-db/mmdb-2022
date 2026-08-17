@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lyric_and_beat",
+  "title": "Lyric and Beat",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113289106",
+    "imdb": "tt21429096",
+    "tmdb": 139487
+  },
+  "last_updated": "2026-08-17"
+}

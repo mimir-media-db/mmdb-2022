@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suspeita_2022",
+  "title": "A Suspeita",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108305470",
+    "imdb": "tt8150228",
+    "tmdb": 853660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laura_pausini_pleasure_to_meet_you_2022",
+  "title": "Laura Pausini: Pleasure to Meet You",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111787401",
+    "imdb": "tt17495832",
+    "tmdb": 852664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 121
+}

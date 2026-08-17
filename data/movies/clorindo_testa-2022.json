@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clorindo_testa_2022",
+  "title": "Clorindo Testa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474367",
+    "imdb": "tt23182000",
+    "tmdb": 1045813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

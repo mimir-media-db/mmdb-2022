@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pelican_2022",
+  "title": "Pelican",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115308189",
+    "imdb": "tt22694732",
+    "tmdb": 1051447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sore_ga_iru_mori_2022",
+  "title": "Sore ga Iru Mori",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114353823",
+    "imdb": "tt21288116",
+    "tmdb": 961295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30",
+  "runtime_minutes": 107
+}

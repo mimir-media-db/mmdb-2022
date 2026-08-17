@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samuels_travels_2022",
+  "title": "Samuel's Travels",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131740075",
+    "imdb": "tt15944320",
+    "tmdb": 861035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 85
+}

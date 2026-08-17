@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_on_the_verge_of_a_nervous_breakdown_2022",
+  "title": "Men on the Verge of a Nervous Breakdown",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111038878",
+    "imdb": "tt10945232",
+    "tmdb": 783556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-18",
+  "runtime_minutes": 97
+}

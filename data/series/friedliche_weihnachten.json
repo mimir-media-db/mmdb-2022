@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_friedliche_weihnachten",
+  "title": "Friedliche Weihnachten",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114880245",
+    "imdb": "tt21606950",
+    "tmdb": 215561
+  },
+  "last_updated": "2026-08-17"
+}

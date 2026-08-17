@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peoples_joker_2022",
+  "title": "The People's Joker",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114054735",
+    "imdb": "tt21651430",
+    "tmdb": 808482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-13"
+}

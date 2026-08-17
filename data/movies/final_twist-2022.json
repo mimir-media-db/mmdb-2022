@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_twist_2022",
+  "title": "The Final Twist",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131561351",
+    "imdb": "tt17640534",
+    "tmdb": 934560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

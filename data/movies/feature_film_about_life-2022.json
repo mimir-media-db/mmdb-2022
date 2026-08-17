@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feature_film_about_life_2022",
+  "title": "A Feature Film About Life",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127034202",
+    "imdb": "tt15403134",
+    "tmdb": 884794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25",
+  "runtime_minutes": 100
+}

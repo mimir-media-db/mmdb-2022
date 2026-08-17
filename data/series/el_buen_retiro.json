@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_buen_retiro",
+  "title": "El buen retiro",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113951970",
+    "imdb": "tt22297234",
+    "tmdb": 211000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

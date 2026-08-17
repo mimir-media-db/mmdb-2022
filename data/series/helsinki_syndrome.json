@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_helsinki_syndrome",
+  "title": "Helsinki Syndrome",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113687315",
+    "imdb": "tt21960214",
+    "tmdb": 118307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

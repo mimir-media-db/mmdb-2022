@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gunima_reloaded_2022",
+  "title": "Gunima Reloaded",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115915402",
+    "imdb": "tt21627334"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

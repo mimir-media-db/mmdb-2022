@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sidney_2022",
+  "title": "Sidney",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113685676",
+    "imdb": "tt16977750",
+    "tmdb": 961722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

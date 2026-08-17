@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_4_2022",
+  "title": "The Big 4",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115714581",
+    "imdb": "tt15528292",
+    "tmdb": 683328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-15",
+  "runtime_minutes": 141
+}

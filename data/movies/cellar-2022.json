@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cellar_2022",
+  "title": "The Cellar",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111788631",
+    "imdb": "tt14550642",
+    "tmdb": 758724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

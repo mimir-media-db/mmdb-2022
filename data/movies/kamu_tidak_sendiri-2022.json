@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamu_tidak_sendiri_2022",
+  "title": "Kamu Tidak Sendiri",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109967276",
+    "imdb": "tt16311830",
+    "tmdb": 895627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25",
+  "runtime_minutes": 100
+}

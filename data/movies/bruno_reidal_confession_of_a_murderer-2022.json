@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruno_reidal_confession_of_a_murderer_2022",
+  "title": "Bruno Reidal, Confession of a Murderer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107515879",
+    "imdb": "tt10965850",
+    "tmdb": 583556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 101
+}

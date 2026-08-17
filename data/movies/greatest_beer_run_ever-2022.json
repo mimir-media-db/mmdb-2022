@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greatest_beer_run_ever_2022",
+  "title": "The Greatest Beer Run Ever",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108760444",
+    "imdb": "tt10268488",
+    "tmdb": 597922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 126
+}

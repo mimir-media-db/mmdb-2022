@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rachel_carson_la_mere_de_lecologie_2022",
+  "title": "Rachel Carson, la mère de l'écologie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126689368",
+    "imdb": "tt18364372",
+    "tmdb": 949798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-02",
+  "runtime_minutes": 54
+}

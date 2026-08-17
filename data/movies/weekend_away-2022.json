@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_away_2022",
+  "title": "The Weekend Away",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111133781",
+    "imdb": "tt14817272",
+    "tmdb": 840882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-03",
+  "runtime_minutes": 89
+}

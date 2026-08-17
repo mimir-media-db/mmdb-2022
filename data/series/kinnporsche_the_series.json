@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kinnporsche_the_series",
+  "title": "KinnPorsche The Series",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111136999",
+    "imdb": "tt19370256",
+    "tmdb": 117067
+  },
+  "last_updated": "2026-08-17"
+}

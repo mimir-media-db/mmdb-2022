@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bghit_hyatek",
+  "title": "Bghit Hyatek",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116046519",
+    "imdb": "tt24786320",
+    "tmdb": 217796
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

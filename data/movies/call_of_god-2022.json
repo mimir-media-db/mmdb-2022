@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_of_god_2022",
+  "title": "Call of God",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116623792",
+    "imdb": "tt5919910",
+    "tmdb": 1004668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

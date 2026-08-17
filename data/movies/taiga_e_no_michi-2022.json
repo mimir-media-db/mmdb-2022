@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taiga_e_no_michi_2022",
+  "title": "Taiga e no Michi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109512256",
+    "imdb": "tt20563504",
+    "tmdb": 1015576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-20",
+  "runtime_minutes": 112
+}

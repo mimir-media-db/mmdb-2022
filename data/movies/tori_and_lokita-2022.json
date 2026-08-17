@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tori_and_lokita_2022",
+  "title": "Tori and Lokita",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111604135",
+    "imdb": "tt18317064",
+    "tmdb": 914203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 68
+}

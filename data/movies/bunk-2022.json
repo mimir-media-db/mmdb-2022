@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunk_2022",
+  "title": "Bunk",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138568005",
+    "imdb": "tt22529878",
+    "tmdb": 1113858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07",
+  "runtime_minutes": 21
+}

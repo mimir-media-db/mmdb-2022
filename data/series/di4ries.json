@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_di4ries",
+  "title": "DI4RIES",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112770023",
+    "imdb": "tt20449034",
+    "tmdb": 202306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

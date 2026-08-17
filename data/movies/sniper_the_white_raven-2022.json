@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sniper_the_white_raven_2022",
+  "title": "Sniper: The White Raven",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111646455",
+    "imdb": "tt19465630",
+    "tmdb": 966220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-01",
+  "runtime_minutes": 111
+}

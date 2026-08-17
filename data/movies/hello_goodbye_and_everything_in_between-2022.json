@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_goodbye_and_everything_in_between_2022",
+  "title": "Hello, Goodbye, and Everything In Between",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104865038",
+    "imdb": "tt4181158",
+    "tmdb": 745376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-06",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_of_dakota_moore_2022",
+  "title": "The Case of: Dakota Moore",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112228325",
+    "imdb": "tt11208072",
+    "tmdb": 980411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-01",
+  "runtime_minutes": 80
+}

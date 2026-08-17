@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ledge_2022",
+  "title": "The Ledge",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124023278",
+    "imdb": "tt6805938",
+    "tmdb": 924482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

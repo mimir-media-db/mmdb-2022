@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_afterparty",
+  "title": "The Afterparty",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q104845082",
+    "imdb": "tt12614214",
+    "tmdb": 106454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

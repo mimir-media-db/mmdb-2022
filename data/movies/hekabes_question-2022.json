@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hekabes_question_2022",
+  "title": "Hekabe’s Question",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130469699",
+    "imdb": "tt23360914",
+    "tmdb": 963052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-17",
+  "runtime_minutes": 70
+}

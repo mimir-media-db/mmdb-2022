@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_laid_plans_2022",
+  "title": "Worst Laid Plans",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115148516",
+    "imdb": "tt23119206",
+    "tmdb": 1042179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-03",
+  "runtime_minutes": 77
+}

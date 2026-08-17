@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_future_is_a_lonely_place_2022",
+  "title": "Future Is a Lonely Place",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121270308",
+    "imdb": "tt11905944",
+    "tmdb": 840428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-18"
+}

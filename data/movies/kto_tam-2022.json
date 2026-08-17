@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kto_tam_2022",
+  "title": "Kto tam?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113554516",
+    "imdb": "tt21040176",
+    "tmdb": 986718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 80
+}

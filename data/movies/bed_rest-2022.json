@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bed_rest_2022",
+  "title": "Bed Rest",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110876778",
+    "imdb": "tt4896168",
+    "tmdb": 917007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

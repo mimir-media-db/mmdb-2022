@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_in_red_dress_2022",
+  "title": "Woman in Red Dress",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083549",
+    "imdb": "tt11710112",
+    "tmdb": 733057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-03",
+  "runtime_minutes": 91
+}

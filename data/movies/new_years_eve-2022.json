@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_years_eve_2022",
+  "title": "New Year's Eve",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116035959",
+    "imdb": "tt21268790",
+    "tmdb": 1052918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-30",
+  "runtime_minutes": 142
+}

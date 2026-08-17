@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rainbow_2022",
+  "title": "Rainbow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107985423",
+    "imdb": "tt14722598",
+    "tmdb": 960170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23",
+  "runtime_minutes": 118
+}

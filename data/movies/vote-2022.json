@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vote_2022",
+  "title": "Vote!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110571514",
+    "imdb": "tt14182742",
+    "tmdb": 928115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_they_made_us_2022",
+  "title": "As They Made Us",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107348809",
+    "imdb": "tt10949028",
+    "tmdb": 644100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

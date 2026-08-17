@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_the_end_of_the_world_2022",
+  "title": "Finding the End of the World",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843158",
+    "imdb": "tt21343494",
+    "tmdb": 1056939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}

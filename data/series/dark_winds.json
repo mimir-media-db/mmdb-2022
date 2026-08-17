@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_winds",
+  "title": "Dark Winds",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108532534",
+    "imdb": "tt15017118",
+    "tmdb": 128904
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 28
+}

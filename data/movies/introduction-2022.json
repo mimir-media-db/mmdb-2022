@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_introduction_2022",
+  "title": "Introduction",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105443659",
+    "imdb": "tt14035108",
+    "tmdb": 795797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 65
+}

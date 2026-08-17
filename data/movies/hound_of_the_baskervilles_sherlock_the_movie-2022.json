@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hound_of_the_baskervilles_sherlock_the_movie_2022",
+  "title": "The Hound of the Baskervilles: Sherlock the Movie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110429067",
+    "imdb": "tt22814834",
+    "tmdb": 886024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17",
+  "runtime_minutes": 119
+}

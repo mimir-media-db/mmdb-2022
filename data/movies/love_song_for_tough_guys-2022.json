@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_song_for_tough_guys_2022",
+  "title": "Love Song for Tough Guys",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107136386",
+    "imdb": "tt10965976",
+    "tmdb": 785210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-02",
+  "runtime_minutes": 107
+}

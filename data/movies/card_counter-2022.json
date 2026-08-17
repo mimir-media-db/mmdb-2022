@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_card_counter_2022",
+  "title": "The Card Counter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85806717",
+    "imdb": "tt11196036",
+    "tmdb": 643532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-03",
+  "runtime_minutes": 112
+}

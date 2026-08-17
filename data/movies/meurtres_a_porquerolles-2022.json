@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meurtres_a_porquerolles_2022",
+  "title": "Meurtres à Porquerolles",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113840020",
+    "imdb": "tt13379824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-20",
+  "runtime_minutes": 28
+}

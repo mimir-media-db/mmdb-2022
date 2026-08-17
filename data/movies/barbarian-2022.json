@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbarian_2022",
+  "title": "Barbarian",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q38526439",
+    "imdb": "tt15791034",
+    "tmdb": 913290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09",
+  "runtime_minutes": 102
+}

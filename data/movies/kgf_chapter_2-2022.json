@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kgf_chapter_2_2022",
+  "title": "K.G.F: Chapter 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67200663",
+    "imdb": "tt10698680",
+    "tmdb": 587412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14",
+  "runtime_minutes": 168
+}

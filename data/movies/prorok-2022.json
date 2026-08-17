@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prorok_2022",
+  "title": "Prorok",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115168585",
+    "imdb": "tt15067832",
+    "tmdb": 1029622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-11",
+  "runtime_minutes": 120
+}

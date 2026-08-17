@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_appeal_2022",
+  "title": "Sex Appeal",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107302815",
+    "imdb": "tt11203022",
+    "tmdb": 803104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

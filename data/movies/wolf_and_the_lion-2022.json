@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_and_the_lion_2022",
+  "title": "The Wolf and the Lion",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108701958",
+    "imdb": "tt10945288",
+    "tmdb": 780382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 99
+}

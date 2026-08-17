@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_place_in_time_2022",
+  "title": "That Place in Time",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196725",
+    "imdb": "tt14639568",
+    "tmdb": 1030169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

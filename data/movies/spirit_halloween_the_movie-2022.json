@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_halloween_the_movie_2022",
+  "title": "Spirit Halloween: The Movie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113456684",
+    "imdb": "tt11426228",
+    "tmdb": 961427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 81
+}

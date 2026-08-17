@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lyle_lyle_crocodile_2022",
+  "title": "Lyle, Lyle, Crocodile",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108559256",
+    "imdb": "tt14668630",
+    "tmdb": 830784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07",
+  "runtime_minutes": 106
+}

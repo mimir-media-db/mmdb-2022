@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_devils_2022",
+  "title": "The Five Devils",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107093418",
+    "imdb": "tt13391708",
+    "tmdb": 820697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-23",
+  "runtime_minutes": 96
+}

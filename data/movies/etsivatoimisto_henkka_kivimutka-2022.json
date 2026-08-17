@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etsivatoimisto_henkka_kivimutka_2022",
+  "title": "Etsivätoimisto Henkka & Kivimutka",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110323754",
+    "imdb": "tt16868298",
+    "tmdb": 881629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01",
+  "runtime_minutes": 97
+}

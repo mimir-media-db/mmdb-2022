@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_linna",
+  "title": "Linna",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110786505",
+    "imdb": "tt18070432",
+    "tmdb": 158398
+  },
+  "last_updated": "2026-08-17"
+}

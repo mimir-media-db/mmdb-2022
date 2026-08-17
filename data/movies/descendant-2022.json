@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_descendant_2022",
+  "title": "Descendant",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115819845",
+    "imdb": "tt16376494",
+    "tmdb": 913822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

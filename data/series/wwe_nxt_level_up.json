@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_nxt_level_up",
+  "title": "WWE NXT Level Up",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110977099",
+    "imdb": "tt18259734",
+    "tmdb": 157756
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

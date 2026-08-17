@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madea_homecoming_2022",
+  "title": "A Madea Homecoming",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110714865",
+    "imdb": "tt14813966",
+    "tmdb": 845404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

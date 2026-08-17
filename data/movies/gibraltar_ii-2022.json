@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gibraltar_ii_2022",
+  "title": "Gibraltar II",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643514",
+    "imdb": "tt15657016"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

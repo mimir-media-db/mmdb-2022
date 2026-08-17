@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lyubovniki_2022",
+  "title": "Lyubovniki",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112234327",
+    "imdb": "tt22642740",
+    "tmdb": 650233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 98
+}

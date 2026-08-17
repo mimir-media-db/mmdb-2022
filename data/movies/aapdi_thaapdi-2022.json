@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aapdi_thaapdi_2022",
+  "title": "Aapdi Thaapdi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115857890",
+    "imdb": "tt21230862",
+    "tmdb": 1049611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-05"
+}

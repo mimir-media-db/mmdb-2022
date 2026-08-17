@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_socios_por_accidente_2022",
+  "title": "Socios por accidente",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135004660",
+    "imdb": "tt28782096",
+    "tmdb": 1032410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

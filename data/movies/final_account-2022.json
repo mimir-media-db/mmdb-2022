@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_account_2022",
+  "title": "Final Account",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104853013",
+    "imdb": "tt12789212",
+    "tmdb": 728125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_stargirl_2022",
+  "title": "Hollywood Stargirl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107121729",
+    "imdb": "tt14109994",
+    "tmdb": 799883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-03"
+}

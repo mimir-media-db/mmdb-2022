@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blacklight_2022",
+  "title": "Blacklight",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104889029",
+    "imdb": "tt14060094",
+    "tmdb": 823625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 104
+}

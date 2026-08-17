@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_soul_summer_2022",
+  "title": "My Soul Summer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114421768",
+    "imdb": "tt14619078",
+    "tmdb": 879753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-16"
+}

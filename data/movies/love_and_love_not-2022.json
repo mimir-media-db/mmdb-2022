@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_and_love_not_2022",
+  "title": "Love and Love Not",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719374",
+    "imdb": "tt13477638",
+    "tmdb": 862431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solitude_of_the_tormentors_2022",
+  "title": "Solitude of the Tormentors",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113536425",
+    "imdb": "tt21087120",
+    "tmdb": 996409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 63
+}

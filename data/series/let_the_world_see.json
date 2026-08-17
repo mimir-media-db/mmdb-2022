@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_let_the_world_see",
+  "title": "Let The World See",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110264087",
+    "imdb": "tt16303820",
+    "tmdb": 154481
+  },
+  "last_updated": "2026-08-17"
+}

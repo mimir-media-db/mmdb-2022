@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_country_love_2022",
+  "title": "Country Love",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130461183",
+    "imdb": "tt23475736",
+    "tmdb": 1006480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 45
+}

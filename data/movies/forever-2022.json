@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_2022",
+  "title": "Forever",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141866",
+    "imdb": "tt13973198",
+    "tmdb": 964308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 111
+}

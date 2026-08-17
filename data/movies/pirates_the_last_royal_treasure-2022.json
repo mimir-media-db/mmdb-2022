@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_the_last_royal_treasure_2022",
+  "title": "The Pirates: The Last Royal Treasure",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97338678",
+    "imdb": "tt17491040",
+    "tmdb": 591120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-26",
+  "runtime_minutes": 126
+}

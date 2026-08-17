@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prey_2022",
+  "title": "Prey",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108329738",
+    "imdb": "tt11866324",
+    "tmdb": 766507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-21",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_ziko_2022",
+  "title": "For Ziko",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110770536",
+    "imdb": "tt15613538",
+    "tmdb": 911622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-05"
+}

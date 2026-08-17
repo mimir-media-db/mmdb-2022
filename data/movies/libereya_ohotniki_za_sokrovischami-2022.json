@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_libereya_ohotniki_za_sokrovischami_2022",
+  "title": "Libereya: Ohotniki za sokrovischami",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113355063",
+    "imdb": "tt21160106",
+    "tmdb": 732684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-22",
+  "runtime_minutes": 105
+}

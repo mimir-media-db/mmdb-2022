@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2045_is_there_love_2022",
+  "title": "2045 Is There Love?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134082647",
+    "imdb": "tt23557502",
+    "tmdb": 1042144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01",
+  "runtime_minutes": 98
+}

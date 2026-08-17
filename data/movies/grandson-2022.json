@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandson_2022",
+  "title": "The Grandson",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109421691",
+    "imdb": "tt13921588",
+    "tmdb": 788922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-06"
+}

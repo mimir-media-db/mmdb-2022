@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sentimos_las_molestias",
+  "title": "Sentimos las molestias",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110271172",
+    "imdb": "tt14369598",
+    "tmdb": 128613
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

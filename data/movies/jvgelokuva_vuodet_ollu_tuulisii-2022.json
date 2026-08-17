@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jvgelokuva_vuodet_ollu_tuulisii_2022",
+  "title": "JVG-elokuva: Vuodet ollu tuulisii",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97576009",
+    "imdb": "tt18938910",
+    "tmdb": 914019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-25"
+}

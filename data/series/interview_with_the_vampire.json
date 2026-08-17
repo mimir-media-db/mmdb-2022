@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_interview_with_the_vampire",
+  "title": "Interview with the Vampire",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109242187",
+    "imdb": "tt3960394",
+    "tmdb": 128098
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

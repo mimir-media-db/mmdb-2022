@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ira_de_dios_2022",
+  "title": "La ira de Dios",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112670466",
+    "imdb": "tt15189534",
+    "tmdb": 880313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-15",
+  "runtime_minutes": 98
+}

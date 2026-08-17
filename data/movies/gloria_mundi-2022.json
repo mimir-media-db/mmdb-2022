@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gloria_mundi_2022",
+  "title": "Gloria Mundi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67146474",
+    "imdb": "tt9584814",
+    "tmdb": 572521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sicilia_sense_morts",
+  "title": "Sicília sense morts",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108816930",
+    "imdb": "tt15561944",
+    "tmdb": 218669
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

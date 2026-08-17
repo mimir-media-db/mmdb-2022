@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunteress_2022",
+  "title": "The Hunteress",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117743093",
+    "imdb": "tt16233476",
+    "tmdb": 1076605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-01"
+}

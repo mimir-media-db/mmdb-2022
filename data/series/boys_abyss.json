@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boys_abyss",
+  "title": "Boy's Abyss",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q138908920",
+    "imdb": "tt22185218",
+    "tmdb": 206958
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

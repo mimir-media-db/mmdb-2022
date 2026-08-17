@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_red_riding_hood_2022",
+  "title": "Little Red Riding Hood",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113354938",
+    "imdb": "tt19843354",
+    "tmdb": 967561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-22"
+}

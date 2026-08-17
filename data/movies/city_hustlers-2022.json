@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_hustlers_2022",
+  "title": "City Hustlers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111664150",
+    "imdb": "tt18414044"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-18",
+  "runtime_minutes": 120
+}

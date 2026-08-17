@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witness_theater_2022",
+  "title": "Witness Theater",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643525",
+    "imdb": "tt9017986",
+    "tmdb": 648354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

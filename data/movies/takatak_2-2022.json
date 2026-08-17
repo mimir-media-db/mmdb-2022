@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_takatak_2_2022",
+  "title": "Takatak 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113552321",
+    "imdb": "tt21093606",
+    "tmdb": 1189561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-18"
+}

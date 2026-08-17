@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_came_by_2022",
+  "title": "I Came By",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113670169",
+    "imdb": "tt15083184",
+    "tmdb": 852448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-31"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_club",
+  "title": "The Midnight Club",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105304384",
+    "imdb": "tt13444912",
+    "tmdb": 126254
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

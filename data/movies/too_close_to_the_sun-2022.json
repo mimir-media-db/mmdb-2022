@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_close_to_the_sun_2022",
+  "title": "Too Close to the Sun",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114752722",
+    "imdb": "tt6827878",
+    "tmdb": 927944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

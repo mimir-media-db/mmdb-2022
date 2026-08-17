@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimate_weapon_alice",
+  "title": "Ultimate Weapon Alice",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112903230",
+    "imdb": "tt21031538",
+    "tmdb": 135896
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sher_bagga_2022",
+  "title": "Sher Bagga",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112578082",
+    "imdb": "tt15444506",
+    "tmdb": 981189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-24"
+}

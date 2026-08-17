@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_puzhu_2022",
+  "title": "Puzhu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110094895",
+    "imdb": "tt14195192",
+    "tmdb": 803626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-13",
+  "runtime_minutes": 115
+}

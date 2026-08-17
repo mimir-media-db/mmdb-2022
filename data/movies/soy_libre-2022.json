@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soy_libre_2022",
+  "title": "Soy libre",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112863485",
+    "imdb": "tt14266422",
+    "tmdb": 838897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 79
+}

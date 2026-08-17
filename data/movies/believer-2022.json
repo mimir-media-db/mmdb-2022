@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_believer_2022",
+  "title": "Believer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51748848",
+    "imdb": "tt7095654",
+    "tmdb": 518963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-24",
+  "runtime_minutes": 123
+}

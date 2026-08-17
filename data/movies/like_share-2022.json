@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_share_2022",
+  "title": "Like & Share",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120260819",
+    "imdb": "tt21047870",
+    "tmdb": 987419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-27",
+  "runtime_minutes": 112
+}

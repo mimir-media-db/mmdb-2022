@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_school",
+  "title": "High School",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114679794",
+    "imdb": "tt13314510",
+    "tmdb": 208061
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

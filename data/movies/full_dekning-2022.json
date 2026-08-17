@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_dekning_2022",
+  "title": "Full Dekning",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111225874",
+    "imdb": "tt14942362",
+    "tmdb": 926245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-25",
+  "runtime_minutes": 100
+}

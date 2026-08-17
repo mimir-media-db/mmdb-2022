@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stay_with_us_2022",
+  "title": "Stay With Us",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115172183",
+    "imdb": "tt21956982",
+    "tmdb": 998783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

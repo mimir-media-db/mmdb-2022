@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_girl_2022",
+  "title": "The Invisible Girl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116762505",
+    "imdb": "tt11821430",
+    "tmdb": 939518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_save_the_cinema_2022",
+  "title": "Save The Cinema",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105637635",
+    "imdb": "tt12048234",
+    "tmdb": 790386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14",
+  "runtime_minutes": 109
+}

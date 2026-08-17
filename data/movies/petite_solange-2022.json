@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petite_solange_2022",
+  "title": "Petite Solange",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108003834",
+    "imdb": "tt10376800",
+    "tmdb": 749107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blockbuster",
+  "title": "Blockbuster",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111951047",
+    "imdb": "tt16124614",
+    "tmdb": 201874
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

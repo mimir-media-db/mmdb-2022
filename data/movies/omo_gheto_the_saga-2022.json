@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_omo_gheto_the_saga_2022",
+  "title": "Omo Gheto (The Saga)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111664225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-25",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simple_passion_2022",
+  "title": "Simple Passion",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86842943",
+    "imdb": "tt10023172",
+    "tmdb": 526811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21",
+  "runtime_minutes": 96
+}

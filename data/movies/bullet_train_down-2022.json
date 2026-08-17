@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bullet_train_down_2022",
+  "title": "Bullet Train Down",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187307",
+    "imdb": "tt16605106",
+    "tmdb": 1006540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 86
+}

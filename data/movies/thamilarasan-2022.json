@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thamilarasan_2022",
+  "title": "Thamilarasan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65120469",
+    "imdb": "tt11531710",
+    "tmdb": 587471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

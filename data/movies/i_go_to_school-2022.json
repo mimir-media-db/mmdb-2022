@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_go_to_school_2022",
+  "title": "I go to school",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136558784",
+    "imdb": "tt38350671",
+    "tmdb": 1164339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10"
+}

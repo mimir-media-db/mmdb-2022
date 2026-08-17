@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finalmente_libera_2022",
+  "title": "Finalmente libera",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115439846",
+    "imdb": "tt15828554",
+    "tmdb": 953049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-15"
+}

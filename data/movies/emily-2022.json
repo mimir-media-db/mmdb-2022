@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emily_2022",
+  "title": "Emily",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106725858",
+    "imdb": "tt12374656",
+    "tmdb": 707103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 130
+}

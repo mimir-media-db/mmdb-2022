@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_lottaleben_alles_tschaka_mit_alpaka_2022",
+  "title": "Mein Lotta-Leben: Alles Tschaka mit Alpaka!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114648090",
+    "imdb": "tt13819256",
+    "tmdb": 915896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 95
+}

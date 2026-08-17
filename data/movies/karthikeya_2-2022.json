@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karthikeya_2_2022",
+  "title": "Karthikeya 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108816194",
+    "imdb": "tt13664684",
+    "tmdb": 894762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

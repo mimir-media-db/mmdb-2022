@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bigman_2022",
+  "title": "Bigman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113368016",
+    "imdb": "tt15787114",
+    "tmdb": 996936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u_samogo_belogo_morya_2022",
+  "title": "U Samogo Belogo Morya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116053270",
+    "imdb": "tt22072954",
+    "tmdb": 772748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_anna",
+  "title": "Anna",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111415144",
+    "imdb": "tt21146902",
+    "tmdb": 196268
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

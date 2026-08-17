@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_beast_2022",
+  "title": "The Sleeping Beast",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109822301",
+    "imdb": "tt11898996",
+    "tmdb": 860714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 100
+}

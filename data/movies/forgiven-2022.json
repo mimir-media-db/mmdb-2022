@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forgiven_2022",
+  "title": "The Forgiven",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85807206",
+    "imdb": "tt3696180",
+    "tmdb": 522927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-01"
+}

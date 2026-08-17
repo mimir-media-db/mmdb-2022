@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_birds_go_to_die_2022",
+  "title": "Where Birds Go To Die",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843137",
+    "imdb": "tt15515450",
+    "tmdb": 1083410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

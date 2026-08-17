@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_superior_2022",
+  "title": "Mother Superior",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125434649",
+    "imdb": "tt22263540",
+    "tmdb": 1019963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29"
+}

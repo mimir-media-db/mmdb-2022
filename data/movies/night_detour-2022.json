@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_detour_2022",
+  "title": "Night Detour",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114331550",
+    "imdb": "tt21159346",
+    "tmdb": 998438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 96
+}

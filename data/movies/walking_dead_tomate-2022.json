@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_dead_tomate_2022",
+  "title": "Walking Dead - Tomate",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083826",
+    "imdb": "tt11929078",
+    "tmdb": 674503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14"
+}

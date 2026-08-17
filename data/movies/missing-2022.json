@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_missing_2022",
+  "title": "Missing",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112654935",
+    "imdb": "tt15482370",
+    "tmdb": 874476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-21",
+  "runtime_minutes": 124
+}

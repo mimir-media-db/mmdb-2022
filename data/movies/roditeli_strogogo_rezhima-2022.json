@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roditeli_strogogo_rezhima_2022",
+  "title": "Roditeli strogogo rezhima",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111530479",
+    "imdb": "tt19465804",
+    "tmdb": 945442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14",
+  "runtime_minutes": 79
+}

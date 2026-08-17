@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gajab_thai_gayo_2022",
+  "title": "Gajab Thai Gayo!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111516577",
+    "imdb": "tt18561466",
+    "tmdb": 961808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07",
+  "runtime_minutes": 131
+}

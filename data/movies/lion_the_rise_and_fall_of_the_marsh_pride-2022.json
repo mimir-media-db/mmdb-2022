@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_the_rise_and_fall_of_the_marsh_pride_2022",
+  "title": "Lion: The Rise and Fall of the Marsh Pride",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135639333",
+    "imdb": "tt30024970",
+    "tmdb": 1017695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-23",
+  "runtime_minutes": 90
+}

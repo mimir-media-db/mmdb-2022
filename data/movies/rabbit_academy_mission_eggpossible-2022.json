@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabbit_academy_mission_eggpossible_2022",
+  "title": "Rabbit Academy: Mission Eggpossible",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111285645",
+    "imdb": "tt12631784",
+    "tmdb": 888322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 76
+}

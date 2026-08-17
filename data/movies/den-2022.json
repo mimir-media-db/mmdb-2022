@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_den_2022",
+  "title": "The Den",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112169068",
+    "imdb": "tt14915618",
+    "tmdb": 854542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

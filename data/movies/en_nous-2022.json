@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_nous_2022",
+  "title": "En nous",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111208813",
+    "imdb": "tt16239932",
+    "tmdb": 873880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 99
+}

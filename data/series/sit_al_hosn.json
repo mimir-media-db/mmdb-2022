@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sit_al_hosn",
+  "title": "Sit Al Hosn",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113497872",
+    "imdb": "tt21917132",
+    "tmdb": 206529
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

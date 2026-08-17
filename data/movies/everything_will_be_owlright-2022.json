@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_will_be_owlright_2022",
+  "title": "Everything Will Be Owlright!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113375533",
+    "imdb": "tt22644272",
+    "tmdb": 963670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

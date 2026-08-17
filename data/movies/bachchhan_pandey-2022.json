@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bachchhan_pandey_2022",
+  "title": "Bachchhan Pandey",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97359846",
+    "imdb": "tt10699086",
+    "tmdb": 715765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-18",
+  "runtime_minutes": 146
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hors_saison",
+  "title": "Hors Saison",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112705351",
+    "imdb": "tt15479692",
+    "tmdb": 195661
+  },
+  "last_updated": "2026-08-17"
+}

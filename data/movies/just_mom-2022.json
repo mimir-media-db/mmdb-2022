@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_mom_2022",
+  "title": "Just Mom",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109681699",
+    "imdb": "tt16220298",
+    "tmdb": 899297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-27",
+  "runtime_minutes": 88
+}

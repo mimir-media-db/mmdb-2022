@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_61st_street",
+  "title": "61st Street",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108293413",
+    "imdb": "tt9810248",
+    "tmdb": 98657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

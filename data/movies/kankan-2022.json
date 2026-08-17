@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kankan_2022",
+  "title": "Kankan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116864872",
+    "imdb": "tt17498068",
+    "tmdb": 1328818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-24",
+  "runtime_minutes": 110
+}

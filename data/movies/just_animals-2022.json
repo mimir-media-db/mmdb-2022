@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_animals_2022",
+  "title": "Just Animals",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802943",
+    "imdb": "tt17037910",
+    "tmdb": 921087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-04",
+  "runtime_minutes": 80
+}

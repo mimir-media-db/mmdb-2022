@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_the_mole_the_fox_and_the_horse_2022",
+  "title": "The Boy, the Mole, the Fox and the Horse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116056737",
+    "imdb": "tt22667880",
+    "tmdb": 995133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

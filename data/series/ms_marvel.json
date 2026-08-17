@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ms_marvel",
+  "title": "Ms. Marvel",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q84712813",
+    "imdb": "tt10857164",
+    "tmdb": 92782
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

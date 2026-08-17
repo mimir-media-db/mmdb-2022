@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hill_where_lionesses_roar_2022",
+  "title": "The Hill Where Lionesses Roar",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108084195",
+    "imdb": "tt11379572",
+    "tmdb": 820705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-27",
+  "runtime_minutes": 83
+}

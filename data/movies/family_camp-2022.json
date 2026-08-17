@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_camp_2022",
+  "title": "Family Camp",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112120049",
+    "imdb": "tt11535358",
+    "tmdb": 846528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-13"
+}

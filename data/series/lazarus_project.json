@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lazarus_project",
+  "title": "The Lazarus Project",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106993511",
+    "imdb": "tt14190592",
+    "tmdb": 194567
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

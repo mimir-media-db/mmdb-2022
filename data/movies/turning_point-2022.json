@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turning_point_2022",
+  "title": "The Turning Point",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111720963",
+    "imdb": "tt14140844",
+    "tmdb": 828588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-20",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lifes_good_2022",
+  "title": "Life's Good",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6544526",
+    "imdb": "tt2188801",
+    "tmdb": 1060450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09"
+}

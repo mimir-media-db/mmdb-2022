@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_48_hours_for_indah_2022",
+  "title": "48 Hours for Indah",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133444738",
+    "tmdb": 1024680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15"
+}

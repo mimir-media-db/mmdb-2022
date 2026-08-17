@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gypsy_bride",
+  "title": "The Gypsy Bride",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111962777",
+    "imdb": "tt13377972",
+    "tmdb": 128020
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

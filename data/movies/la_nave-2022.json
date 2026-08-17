@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nave_2022",
+  "title": "La nave",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843166",
+    "imdb": "tt10466302",
+    "tmdb": 638960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lange_leve_bonusfamiljen_2022",
+  "title": "Länge leve bonusfamiljen",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114052472",
+    "imdb": "tt15742294",
+    "tmdb": 1033755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02",
+  "runtime_minutes": 107
+}

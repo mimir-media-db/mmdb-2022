@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sissy_2022",
+  "title": "Sissy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116621412",
+    "imdb": "tt9602472",
+    "tmdb": 934207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

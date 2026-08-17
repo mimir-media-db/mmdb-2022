@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elesin_oba_the_kings_horseman_2022",
+  "title": "Elesin Oba, The King's Horseman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113540762",
+    "imdb": "tt15374214",
+    "tmdb": 1005774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09",
+  "runtime_minutes": 96
+}

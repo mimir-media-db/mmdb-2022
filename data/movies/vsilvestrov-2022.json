@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vsilvestrov_2022",
+  "title": "V.Silvestrov",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97188726",
+    "imdb": "tt11854142",
+    "tmdb": 758955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29",
+  "runtime_minutes": 143
+}

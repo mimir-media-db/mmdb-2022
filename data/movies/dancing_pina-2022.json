@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_pina_2022",
+  "title": "Dancing Pina",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113485273",
+    "imdb": "tt21942250",
+    "tmdb": 977731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06",
+  "runtime_minutes": 151
+}

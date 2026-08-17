@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_balthazars_law",
+  "title": "Balthazar's Law",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111710078",
+    "imdb": "tt20854304",
+    "tmdb": 203331
+  },
+  "last_updated": "2026-08-17"
+}

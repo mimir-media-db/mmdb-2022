@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fly_high_butterfly",
+  "title": "Fly High Butterfly",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q97211011",
+    "imdb": "tt14169862",
+    "tmdb": 130103
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

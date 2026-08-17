@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kongsi_raya_2022",
+  "title": "Kongsi Raya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110797162",
+    "imdb": "tt16806990",
+    "tmdb": 931231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-03",
+  "runtime_minutes": 102
+}

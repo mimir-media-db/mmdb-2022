@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cabo",
+  "title": "Cabo",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114227371",
+    "imdb": "tt21239248",
+    "tmdb": 213049
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 85
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_que_dicen_los_famosos",
+  "title": "¿Qué dicen los famosos?",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115978995"
+  },
+  "last_updated": "2026-08-17"
+}

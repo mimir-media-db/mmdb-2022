@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stewart_2022",
+  "title": "Stewart",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719308",
+    "imdb": "tt19352636",
+    "tmdb": 1049278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

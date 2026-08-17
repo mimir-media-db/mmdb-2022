@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_days_in_the_desert_2022",
+  "title": "Last Days in the Desert",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252340",
+    "imdb": "tt3513054",
+    "tmdb": 310119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-17",
+  "runtime_minutes": 98
+}

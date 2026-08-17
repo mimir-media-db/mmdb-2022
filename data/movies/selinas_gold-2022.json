@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_selinas_gold_2022",
+  "title": "Selina's Gold",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133502480",
+    "imdb": "tt23118976",
+    "tmdb": 1029446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

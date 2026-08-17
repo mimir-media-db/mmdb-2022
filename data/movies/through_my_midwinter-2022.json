@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_my_midwinter_2022",
+  "title": "Through My Midwinter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115490012",
+    "imdb": "tt15689768",
+    "tmdb": 877429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-30",
+  "runtime_minutes": 100
+}

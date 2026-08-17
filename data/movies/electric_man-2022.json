@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_electric_man_2022",
+  "title": "The Electric Man",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122983968",
+    "imdb": "tt12973010",
+    "tmdb": 926380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisu_2022",
+  "title": "Sisu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803528",
+    "imdb": "tt14846026",
+    "tmdb": 840326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_at_lake_changjin_2022",
+  "title": "The Battle at Lake Changjin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107273994",
+    "imdb": "tt13462900",
+    "tmdb": 779029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-28",
+  "runtime_minutes": 176
+}

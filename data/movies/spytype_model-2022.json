@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spytype_model_2022",
+  "title": "Spy-type Model",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432251",
+    "imdb": "tt21211168",
+    "tmdb": 995564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-20"
+}

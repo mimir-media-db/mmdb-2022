@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_man_the_international_male_story_2022",
+  "title": "All Man: The International Male Story",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118521915",
+    "imdb": "tt19797072",
+    "tmdb": 965145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chant_de_la_nuit_2022",
+  "title": "Le chant de la nuit",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114669038",
+    "imdb": "tt22489424",
+    "tmdb": 997171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-18"
+}

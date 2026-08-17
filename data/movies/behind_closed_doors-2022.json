@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_closed_doors_2022",
+  "title": "Behind Closed Doors",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111280477",
+    "imdb": "tt18292144",
+    "tmdb": 941727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24",
+  "runtime_minutes": 99
+}

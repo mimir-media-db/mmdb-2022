@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_cornwall_2022",
+  "title": "Son of Cornwall",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110609815",
+    "imdb": "tt12864268",
+    "tmdb": 826406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-14",
+  "runtime_minutes": 87
+}

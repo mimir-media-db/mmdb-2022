@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mar_do_sertao",
+  "title": "Mar do Sertão",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112716935",
+    "imdb": "tt21359746",
+    "tmdb": 204095
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 178
+}

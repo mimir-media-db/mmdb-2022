@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amigas_en_un_camino_de_campo_2022",
+  "title": "Amigas en un camino de campo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115314008",
+    "imdb": "tt21922404",
+    "tmdb": 1017386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 77
+}

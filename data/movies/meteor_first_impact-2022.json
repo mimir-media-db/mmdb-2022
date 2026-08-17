@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meteor_first_impact_2022",
+  "title": "Meteor: First Impact",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125989435",
+    "imdb": "tt19034784",
+    "tmdb": 1077596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-30"
+}

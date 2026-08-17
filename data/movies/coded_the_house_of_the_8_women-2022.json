@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coded_the_house_of_the_8_women_2022",
+  "title": "CODE-D: The House of the 8 Women",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333204",
+    "imdb": "tt21294684"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-05",
+  "runtime_minutes": 104
+}

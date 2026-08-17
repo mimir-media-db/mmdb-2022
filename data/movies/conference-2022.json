@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conference_2022",
+  "title": "Conference",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101049682",
+    "imdb": "tt11258824",
+    "tmdb": 603258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-12",
+  "runtime_minutes": 129
+}

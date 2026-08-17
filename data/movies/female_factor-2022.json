@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_female_factor_2022",
+  "title": "Female Factor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113589309",
+    "imdb": "tt21966020",
+    "tmdb": 768092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-20",
+  "runtime_minutes": 108
+}

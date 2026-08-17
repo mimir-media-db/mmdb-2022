@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_years_2022",
+  "title": "The Beautiful Years",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113332540",
+    "imdb": "tt13159840",
+    "tmdb": 889021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

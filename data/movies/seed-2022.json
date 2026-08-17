@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seed_2022",
+  "title": "The Seed",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105452066",
+    "imdb": "tt13892494",
+    "tmdb": 795889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-28",
+  "runtime_minutes": 100
+}

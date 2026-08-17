@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chimudondon",
+  "title": "Chimudondon",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107042005",
+    "imdb": "tt14180802",
+    "tmdb": 156120
+  },
+  "last_updated": "2026-08-17"
+}

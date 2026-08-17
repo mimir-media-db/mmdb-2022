@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_much_for_the_job_2022",
+  "title": "Two Much for the Job",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113380675",
+    "imdb": "tt17049058",
+    "tmdb": 846969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-19",
+  "runtime_minutes": 100
+}

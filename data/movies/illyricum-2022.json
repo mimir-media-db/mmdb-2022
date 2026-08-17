@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_illyricum_2022",
+  "title": "Illyricum",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113324672",
+    "imdb": "tt21097982",
+    "tmdb": 1003448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

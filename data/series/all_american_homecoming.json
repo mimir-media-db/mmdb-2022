@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_american_homecoming",
+  "title": "All American: Homecoming",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q110955254",
+    "imdb": "tt14088994",
+    "tmdb": 153723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 41
+}

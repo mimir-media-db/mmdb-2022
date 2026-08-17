@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothering_sunday_2022",
+  "title": "Mothering Sunday",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100249839",
+    "imdb": "tt12229370",
+    "tmdb": 718838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24",
+  "runtime_minutes": 104
+}

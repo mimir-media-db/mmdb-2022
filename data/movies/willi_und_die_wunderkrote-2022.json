@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willi_und_die_wunderkrote_2022",
+  "title": "Willi und die Wunderkröte",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110875056",
+    "imdb": "tt15440862",
+    "tmdb": 915631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-12",
+  "runtime_minutes": 90
+}

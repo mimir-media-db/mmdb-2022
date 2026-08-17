@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lair_2022",
+  "title": "The Lair",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118903289",
+    "imdb": "tt13468602",
+    "tmdb": 760204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 97
+}

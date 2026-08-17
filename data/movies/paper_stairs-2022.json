@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paper_stairs_2022",
+  "title": "Paper Stairs",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112324866",
+    "imdb": "tt19853388",
+    "tmdb": 986357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-26",
+  "runtime_minutes": 15
+}

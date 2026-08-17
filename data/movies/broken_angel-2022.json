@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_angel_2022",
+  "title": "Broken Angel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115479593",
+    "imdb": "tt21234230",
+    "tmdb": 1090803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_name_of_gerry_conlon_2022",
+  "title": "In the Name of Gerry Conlon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118190606",
+    "imdb": "tt21157344",
+    "tmdb": 1110491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-06",
+  "runtime_minutes": 83
+}

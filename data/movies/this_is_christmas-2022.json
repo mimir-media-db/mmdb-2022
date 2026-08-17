@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_christmas_2022",
+  "title": "This Is Christmas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115697087",
+    "imdb": "tt22302170",
+    "tmdb": 1029208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09"
+}

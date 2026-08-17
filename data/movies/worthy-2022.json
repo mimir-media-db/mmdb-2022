@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_worthy_2022",
+  "title": "Worthy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112784712",
+    "imdb": "tt20855776",
+    "tmdb": 984262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-01"
+}

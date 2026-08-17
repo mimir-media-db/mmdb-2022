@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caravaggios_shadow_2022",
+  "title": "Caravaggio's Shadow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108885257",
+    "imdb": "tt11877386",
+    "tmdb": 693349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}

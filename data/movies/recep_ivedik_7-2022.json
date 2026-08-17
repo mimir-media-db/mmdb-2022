@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_recep_ivedik_7_2022",
+  "title": "Recep İvedik 7",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115634487",
+    "imdb": "tt19759204",
+    "tmdb": 952062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09"
+}

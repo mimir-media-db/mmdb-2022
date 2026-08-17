@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shotcut_2022",
+  "title": "Shotcut",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114457931",
+    "imdb": "tt19990760",
+    "tmdb": 1133105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-02"
+}

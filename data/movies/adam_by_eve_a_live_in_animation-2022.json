@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adam_by_eve_a_live_in_animation_2022",
+  "title": "Adam by Eve: A Live in Animation",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111253585",
+    "imdb": "tt18274178",
+    "tmdb": 930821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-15",
+  "runtime_minutes": 58
+}

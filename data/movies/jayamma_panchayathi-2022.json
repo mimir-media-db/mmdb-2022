@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jayamma_panchayathi_2022",
+  "title": "Jayamma Panchayathi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112073561",
+    "imdb": "tt16393520",
+    "tmdb": 894749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06"
+}

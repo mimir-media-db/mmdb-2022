@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_years_of_lukas_graham_2022",
+  "title": "7 Years of Lukas Graham",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76450380",
+    "imdb": "tt13269558",
+    "tmdb": 734164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-28",
+  "runtime_minutes": 77
+}

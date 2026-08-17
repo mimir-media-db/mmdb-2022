@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_isparavlenye_and_nakazaniye",
+  "title": "Isparavlenye and Nakazaniye",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111360307",
+    "imdb": "tt18235300",
+    "tmdb": 154403
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_podviinyi_immelmann_2022",
+  "title": "Podviinyi immelmann",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573871",
+    "imdb": "tt28028567",
+    "tmdb": 1139080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-18",
+  "runtime_minutes": 90
+}

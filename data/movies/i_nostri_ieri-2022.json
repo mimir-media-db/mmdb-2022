@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_nostri_ieri_2022",
+  "title": "I nostri ieri",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116741089",
+    "imdb": "tt15213720",
+    "tmdb": 1040259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-23"
+}

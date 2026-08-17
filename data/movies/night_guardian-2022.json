@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_guardian_2022",
+  "title": "The Night Guardian",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111182317",
+    "imdb": "tt18228180",
+    "tmdb": 933239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

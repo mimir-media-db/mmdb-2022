@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blockade_2022",
+  "title": "Blockade",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113884902",
+    "imdb": "tt21264924",
+    "tmdb": 999138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-20",
+  "runtime_minutes": 90
+}

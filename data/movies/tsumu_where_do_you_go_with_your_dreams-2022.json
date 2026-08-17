@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsumu_where_do_you_go_with_your_dreams_2022",
+  "title": "TSUMU - Where Do You Go With Your Dreams?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311170",
+    "imdb": "tt19047742",
+    "tmdb": 949596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

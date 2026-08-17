@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_krystyna_2022",
+  "title": "Dear Krystyna",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643511",
+    "imdb": "tt11803712"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

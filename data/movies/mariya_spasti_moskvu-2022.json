@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mariya_spasti_moskvu_2022",
+  "title": "Mariya. Spasti Moskvu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109243672",
+    "imdb": "tt16152948",
+    "tmdb": 610349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 111
+}

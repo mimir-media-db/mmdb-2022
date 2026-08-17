@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_twelve",
+  "title": "The Twelve",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110029247",
+    "imdb": "tt13589004",
+    "tmdb": 202113
+  },
+  "last_updated": "2026-08-17"
+}

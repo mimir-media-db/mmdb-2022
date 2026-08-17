@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_media_crash_qui_a_tue_le_debat_public_2022",
+  "title": "Media Crash - Qui a tué le débat public?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110901333",
+    "imdb": "tt17526514",
+    "tmdb": 934368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-16",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robin_bank_2022",
+  "title": "Robin Bank",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111781506",
+    "imdb": "tt13498862",
+    "tmdb": 949006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-15",
+  "runtime_minutes": 80
+}

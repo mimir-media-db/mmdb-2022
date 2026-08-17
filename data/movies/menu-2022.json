@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_menu_2022",
+  "title": "The Menu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108444804",
+    "imdb": "tt9764362",
+    "tmdb": 593643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-10",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junk_space_berlin_2022",
+  "title": "Junk Space Berlin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123680612",
+    "imdb": "tt21974150",
+    "tmdb": 1016689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

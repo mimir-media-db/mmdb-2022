@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_johnny_2022",
+  "title": "Johnny",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117428966",
+    "imdb": "tt15538570",
+    "tmdb": 920220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 119
+}

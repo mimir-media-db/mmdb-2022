@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_egregor_2022",
+  "title": "Egregor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30887405",
+    "imdb": "tt2571464",
+    "tmdb": 458662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-18",
+  "runtime_minutes": 95
+}

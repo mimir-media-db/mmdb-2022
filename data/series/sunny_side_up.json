@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sunny_side_up",
+  "title": "Sunny Side Up",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q134313265",
+    "imdb": "tt22393540",
+    "tmdb": 279430
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 484
+}

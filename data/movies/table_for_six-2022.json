@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_table_for_six_2022",
+  "title": "Table for Six",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108003049",
+    "imdb": "tt21187542",
+    "tmdb": 851800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08"
+}

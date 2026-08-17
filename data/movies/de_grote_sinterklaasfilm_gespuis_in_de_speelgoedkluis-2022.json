@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_grote_sinterklaasfilm_gespuis_in_de_speelgoedkluis_2022",
+  "title": "De Grote Sinterklaasfilm: Gespuis in de Speelgoedkluis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111203654",
+    "imdb": "tt21626756",
+    "tmdb": 1027326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_water_2022",
+  "title": "Deep Water",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537513",
+    "imdb": "tt2180339",
+    "tmdb": 619979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-18",
+  "runtime_minutes": 115
+}

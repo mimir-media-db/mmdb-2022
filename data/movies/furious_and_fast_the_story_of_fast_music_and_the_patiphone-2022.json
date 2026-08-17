@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_furious_and_fast_the_story_of_fast_music_and_the_patiphone_2022",
+  "title": "Furious and Fast: The Story of Fast Music and the Patiphone",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121010234",
+    "imdb": "tt7167938",
+    "tmdb": 985445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-08",
+  "runtime_minutes": 115
+}

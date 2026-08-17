@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walden_2022",
+  "title": "Walden",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113472320",
+    "imdb": "tt5024672",
+    "tmdb": 718091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-07",
+  "runtime_minutes": 85
+}

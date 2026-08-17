@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taming_of_the_shrewd_2022",
+  "title": "The Taming of the Shrewd",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111685000",
+    "imdb": "tt18970380",
+    "tmdb": 953233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-13",
+  "runtime_minutes": 112
+}

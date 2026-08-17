@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_temporada_baja_2022",
+  "title": "En temporada baja",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115155089",
+    "imdb": "tt15477794",
+    "tmdb": 1025962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

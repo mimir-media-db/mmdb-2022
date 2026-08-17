@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_titanic_666_2022",
+  "title": "Titanic 666",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111700745",
+    "imdb": "tt18394428",
+    "tmdb": 945657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-15",
+  "runtime_minutes": 91
+}

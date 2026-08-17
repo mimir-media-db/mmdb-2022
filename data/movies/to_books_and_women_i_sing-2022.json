@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_books_and_women_i_sing_2022",
+  "title": "To Books and Women I Sing",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119981787",
+    "imdb": "tt22331232",
+    "tmdb": 911149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 72
+}

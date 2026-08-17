@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curral_de_moinas_the_peoples_bankers_2022",
+  "title": "Curral De Moinas - The People's Bankers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116690465",
+    "imdb": "tt15678782",
+    "tmdb": 1010961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

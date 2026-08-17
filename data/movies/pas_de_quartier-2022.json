@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pas_de_quartier_2022",
+  "title": "Pas... de quartier",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111792418",
+    "imdb": "tt18291508",
+    "tmdb": 947744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

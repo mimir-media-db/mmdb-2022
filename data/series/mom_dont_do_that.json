@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mom_dont_do_that",
+  "title": "Mom, Don't Do That!",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113126773",
+    "imdb": "tt21081098",
+    "tmdb": 135726
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

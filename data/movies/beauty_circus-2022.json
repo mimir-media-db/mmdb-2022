@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_circus_2022",
+  "title": "Beauty Circus",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87998531",
+    "imdb": "tt6520776",
+    "tmdb": 1019399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

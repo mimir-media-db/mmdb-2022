@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plancha_2022",
+  "title": "Plancha",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114839375",
+    "imdb": "tt20511498",
+    "tmdb": 926516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-26",
+  "runtime_minutes": 100
+}

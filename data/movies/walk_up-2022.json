@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_up_2022",
+  "title": "Walk Up",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113441372",
+    "imdb": "tt21404804",
+    "tmdb": 1002470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

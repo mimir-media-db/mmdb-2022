@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reasonable_doubt",
+  "title": "Reasonable Doubt",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113993929",
+    "imdb": "tt11231226",
+    "tmdb": 205272
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 29
+}

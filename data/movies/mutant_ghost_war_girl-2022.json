@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutant_ghost_war_girl_2022",
+  "title": "Mutant Ghost War Girl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124260317",
+    "imdb": "tt18413900",
+    "tmdb": 1028725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_erotas_figas",
+  "title": "Erotas figas",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q113471384",
+    "imdb": "tt22188302",
+    "tmdb": 210611
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 290
+}

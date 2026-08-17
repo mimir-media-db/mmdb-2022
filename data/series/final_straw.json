@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_final_straw",
+  "title": "The Final Straw",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113101652",
+    "imdb": "tt20223056",
+    "tmdb": 206651
+  },
+  "last_updated": "2026-08-17"
+}

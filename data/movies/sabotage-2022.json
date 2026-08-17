@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sabotage_2022",
+  "title": "Sabotage",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135224124",
+    "imdb": "tt21477914",
+    "tmdb": 1115873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-27"
+}

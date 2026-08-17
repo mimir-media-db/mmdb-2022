@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silencio_voices_of_lisbon_2022",
+  "title": "Silêncio - Voices of Lisbon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113486726",
+    "imdb": "tt13670944",
+    "tmdb": 742559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 86
+}

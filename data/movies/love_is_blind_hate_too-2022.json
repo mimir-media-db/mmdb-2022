@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_blind_hate_too_2022",
+  "title": "Love is Blind, Hate Too",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110344397",
+    "imdb": "tt22188028",
+    "tmdb": 923333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-22"
+}

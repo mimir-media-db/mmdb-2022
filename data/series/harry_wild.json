@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_harry_wild",
+  "title": "Harry Wild",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113046247",
+    "imdb": "tt14527610",
+    "tmdb": 156993
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 26
+}

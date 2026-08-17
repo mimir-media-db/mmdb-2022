@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_want_to_talk_about_duras_2022",
+  "title": "I Want to Talk About Duras",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108685984",
+    "imdb": "tt14300376",
+    "tmdb": 803701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-09",
+  "runtime_minutes": 95
+}

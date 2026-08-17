@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_in_the_cloud_2022",
+  "title": "Shadow in the Cloud",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65054511",
+    "imdb": "tt9691136",
+    "tmdb": 675327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 83
+}

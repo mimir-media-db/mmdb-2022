@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virata_parvam_2022",
+  "title": "Virata Parvam",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104199212",
+    "imdb": "tt11023732",
+    "tmdb": 609096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17"
+}

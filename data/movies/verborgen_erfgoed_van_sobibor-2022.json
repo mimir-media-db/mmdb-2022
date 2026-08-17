@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_verborgen_erfgoed_van_sobibor_2022",
+  "title": "Verborgen erfgoed van Sobibór",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643524",
+    "imdb": "tt10980668"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

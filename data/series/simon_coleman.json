@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_simon_coleman",
+  "title": "Simon Coleman",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113173915",
+    "imdb": "tt20102374",
+    "tmdb": 234928
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

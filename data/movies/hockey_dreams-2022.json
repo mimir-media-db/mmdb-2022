@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hockey_dreams_2022",
+  "title": "Hockey Dreams",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110647430",
+    "imdb": "tt6179704",
+    "tmdb": 929447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-09",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sound_of_magic",
+  "title": "The Sound of Magic",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12605565",
+    "imdb": "tt14460684",
+    "tmdb": 123349
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

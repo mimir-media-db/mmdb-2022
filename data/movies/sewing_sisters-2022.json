@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sewing_sisters_2022",
+  "title": "Sewing Sisters",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597849",
+    "imdb": "tt17499272",
+    "tmdb": 744877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-20"
+}

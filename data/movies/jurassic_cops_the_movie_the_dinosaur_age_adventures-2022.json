@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jurassic_cops_the_movie_the_dinosaur_age_adventures_2022",
+  "title": "Jurassic Cops the Movie: The Dinosaur Age Adventures",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597910",
+    "tmdb": 1023825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nope_2022",
+  "title": "Nope",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107176162",
+    "imdb": "tt10954984",
+    "tmdb": 762504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-22",
+  "runtime_minutes": 130
+}

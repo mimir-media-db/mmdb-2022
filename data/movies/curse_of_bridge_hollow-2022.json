@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_bridge_hollow_2022",
+  "title": "The Curse of Bridge Hollow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114668212",
+    "imdb": "tt15289240",
+    "tmdb": 864959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_college_hill_celebrity_edition",
+  "title": "College Hill: Celebrity Edition",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112913158",
+    "imdb": "tt18747980",
+    "tmdb": 204965
+  },
+  "last_updated": "2026-08-17"
+}

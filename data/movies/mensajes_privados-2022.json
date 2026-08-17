@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mensajes_privados_2022",
+  "title": "Mensajes Privados",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111383106",
+    "imdb": "tt18377314",
+    "tmdb": 949222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 77
+}

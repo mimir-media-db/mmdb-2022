@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_spring_2022",
+  "title": "Eternal Spring",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112118943",
+    "imdb": "tt20199286",
+    "tmdb": 949000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

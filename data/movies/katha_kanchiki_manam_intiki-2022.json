@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katha_kanchiki_manam_intiki_2022",
+  "title": "Katha Kanchiki Manam Intiki",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112444112",
+    "imdb": "tt20753616",
+    "tmdb": 968122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

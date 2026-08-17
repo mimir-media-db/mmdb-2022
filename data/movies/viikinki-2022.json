@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viikinki_2022",
+  "title": "Viikinki",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114244366",
+    "imdb": "tt22086290",
+    "tmdb": 841677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-27",
+  "runtime_minutes": 87
+}

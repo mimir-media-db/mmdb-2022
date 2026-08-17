@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_who_never_dies_2022",
+  "title": "The Spy Who Never Dies",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600900",
+    "imdb": "tt11558688",
+    "tmdb": 934196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

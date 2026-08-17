@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_il_re",
+  "title": "Il re",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111193391",
+    "imdb": "tt13190882",
+    "tmdb": 158479
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

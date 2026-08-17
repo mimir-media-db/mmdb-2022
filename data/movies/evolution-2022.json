@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evolution_2022",
+  "title": "Evolution",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107364168",
+    "imdb": "tt14776894",
+    "tmdb": 836563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-18",
+  "runtime_minutes": 97
+}

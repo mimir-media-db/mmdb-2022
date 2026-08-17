@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_bears_2022",
+  "title": "Valley of the Bears",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125206648",
+    "imdb": "tt19799286",
+    "tmdb": 1271628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hyperions_2022",
+  "title": "The Hyperions",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116858191",
+    "imdb": "tt7520568",
+    "tmdb": 568271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

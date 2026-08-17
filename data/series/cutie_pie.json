@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cutie_pie",
+  "title": "Cutie Pie",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111303920",
+    "imdb": "tt18303546",
+    "tmdb": 139353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

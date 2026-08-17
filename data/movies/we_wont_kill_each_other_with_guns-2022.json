@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_wont_kill_each_other_with_guns_2022",
+  "title": "We Won't Kill Each Other with Guns",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111134361",
+    "imdb": "tt15337340",
+    "tmdb": 943001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kira_el_gin_2022",
+  "title": "Kira & El Gin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97029944",
+    "imdb": "tt10935956",
+    "tmdb": 632702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-30",
+  "runtime_minutes": 175
+}

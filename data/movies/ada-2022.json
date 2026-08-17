@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_2022",
+  "title": "Ada",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575966",
+    "imdb": "tt21990240",
+    "tmdb": 1021728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-04",
+  "runtime_minutes": 92
+}

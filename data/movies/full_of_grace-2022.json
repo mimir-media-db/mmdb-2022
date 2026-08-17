@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_of_grace_2022",
+  "title": "Full of Grace",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113101412",
+    "imdb": "tt15341168",
+    "tmdb": 954748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-24",
+  "runtime_minutes": 109
+}

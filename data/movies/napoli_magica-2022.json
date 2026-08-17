@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_napoli_magica_2022",
+  "title": "Napoli magica",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115498253",
+    "imdb": "tt23952498",
+    "tmdb": 1036832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-26"
+}

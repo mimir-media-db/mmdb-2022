@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outer_range",
+  "title": "Outer Range",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q105085590",
+    "imdb": "tt11685912",
+    "tmdb": 113985
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

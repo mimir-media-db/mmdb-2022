@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_my_name_2022",
+  "title": "Into My Name",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110543978",
+    "imdb": "tt16430374",
+    "tmdb": 916431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_robot_brother_2022",
+  "title": "My Robot Brother",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141868",
+    "imdb": "tt15725474",
+    "tmdb": 939193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unfinished_affairs_2022",
+  "title": "Unfinished Affairs",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111944684",
+    "imdb": "tt6378536",
+    "tmdb": 820427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 103
+}

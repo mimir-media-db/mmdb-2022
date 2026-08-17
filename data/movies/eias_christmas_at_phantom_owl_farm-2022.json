@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eias_christmas_at_phantom_owl_farm_2022",
+  "title": "Eia's Christmas at Phantom Owl Farm",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100401223",
+    "imdb": "tt9261284",
+    "tmdb": 560716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-11",
+  "runtime_minutes": 90
+}

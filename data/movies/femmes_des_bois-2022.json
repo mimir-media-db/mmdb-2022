@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_femmes_des_bois_2022",
+  "title": "Femmes des bois",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111740051",
+    "imdb": "tt19841938",
+    "tmdb": 945180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01"
+}

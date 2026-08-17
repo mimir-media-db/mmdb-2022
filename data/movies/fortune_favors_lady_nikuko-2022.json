@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fortune_favors_lady_nikuko_2022",
+  "title": "Fortune Favors Lady Nikuko",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107333474",
+    "imdb": "tt13758684",
+    "tmdb": 781816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-08",
+  "runtime_minutes": 96
+}

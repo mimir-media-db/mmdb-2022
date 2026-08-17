@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_river_and_into_the_trees_2022",
+  "title": "Across the River and Into the Trees",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105847191",
+    "imdb": "tt5652768",
+    "tmdb": 763147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

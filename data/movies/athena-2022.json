@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_athena_2022",
+  "title": "Athena",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111293909",
+    "imdb": "tt15445056",
+    "tmdb": 852046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23",
+  "runtime_minutes": 99
+}

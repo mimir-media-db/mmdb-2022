@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_of_my_life_2022",
+  "title": "Sunshine Of My Life",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113510528",
+    "imdb": "tt14071698",
+    "tmdb": 838119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-26"
+}

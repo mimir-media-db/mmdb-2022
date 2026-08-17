@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_the_mistral_blows_hard_2022",
+  "title": "here the mistral blows hard",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130706699",
+    "imdb": "tt26492307",
+    "tmdb": 1132179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

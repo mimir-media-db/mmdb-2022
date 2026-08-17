@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_next_of_kin_2022",
+  "title": "We Are Next of Kin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115343621",
+    "imdb": "tt13387268",
+    "tmdb": 915983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-03",
+  "runtime_minutes": 118
+}

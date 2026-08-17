@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_mammone_2022",
+  "title": "Il mammone",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113537356",
+    "imdb": "tt13070586",
+    "tmdb": 842485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-03"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_for_kyiv_2022",
+  "title": "The Battle for Kyiv",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576065",
+    "imdb": "tt28775495"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-20"
+}

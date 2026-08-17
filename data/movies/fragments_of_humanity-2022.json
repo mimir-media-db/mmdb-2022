@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fragments_of_humanity_2022",
+  "title": "Fragments of Humanity",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111854983",
+    "imdb": "tt18072078",
+    "tmdb": 929443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 58
+}

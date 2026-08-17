@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_hostel_2022",
+  "title": "Love Hostel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108101639",
+    "imdb": "tt13364468",
+    "tmdb": 828901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

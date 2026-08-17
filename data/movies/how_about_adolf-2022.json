@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_about_adolf_2022",
+  "title": "How About Adolf?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114292214",
+    "imdb": "tt14005338",
+    "tmdb": 899792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-24",
+  "runtime_minutes": 87
+}

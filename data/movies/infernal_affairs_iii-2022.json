@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infernal_affairs_iii_2022",
+  "title": "Infernal Affairs III",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q248354",
+    "imdb": "tt0374339",
+    "tmdb": 14310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 118
+}

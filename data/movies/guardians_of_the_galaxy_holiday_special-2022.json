@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardians_of_the_galaxy_holiday_special_2022",
+  "title": "The Guardians of the Galaxy Holiday Special",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106729096",
+    "imdb": "tt13623136",
+    "tmdb": 774752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25",
+  "runtime_minutes": 42
+}

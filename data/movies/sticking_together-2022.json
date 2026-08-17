@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sticking_together_2022",
+  "title": "Sticking Together",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111239103",
+    "imdb": "tt16491386",
+    "tmdb": 920640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 108
+}

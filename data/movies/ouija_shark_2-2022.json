@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ouija_shark_2_2022",
+  "title": "Ouija Shark 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113955518",
+    "imdb": "tt21409958",
+    "tmdb": 1005020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_czechoslovakia_2022",
+  "title": "Czechoslovakia",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140249211",
+    "imdb": "tt22051200",
+    "tmdb": 972578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 22
+}

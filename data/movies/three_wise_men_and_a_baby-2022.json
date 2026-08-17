@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_wise_men_and_a_baby_2022",
+  "title": "Three Wise Men and a Baby",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125897103",
+    "imdb": "tt22247482",
+    "tmdb": 1028541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

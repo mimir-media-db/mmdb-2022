@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_tattas_2022",
+  "title": "De Tatta's",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111583764",
+    "imdb": "tt21869784",
+    "tmdb": 1042470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-22"
+}

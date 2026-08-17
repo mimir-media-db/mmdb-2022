@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_expert_at_the_card_table_looking_for_erdnase_2022",
+  "title": "The Expert at the Card Table - Looking for Erdnase",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112649171",
+    "imdb": "tt7931586",
+    "tmdb": 1008765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-07",
+  "runtime_minutes": 84
+}

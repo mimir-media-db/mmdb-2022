@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_green_glove_gang",
+  "title": "The Green Glove Gang",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123332308",
+    "imdb": "tt19723774",
+    "tmdb": 210750
+  },
+  "last_updated": "2026-08-17"
+}

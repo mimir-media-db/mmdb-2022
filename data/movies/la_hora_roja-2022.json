@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_hora_roja_2022",
+  "title": "La hora roja",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943780",
+    "imdb": "tt23139724",
+    "tmdb": 1042810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

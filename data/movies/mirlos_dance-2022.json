@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mirlos_dance_2022",
+  "title": "Mirlo's Dance",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943784",
+    "imdb": "tt32982547",
+    "tmdb": 1004424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

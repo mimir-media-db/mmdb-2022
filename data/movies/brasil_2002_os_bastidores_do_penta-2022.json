@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brasil_2002_os_bastidores_do_penta_2022",
+  "title": "Brasil 2002: Os Bastidores do Penta",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140227780",
+    "imdb": "tt22499548",
+    "tmdb": 1024539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-04"
+}

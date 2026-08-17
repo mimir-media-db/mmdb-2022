@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_pirates_2022",
+  "title": "Time Pirates",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116304867",
+    "imdb": "tt21932256",
+    "tmdb": 1022728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

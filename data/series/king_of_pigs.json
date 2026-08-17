@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_pigs",
+  "title": "The King of Pigs",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111015162",
+    "imdb": "tt19818310",
+    "tmdb": 154523
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

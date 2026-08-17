@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maarrich_2022",
+  "title": "Maarrich",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115654457",
+    "imdb": "tt13878694",
+    "tmdb": 787538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

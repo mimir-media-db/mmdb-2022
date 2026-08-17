@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narrow_road_2022",
+  "title": "The Narrow Road",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114314956",
+    "imdb": "tt22398026",
+    "tmdb": 957861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-19",
+  "runtime_minutes": 115
+}

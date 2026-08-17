@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_singer_the_original_2022",
+  "title": "The singer The original",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432062"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24"
+}

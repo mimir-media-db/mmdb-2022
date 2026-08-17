@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_home_team_2022",
+  "title": "Home Team",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110192604",
+    "imdb": "tt14592064",
+    "tmdb": 817648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-28"
+}

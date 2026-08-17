@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maja_ma_2022",
+  "title": "Maja Ma",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114696416",
+    "imdb": "tt19864958",
+    "tmdb": 969797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-06"
+}

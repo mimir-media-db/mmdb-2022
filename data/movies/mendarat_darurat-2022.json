@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mendarat_darurat_2022",
+  "title": "Mendarat Darurat",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109438982",
+    "imdb": "tt21308010",
+    "tmdb": 707933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 113
+}

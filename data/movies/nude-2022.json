@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nude_2022",
+  "title": "Nude",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114769716",
+    "imdb": "tt22813558",
+    "tmdb": 925836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-01",
+  "runtime_minutes": 14
+}

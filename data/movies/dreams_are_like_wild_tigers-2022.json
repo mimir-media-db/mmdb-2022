@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_are_like_wild_tigers_2022",
+  "title": "Dreams Are like Wild Tigers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108708925",
+    "imdb": "tt13819562",
+    "tmdb": 793749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-03"
+}

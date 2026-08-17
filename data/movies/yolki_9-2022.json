@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yolki_9_2022",
+  "title": "Yolki 9",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113732535",
+    "imdb": "tt22059202",
+    "tmdb": 988225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

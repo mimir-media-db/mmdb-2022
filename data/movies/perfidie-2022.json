@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfidie_2022",
+  "title": "Perfidie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130482481",
+    "imdb": "tt22744064",
+    "tmdb": 1243175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

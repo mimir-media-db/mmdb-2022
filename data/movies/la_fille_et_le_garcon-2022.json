@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fille_et_le_garcon_2022",
+  "title": "La fille et le garçon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187377",
+    "imdb": "tt15411636",
+    "tmdb": 892499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

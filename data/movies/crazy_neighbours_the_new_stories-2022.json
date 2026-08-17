@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_neighbours_the_new_stories_2022",
+  "title": "Crazy Neighbours. The New Stories",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117691751",
+    "imdb": "tt21154640",
+    "tmdb": 995470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-07",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summerdaze_christmas_together_2022",
+  "title": "Summerdaze: Christmas Together",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136324740",
+    "imdb": "tt25928054",
+    "tmdb": 1733673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-21"
+}

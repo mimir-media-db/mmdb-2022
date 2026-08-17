@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_town_doctor",
+  "title": "Town Doctor",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111538747",
+    "imdb": "tt18247270",
+    "tmdb": 197188
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

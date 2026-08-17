@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jo_true_best_friend_2022",
+  "title": "Jo True Best Friend",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083615",
+    "tmdb": 985364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-11",
+  "runtime_minutes": 106
+}

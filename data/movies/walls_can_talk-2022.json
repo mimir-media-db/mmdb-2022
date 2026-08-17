@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walls_can_talk_2022",
+  "title": "Walls Can Talk",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117776175",
+    "imdb": "tt15348152",
+    "tmdb": 1016149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 75
+}

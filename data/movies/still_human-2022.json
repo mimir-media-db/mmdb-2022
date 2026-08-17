@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_still_human_2022",
+  "title": "Still Human",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121094748",
+    "imdb": "tt11584270",
+    "tmdb": 1511029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}

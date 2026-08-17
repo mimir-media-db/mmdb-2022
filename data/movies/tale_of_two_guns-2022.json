@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_two_guns_2022",
+  "title": "A Tale of Two Guns",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130695892",
+    "imdb": "tt16513514",
+    "tmdb": 940175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-17"
+}

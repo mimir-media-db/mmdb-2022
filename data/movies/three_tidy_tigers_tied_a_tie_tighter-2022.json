@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_tidy_tigers_tied_a_tie_tighter_2022",
+  "title": "Three Tidy Tigers Tied a Tie Tighter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110828342",
+    "imdb": "tt17055878",
+    "tmdb": 605127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 86
+}

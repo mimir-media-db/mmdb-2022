@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_my_sister_2022",
+  "title": "In Search of My Sister",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124304422",
+    "imdb": "tt12665550",
+    "tmdb": 1149400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 80
+}

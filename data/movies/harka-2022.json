@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harka_2022",
+  "title": "Harka",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112427268",
+    "imdb": "tt9317274",
+    "tmdb": 849242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

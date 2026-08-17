@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noemie_says_yes_2022",
+  "title": "Noemie Says Yes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111838990",
+    "imdb": "tt18238200",
+    "tmdb": 916352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-20",
+  "runtime_minutes": 113
+}

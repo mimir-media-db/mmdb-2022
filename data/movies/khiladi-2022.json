@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khiladi_2022",
+  "title": "Khiladi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105561084",
+    "imdb": "tt13299052",
+    "tmdb": 794417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

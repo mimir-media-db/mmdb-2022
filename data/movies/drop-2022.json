@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_2022",
+  "title": "The Drop",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257475",
+    "imdb": "tt19758112",
+    "tmdb": 964822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-11",
+  "runtime_minutes": 92
+}

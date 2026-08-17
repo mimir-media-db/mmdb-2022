@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_business_proposal",
+  "title": "Business Proposal",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108486931",
+    "imdb": "tt14819828",
+    "tmdb": 154825
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

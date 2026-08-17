@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gordon_ramsays_future_food_stars",
+  "title": "Gordon Ramsay's Future Food Stars",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118875326",
+    "imdb": "tt11816026",
+    "tmdb": 196510
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

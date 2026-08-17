@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_my_country_2022",
+  "title": "For My Country",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116520594",
+    "imdb": "tt19891500",
+    "tmdb": 958219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_spring_2022",
+  "title": "Song of Spring",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804677",
+    "imdb": "tt15430582",
+    "tmdb": 1012907
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-10"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ni_main_sass_kutni_2022",
+  "title": "Ni Main Sass Kutni",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111628521",
+    "imdb": "tt19393864",
+    "tmdb": 970213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29"
+}

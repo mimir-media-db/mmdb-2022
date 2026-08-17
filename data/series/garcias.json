@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_garcias",
+  "title": "The Garcias",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107472912",
+    "imdb": "tt14558054",
+    "tmdb": 155773
+  },
+  "last_updated": "2026-08-17"
+}

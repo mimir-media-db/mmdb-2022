@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlotte_m_il_film_flamingo_party_2022",
+  "title": "Charlotte M. - Il film: Flamingo Party",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115381613",
+    "imdb": "tt22694316",
+    "tmdb": 1048772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-31"
+}

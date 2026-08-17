@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kagojthe_paper_2022",
+  "title": "Kagoj-The Paper",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123021236",
+    "imdb": "tt29260477",
+    "tmdb": 1186108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-23"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soldato_sotto_la_luna_2022",
+  "title": "Soldato sotto la luna",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123110357",
+    "imdb": "tt16496778",
+    "tmdb": 1217747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30"
+}

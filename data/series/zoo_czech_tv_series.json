@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_zoo_czech_tv_series",
+  "title": "Zoo (Czech TV series)",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109923675"
+  },
+  "last_updated": "2026-08-17"
+}

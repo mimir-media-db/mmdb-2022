@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_2022",
+  "title": "Burning",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113510472",
+    "imdb": "tt20881380",
+    "tmdb": 985988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-18"
+}

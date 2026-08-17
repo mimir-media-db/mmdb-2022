@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_owl_2022",
+  "title": "The Night Owl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114767372",
+    "imdb": "tt23871504",
+    "tmdb": 806128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 118
+}

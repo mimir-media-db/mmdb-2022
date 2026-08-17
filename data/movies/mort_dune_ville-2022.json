@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mort_dune_ville_2022",
+  "title": "Mort d’une ville",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131187384",
+    "imdb": "tt23740330",
+    "tmdb": 1043020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ducobu_4_president_2022",
+  "title": "Ducobu 4 President",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108555187",
+    "imdb": "tt19722066",
+    "tmdb": 811886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-13",
+  "runtime_minutes": 85
+}

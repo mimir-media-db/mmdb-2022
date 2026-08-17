@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_morgue_2022",
+  "title": "The Morgue",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110758001",
+    "imdb": "tt15477144"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

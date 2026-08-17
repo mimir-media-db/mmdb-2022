@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_flawsome",
+  "title": "Flawsome",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116158655"
+  },
+  "last_updated": "2026-08-17"
+}

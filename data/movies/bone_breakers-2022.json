@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_breakers_2022",
+  "title": "The Bone Breakers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115365070",
+    "imdb": "tt18260282",
+    "tmdb": 938858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-06",
+  "runtime_minutes": 105
+}

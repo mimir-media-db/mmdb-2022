@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_bushido_2022",
+  "title": "The Cherry Bushido",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109599109",
+    "imdb": "tt18363692",
+    "tmdb": 947307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

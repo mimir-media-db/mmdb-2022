@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_next_level_chef",
+  "title": "Next Level Chef",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110128847",
+    "imdb": "tt14669850",
+    "tmdb": 129500
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

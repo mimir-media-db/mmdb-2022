@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_family",
+  "title": "My Family",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110924015",
+    "imdb": "tt20560144",
+    "tmdb": 195635
+  },
+  "last_updated": "2026-08-17"
+}

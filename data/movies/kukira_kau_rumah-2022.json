@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kukira_kau_rumah_2022",
+  "title": "Kukira Kau Rumah",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109563733",
+    "imdb": "tt12351994",
+    "tmdb": 883232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-03",
+  "runtime_minutes": 90
+}

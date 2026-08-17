@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_girl_with_a_pearl_earring_2022",
+  "title": "Exhibition on Screen: Girl with a Pearl Earring",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41794684",
+    "imdb": "tt4399658",
+    "tmdb": 361768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-18",
+  "runtime_minutes": 90
+}

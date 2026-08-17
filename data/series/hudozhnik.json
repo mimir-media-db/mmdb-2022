@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hudozhnik",
+  "title": "Hudozhnik",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114198609",
+    "imdb": "tt14129576",
+    "tmdb": 209662
+  },
+  "last_updated": "2026-08-17"
+}

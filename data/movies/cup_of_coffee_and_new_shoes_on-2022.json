@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cup_of_coffee_and_new_shoes_on_2022",
+  "title": "A Cup of Coffee and New Shoes On",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115331341",
+    "imdb": "tt15617690",
+    "tmdb": 1022641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

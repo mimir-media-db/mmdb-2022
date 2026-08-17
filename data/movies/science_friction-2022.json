@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_science_friction_2022",
+  "title": "Science Friction",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115445330",
+    "imdb": "tt9779978",
+    "tmdb": 750358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-10"
+}

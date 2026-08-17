@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_y_como_es_el_2022",
+  "title": "¿Y cómo es él?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93928881",
+    "imdb": "tt8928230",
+    "tmdb": 671318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22"
+}

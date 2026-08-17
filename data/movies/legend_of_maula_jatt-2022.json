@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_maula_jatt_2022",
+  "title": "The Legend of Maula Jatt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18358101",
+    "imdb": "tt4139928",
+    "tmdb": 464293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-13",
+  "runtime_minutes": 153
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noel_diary_2022",
+  "title": "The Noel Diary",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114785437",
+    "imdb": "tt13007592",
+    "tmdb": 736918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24",
+  "runtime_minutes": 99
+}

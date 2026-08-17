@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_vieux_fourneaux_2_bons_pour_lasile_2022",
+  "title": "Les vieux fourneaux 2: Bons pour l'asile",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113321900",
+    "imdb": "tt19858178",
+    "tmdb": 884453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-17",
+  "runtime_minutes": 94
+}

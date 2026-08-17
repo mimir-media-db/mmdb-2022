@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noah_le_sens_de_la_gagne_2022",
+  "title": "Noah : Le sens de la gagne",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113241144",
+    "imdb": "tt20224464",
+    "tmdb": 974955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

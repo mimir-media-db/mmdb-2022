@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_por_los_pelos_2022",
+  "title": "Por los pelos",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107175604",
+    "imdb": "tt13241688",
+    "tmdb": 826218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_meets_boy_2022",
+  "title": "Boy Meets Boy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105668591",
+    "imdb": "tt13316820",
+    "tmdb": 757169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-03",
+  "runtime_minutes": 70
+}

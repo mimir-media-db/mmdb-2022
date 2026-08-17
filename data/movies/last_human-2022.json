@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_human_2022",
+  "title": "The Last Human",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311118",
+    "imdb": "tt26685314",
+    "tmdb": 949592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

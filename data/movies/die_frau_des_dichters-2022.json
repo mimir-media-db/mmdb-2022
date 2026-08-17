@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_frau_des_dichters_2022",
+  "title": "Die Frau des Dichters",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114763088",
+    "imdb": "tt22489620",
+    "tmdb": 884193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-03",
+  "runtime_minutes": 98
+}

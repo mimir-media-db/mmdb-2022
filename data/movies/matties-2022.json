@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matties_2022",
+  "title": "Matties",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131397073",
+    "imdb": "tt23184372",
+    "tmdb": 1046847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-17",
+  "runtime_minutes": 85
+}

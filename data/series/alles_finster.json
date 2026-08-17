@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_finster",
+  "title": "Alles Finster",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111344656",
+    "imdb": "tt21054814",
+    "tmdb": 198107
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_von_kant_2022",
+  "title": "Peter von Kant",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108625531",
+    "imdb": "tt14336174",
+    "tmdb": 807862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 85
+}

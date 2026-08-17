@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_recommended_for_you_2022",
+  "title": "Recommended For You",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131056989",
+    "imdb": "tt21292122"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-20"
+}

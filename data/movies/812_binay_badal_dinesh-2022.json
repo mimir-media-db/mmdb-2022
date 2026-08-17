@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_812_binay_badal_dinesh_2022",
+  "title": "8/12 Binay Badal Dinesh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110263678",
+    "imdb": "tt17493272",
+    "tmdb": 854269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-26",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_wise_kings_vs_santa_2022",
+  "title": "The Three Wise Kings vs Santa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112300307",
+    "imdb": "tt18953258",
+    "tmdb": 987758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-05",
+  "runtime_minutes": 106
+}

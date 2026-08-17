@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_in_the_lake_2022",
+  "title": "Devil in the lake",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432142",
+    "imdb": "tt22865284",
+    "tmdb": 1022072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-19"
+}

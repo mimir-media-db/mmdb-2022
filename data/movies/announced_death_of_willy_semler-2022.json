@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_announced_death_of_willy_semler_2022",
+  "title": "The Announced Death of Willy Semler",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117413802",
+    "imdb": "tt14224214",
+    "tmdb": 987447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

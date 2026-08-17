@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huesera_the_bone_woman_2022",
+  "title": "Huesera: The Bone Woman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112939380",
+    "imdb": "tt11718516",
+    "tmdb": 772515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 93
+}

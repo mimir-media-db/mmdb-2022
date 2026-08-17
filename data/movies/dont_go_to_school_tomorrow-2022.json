@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_go_to_school_tomorrow_2022",
+  "title": "Don't Go to School Tomorrow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843108",
+    "imdb": "tt11940982",
+    "tmdb": 772424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

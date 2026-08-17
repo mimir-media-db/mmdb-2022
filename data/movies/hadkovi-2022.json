@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hadkovi_2022",
+  "title": "Hádkovi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112578694",
+    "imdb": "tt15761332",
+    "tmdb": 857258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-14",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_significant_other_2022",
+  "title": "Significant Other",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113977063",
+    "imdb": "tt15353964",
+    "tmdb": 901385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07",
+  "runtime_minutes": 84
+}

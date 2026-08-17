@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bolshoy_2022",
+  "title": "Bolshoy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121819178",
+    "tmdb": 1060442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-24"
+}

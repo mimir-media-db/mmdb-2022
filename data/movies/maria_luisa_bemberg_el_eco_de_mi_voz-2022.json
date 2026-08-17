@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_luisa_bemberg_el_eco_de_mi_voz_2022",
+  "title": "María Luisa Bemberg: El eco de mi voz",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118112568",
+    "imdb": "tt14687306",
+    "tmdb": 830916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

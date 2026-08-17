@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_to_die_2022",
+  "title": "A Day to Die",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106890667",
+    "imdb": "tt14412366",
+    "tmdb": 864116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

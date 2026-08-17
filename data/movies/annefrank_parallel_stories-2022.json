@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annefrank_parallel_stories_2022",
+  "title": "#AnneFrank. Parallel Stories",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96790752",
+    "imdb": "tt9850370",
+    "tmdb": 610643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-27",
+  "runtime_minutes": 90
+}

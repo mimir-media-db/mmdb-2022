@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_heera",
+  "title": "Heera",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114772423",
+    "imdb": "tt22180336",
+    "tmdb": 209247
+  },
+  "last_updated": "2026-08-17"
+}

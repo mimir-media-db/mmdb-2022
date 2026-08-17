@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_maitre_du_jeu",
+  "title": "Le maître du jeu",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117359272",
+    "imdb": "tt29416057",
+    "tmdb": 210402
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

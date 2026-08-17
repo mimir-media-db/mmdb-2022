@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_shoes_2022",
+  "title": "Red Shoes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117768682",
+    "imdb": "tt16299076",
+    "tmdb": 1005324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-04",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_her_control_2022",
+  "title": "Under Her Control",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111992664",
+    "imdb": "tt15006754",
+    "tmdb": 946703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 109
+}

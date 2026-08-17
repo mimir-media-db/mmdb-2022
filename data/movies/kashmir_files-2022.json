@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kashmir_files_2022",
+  "title": "The Kashmir Files",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104821313",
+    "imdb": "tt10811166",
+    "tmdb": 900783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-11",
+  "runtime_minutes": 170
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom_business",
+  "title": "Kingdom Business",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112228286",
+    "imdb": "tt11433956",
+    "tmdb": 202158
+  },
+  "last_updated": "2026-08-17"
+}

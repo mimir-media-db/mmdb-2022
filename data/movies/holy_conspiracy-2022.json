@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_conspiracy_2022",
+  "title": "The Holy conspiracy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119218922",
+    "imdb": "tt21220930",
+    "tmdb": 920262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-29"
+}

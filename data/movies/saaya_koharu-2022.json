@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saaya_koharu_2022",
+  "title": "Saaya & Koharu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333243",
+    "imdb": "tt23140626",
+    "tmdb": 1490433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-16"
+}

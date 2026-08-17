@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trick_or_treat_scoobydoo_2022",
+  "title": "Trick or Treat Scooby-Doo!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113665795",
+    "imdb": "tt21919270",
+    "tmdb": 1015724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-18",
+  "runtime_minutes": 72
+}

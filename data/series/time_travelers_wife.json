@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time_travelers_wife",
+  "title": "The Time Traveler's Wife",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q56066438",
+    "imdb": "tt8783930",
+    "tmdb": 81322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

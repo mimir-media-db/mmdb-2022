@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hansan_rising_dragon_2022",
+  "title": "Hansan: Rising Dragon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97218226",
+    "imdb": "tt21109538",
+    "tmdb": 588108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-01",
+  "runtime_minutes": 130
+}

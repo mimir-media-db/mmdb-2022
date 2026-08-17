@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_because_of_inheritance_2022",
+  "title": "Because of Inheritance",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111909810",
+    "imdb": "tt18748928",
+    "tmdb": 811736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-30",
+  "runtime_minutes": 119
+}

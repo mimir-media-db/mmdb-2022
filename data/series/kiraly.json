@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kiraly",
+  "title": "A Király",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115272191",
+    "imdb": "tt23752726",
+    "tmdb": 214619
+  },
+  "last_updated": "2026-08-17"
+}

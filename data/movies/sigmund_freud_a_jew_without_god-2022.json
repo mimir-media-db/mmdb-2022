@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sigmund_freud_a_jew_without_god_2022",
+  "title": "Sigmund Freud, A Jew Without God",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111261980",
+    "imdb": "tt12094320",
+    "tmdb": 690919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-05",
+  "runtime_minutes": 98
+}

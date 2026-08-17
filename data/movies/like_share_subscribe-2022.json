@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_like_share_subscribe_2022",
+  "title": "Like, Share & Subscribe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138895595"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

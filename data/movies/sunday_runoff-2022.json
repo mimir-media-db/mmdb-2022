@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_runoff_2022",
+  "title": "The Sunday Runoff",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109360683",
+    "imdb": "tt15102828",
+    "tmdb": 863857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-07"
+}

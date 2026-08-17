@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_satellites_2022",
+  "title": "Dark Satellites",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115401161",
+    "imdb": "tt14298644",
+    "tmdb": 915652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}

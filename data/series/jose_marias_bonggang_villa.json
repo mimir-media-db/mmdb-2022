@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jose_marias_bonggang_villa",
+  "title": "Jose & Maria's Bonggang Villa",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111939056",
+    "imdb": "tt20234738",
+    "tmdb": 203238
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

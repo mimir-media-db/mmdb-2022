@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_rambo_2022",
+  "title": "Arthur Rambo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108292899",
+    "imdb": "tt10951972",
+    "tmdb": 660334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 86
+}

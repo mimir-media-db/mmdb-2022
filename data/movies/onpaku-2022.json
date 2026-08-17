@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onpaku_2022",
+  "title": "Onpaku",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121049905",
+    "imdb": "tt22776798",
+    "tmdb": 1050491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-21"
+}

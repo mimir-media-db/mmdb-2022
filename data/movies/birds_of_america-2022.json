@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_birds_of_america_2022",
+  "title": "Birds of America",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112130366",
+    "imdb": "tt14686256",
+    "tmdb": 816357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-25",
+  "runtime_minutes": 84
+}

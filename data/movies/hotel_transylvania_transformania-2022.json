@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_transylvania_transformania_2022",
+  "title": "Hotel Transylvania: Transformania",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65973230",
+    "imdb": "tt9848626",
+    "tmdb": 585083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14",
+  "runtime_minutes": 87
+}

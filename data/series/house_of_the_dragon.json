@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_the_dragon",
+  "title": "House of the Dragon",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q72930269",
+    "imdb": "tt11198330",
+    "tmdb": 94997
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

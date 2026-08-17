@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mk_ultra_2022",
+  "title": "MK Ultra",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114566831",
+    "imdb": "tt7147158",
+    "tmdb": 1018247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07",
+  "runtime_minutes": 98
+}

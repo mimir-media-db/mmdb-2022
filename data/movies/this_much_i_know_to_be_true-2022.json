@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_much_i_know_to_be_true_2022",
+  "title": "This Much I Know to Be True",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111921566",
+    "imdb": "tt15721828",
+    "tmdb": 927025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-12"
+}

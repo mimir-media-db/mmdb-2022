@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_curse",
+  "title": "The Curse",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111180945",
+    "imdb": "tt16352098",
+    "tmdb": 156861
+  },
+  "last_updated": "2026-08-17"
+}

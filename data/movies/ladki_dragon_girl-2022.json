@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladki_dragon_girl_2022",
+  "title": "Ladki: Dragon Girl",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124125185",
+    "imdb": "tt11924110",
+    "tmdb": 651534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15",
+  "runtime_minutes": 133
+}

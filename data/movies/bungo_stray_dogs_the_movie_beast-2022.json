@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bungo_stray_dogs_the_movie_beast_2022",
+  "title": "Bungo Stray Dogs The Movie: Beast",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108770580",
+    "imdb": "tt21872792",
+    "tmdb": 973737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 134
+}
