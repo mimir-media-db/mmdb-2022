@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immenhof_das_groe_versprechen_2022",
+  "title": "Immenhof - Das große Versprechen",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107339050",
+    "imdb": "tt10250868",
+    "tmdb": 840289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-26",
+  "runtime_minutes": 100
+}

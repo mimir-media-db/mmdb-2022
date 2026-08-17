@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_but_true_2022",
+  "title": "Incredible but True",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104783739",
+    "imdb": "tt13145534",
+    "tmdb": 735697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 74
+}

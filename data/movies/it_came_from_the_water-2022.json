@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_came_from_the_water_2022",
+  "title": "It Came from the Water",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124321596",
+    "imdb": "tt20426646",
+    "tmdb": 999114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

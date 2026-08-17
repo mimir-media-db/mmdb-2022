@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_io_vivo_altrove_2022",
+  "title": "Io vivo altrove!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196762",
+    "imdb": "tt18274542",
+    "tmdb": 1070244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 104
+}

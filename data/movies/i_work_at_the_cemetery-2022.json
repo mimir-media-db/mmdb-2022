@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_work_at_the_cemetery_2022",
+  "title": "I Work at the Cemetery",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86001041",
+    "imdb": "tt8268302",
+    "tmdb": 722071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15",
+  "runtime_minutes": 102
+}

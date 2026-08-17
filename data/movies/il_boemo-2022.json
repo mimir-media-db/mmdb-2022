@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_boemo_2022",
+  "title": "Il Boemo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98459807",
+    "imdb": "tt10726774",
+    "tmdb": 669653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-19",
+  "runtime_minutes": 140
+}

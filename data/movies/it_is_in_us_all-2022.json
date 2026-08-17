@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_is_in_us_all_2022",
+  "title": "It Is In Us All",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106039882",
+    "imdb": "tt10406466",
+    "tmdb": 824119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-14",
+  "runtime_minutes": 92
+}

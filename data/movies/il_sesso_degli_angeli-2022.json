@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_sesso_degli_angeli_2022",
+  "title": "Il sesso degli angeli",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113152707",
+    "imdb": "tt10964096",
+    "tmdb": 828586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-21"
+}

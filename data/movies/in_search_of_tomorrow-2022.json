@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_tomorrow_2022",
+  "title": "In Search of Tomorrow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96382007",
+    "imdb": "tt11341742",
+    "tmdb": 617031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-19",
+  "runtime_minutes": 305
+}

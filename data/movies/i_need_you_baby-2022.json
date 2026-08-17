@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_need_you_baby_2022",
+  "title": "I Need You Baby",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123691930",
+    "imdb": "tt18969072",
+    "tmdb": 951013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07",
+  "runtime_minutes": 77
+}

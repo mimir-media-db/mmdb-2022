@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_want_you_back_2022",
+  "title": "I Want You Back",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106578104",
+    "imdb": "tt6462958",
+    "tmdb": 680860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-11",
+  "runtime_minutes": 111
+}

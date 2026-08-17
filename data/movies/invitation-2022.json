@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invitation_2022",
+  "title": "The Invitation",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112878296",
+    "imdb": "tt12873562",
+    "tmdb": 830788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-24",
+  "runtime_minutes": 104
+}

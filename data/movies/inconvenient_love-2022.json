@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inconvenient_love_2022",
+  "title": "An Inconvenient Love",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115353203",
+    "imdb": "tt21801648",
+    "tmdb": 1012906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-23"
+}

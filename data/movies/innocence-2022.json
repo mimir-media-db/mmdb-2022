@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_innocence_2022",
+  "title": "Innocence",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311178",
+    "imdb": "tt21377522",
+    "tmdb": 1005290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

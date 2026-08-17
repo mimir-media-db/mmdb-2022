@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivy_bean_the_ghost_that_had_to_go_2022",
+  "title": "Ivy + Bean: The Ghost That Had to Go",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114670078",
+    "imdb": "tt21836592",
+    "tmdb": 1014676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 61
+}

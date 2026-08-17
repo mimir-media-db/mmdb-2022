@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_search_of_lost_time_2022",
+  "title": "In Search of Lost Time",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114369922",
+    "imdb": "tt18673234",
+    "tmdb": 1019619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09"
+}

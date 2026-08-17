@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_idol_recipe_2022",
+  "title": "Idol Recipe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597814",
+    "tmdb": 939259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17"
+}

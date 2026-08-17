@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invincible_2022",
+  "title": "Invincible",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123457663",
+    "imdb": "tt22749100",
+    "tmdb": 1084765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-10",
+  "runtime_minutes": 30
+}

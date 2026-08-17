@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_the_tigress_2022",
+  "title": "I Am The Tigress",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111143954",
+    "imdb": "tt13882398",
+    "tmdb": 788140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-25",
+  "runtime_minutes": 80
+}

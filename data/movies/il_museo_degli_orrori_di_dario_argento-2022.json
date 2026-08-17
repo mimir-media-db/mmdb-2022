@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_museo_degli_orrori_di_dario_argento_2022",
+  "title": "Il museo degli orrori di Dario Argento",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124045103",
+    "imdb": "tt24177754",
+    "tmdb": 1073111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-02",
+  "runtime_minutes": 91
+}

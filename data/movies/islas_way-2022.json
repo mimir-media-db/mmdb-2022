@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_islas_way_2022",
+  "title": "Isla’s Way",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126871283",
+    "imdb": "tt16297130",
+    "tmdb": 1178719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 84
+}

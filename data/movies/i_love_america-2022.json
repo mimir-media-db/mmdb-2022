@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_america_2022",
+  "title": "I Love America",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111305143",
+    "imdb": "tt14867318",
+    "tmdb": 846238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-11"
+}

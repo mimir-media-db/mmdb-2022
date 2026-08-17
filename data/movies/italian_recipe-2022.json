@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_recipe_2022",
+  "title": "The Italian Recipe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135885375",
+    "imdb": "tt7674006",
+    "tmdb": 873892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 102
+}

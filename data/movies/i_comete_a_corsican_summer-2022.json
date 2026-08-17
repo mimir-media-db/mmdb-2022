@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_comete_a_corsican_summer_2022",
+  "title": "I Comete − A Corsican Summer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105426084",
+    "imdb": "tt12826450",
+    "tmdb": 760287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-20",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_tattoo_2022",
+  "title": "Invisible Tattoo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691757",
+    "imdb": "tt8619856",
+    "tmdb": 927128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14"
+}

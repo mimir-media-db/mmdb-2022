@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_ice_2022",
+  "title": "Into the Ice",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113487140",
+    "imdb": "tt18408698",
+    "tmdb": 935436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-21",
+  "runtime_minutes": 88
+}

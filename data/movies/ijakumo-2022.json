@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ijakumo_2022",
+  "title": "Ijakumo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116148045"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 120
+}
