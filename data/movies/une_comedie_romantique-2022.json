@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_comedie_romantique_2022",
+  "title": "Une comédie romantique",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187508",
+    "imdb": "tt15372110",
+    "tmdb": 892502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

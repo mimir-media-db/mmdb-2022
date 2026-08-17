@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ufo_2022",
+  "title": "UFO",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110994664",
+    "imdb": "tt14369286",
+    "tmdb": 933357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unsere_herzen_ein_klang_2022",
+  "title": "Unsere Herzen - Ein Klang",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113493745",
+    "imdb": "tt22497536"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06",
+  "runtime_minutes": 113
+}

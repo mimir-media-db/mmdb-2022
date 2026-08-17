@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_useless_mouths_2022",
+  "title": "Useless Mouths",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051234",
+    "imdb": "tt16711752",
+    "tmdb": 765491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

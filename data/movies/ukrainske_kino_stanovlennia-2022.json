@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ukrainske_kino_stanovlennia_2022",
+  "title": "Ukrainske Kino Stanovlennia",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575952",
+    "imdb": "tt21976226",
+    "tmdb": 1020958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-02",
+  "runtime_minutes": 79
+}

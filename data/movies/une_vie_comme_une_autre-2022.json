@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_vie_comme_une_autre_2022",
+  "title": "Une vie comme une autre",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125417970",
+    "imdb": "tt10399628",
+    "tmdb": 1043339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

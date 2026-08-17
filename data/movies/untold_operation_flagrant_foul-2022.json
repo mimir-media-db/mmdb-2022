@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_untold_operation_flagrant_foul_2022",
+  "title": "Untold: Operation Flagrant Foul",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113489489",
+    "imdb": "tt21448508",
+    "tmdb": 1002307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-30"
+}
