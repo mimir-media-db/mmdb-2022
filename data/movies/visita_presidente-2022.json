@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visita_presidente_2022",
+  "title": "Visita, presidente",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116189465",
+    "imdb": "tt25811964",
+    "tmdb": 1067010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-28"
+}

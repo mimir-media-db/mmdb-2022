@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_valiant_hearts_2022",
+  "title": "Valiant Hearts",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111038768",
+    "imdb": "tt15289702",
+    "tmdb": 843427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 85
+}

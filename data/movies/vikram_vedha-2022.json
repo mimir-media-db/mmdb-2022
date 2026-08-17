@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vikram_vedha_2022",
+  "title": "Vikram Vedha",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110550806",
+    "imdb": "tt13131350",
+    "tmdb": 851783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29",
+  "runtime_minutes": 158
+}

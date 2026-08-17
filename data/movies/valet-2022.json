@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valet_2022",
+  "title": "The Valet",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106778303",
+    "imdb": "tt4081630",
+    "tmdb": 810171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

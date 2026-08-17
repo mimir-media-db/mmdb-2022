@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_victory_the_rebirth_of_the_greatest_2022",
+  "title": "Victory: the rebirth of the greatest",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123144948",
+    "imdb": "tt29571639"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-28",
+  "runtime_minutes": 64
+}

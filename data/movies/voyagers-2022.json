@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voyagers_2022",
+  "title": "The Voyagers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115220822",
+    "imdb": "tt15426722",
+    "tmdb": 885303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-22"
+}

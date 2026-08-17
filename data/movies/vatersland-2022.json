@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vatersland_2022",
+  "title": "Vatersland",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99546597",
+    "imdb": "tt18562428",
+    "tmdb": 748933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10",
+  "runtime_minutes": 118
+}
