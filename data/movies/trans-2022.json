@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trans_2022",
+  "title": "Trans",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432273",
+    "imdb": "tt14235280",
+    "tmdb": 795417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-17"
+}

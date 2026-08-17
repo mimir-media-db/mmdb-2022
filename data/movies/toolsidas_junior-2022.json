@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toolsidas_junior_2022",
+  "title": "Toolsidas Junior",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110990613",
+    "imdb": "tt13623916",
+    "tmdb": 774806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-04"
+}

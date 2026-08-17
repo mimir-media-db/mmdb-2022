@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tourner_pour_vivre_2022",
+  "title": "Tourner pour vivre",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27042629",
+    "imdb": "tt5794910",
+    "tmdb": 594158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-11",
+  "runtime_minutes": 110
+}

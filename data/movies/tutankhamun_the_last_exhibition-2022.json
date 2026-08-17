@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutankhamun_the_last_exhibition_2022",
+  "title": "Tutankhamun: The Last Exhibition",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118954456",
+    "imdb": "tt15019350",
+    "tmdb": 959806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-18",
+  "runtime_minutes": 90
+}

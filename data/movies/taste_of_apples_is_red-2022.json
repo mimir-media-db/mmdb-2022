@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taste_of_apples_is_red_2022",
+  "title": "The Taste of Apples is Red",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123147998",
+    "imdb": "tt21451080",
+    "tmdb": 961817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-09"
+}

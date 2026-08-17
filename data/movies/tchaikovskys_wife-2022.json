@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tchaikovskys_wife_2022",
+  "title": "Tchaikovsky's Wife",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111605536",
+    "imdb": "tt17538510",
+    "tmdb": 901358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-18",
+  "runtime_minutes": 144
+}

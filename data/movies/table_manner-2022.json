@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_table_manner_2022",
+  "title": "Table Manner",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597835",
+    "tmdb": 943403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-15"
+}

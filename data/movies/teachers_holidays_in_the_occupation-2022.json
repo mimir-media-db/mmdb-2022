@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teachers_holidays_in_the_occupation_2022",
+  "title": "Teachers. Holidays in the Occupation",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573985",
+    "imdb": "tt21967726",
+    "tmdb": 1020435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-02",
+  "runtime_minutes": 61
+}

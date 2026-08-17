@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tubepet_company_2022",
+  "title": "Tubepet Company",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432276",
+    "imdb": "tt33355146"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08"
+}

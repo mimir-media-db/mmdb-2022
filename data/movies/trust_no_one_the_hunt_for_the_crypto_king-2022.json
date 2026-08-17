@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trust_no_one_the_hunt_for_the_crypto_king_2022",
+  "title": "Trust No One: The Hunt for the Crypto King",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111387695",
+    "imdb": "tt15479902",
+    "tmdb": 946327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 90
+}

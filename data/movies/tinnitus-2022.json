@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tinnitus_2022",
+  "title": "Tinnitus",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115314097",
+    "imdb": "tt12530402",
+    "tmdb": 993292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tayna_2022",
+  "title": "Tayna",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55654281",
+    "imdb": "tt9024936",
+    "tmdb": 518829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-20"
+}

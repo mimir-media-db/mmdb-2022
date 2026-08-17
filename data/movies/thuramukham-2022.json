@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thuramukham_2022",
+  "title": "Thuramukham",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97182720",
+    "imdb": "tt9867628",
+    "tmdb": 661078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

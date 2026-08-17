@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_of_a_kind_2022",
+  "title": "Two of a kind",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111970534",
+    "imdb": "tt17049070",
+    "tmdb": 928217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-28",
+  "runtime_minutes": 96
+}

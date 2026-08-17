@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiktok_boom_2022",
+  "title": "TikTok, BOOM.",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110674124",
+    "imdb": "tt16377496",
+    "tmdb": 913742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-24",
+  "runtime_minutes": 84
+}

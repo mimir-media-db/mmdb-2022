@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thousand_lines_2022",
+  "title": "A Thousand Lines",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108069313",
+    "imdb": "tt14201484",
+    "tmdb": 932498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-29"
+}

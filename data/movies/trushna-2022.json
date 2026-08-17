@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trushna_2022",
+  "title": "Trushna",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114804729",
+    "imdb": "tt23721672",
+    "tmdb": 1035280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14"
+}

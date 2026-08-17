@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_choisiras_la_vie_2022",
+  "title": "Tu choisiras la vie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116672388",
+    "imdb": "tt15198986",
+    "tmdb": 868997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 99
+}

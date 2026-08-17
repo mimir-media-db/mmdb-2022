@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_2022",
+  "title": "Touch",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120993191",
+    "imdb": "tt15891670",
+    "tmdb": 995052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-20",
+  "runtime_minutes": 8
+}

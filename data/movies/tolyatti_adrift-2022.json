@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tolyatti_adrift_2022",
+  "title": "Tolyatti Adrift",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111781412",
+    "imdb": "tt18260436",
+    "tmdb": 940288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 70
+}

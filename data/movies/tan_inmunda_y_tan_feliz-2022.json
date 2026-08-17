@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tan_inmunda_y_tan_feliz_2022",
+  "title": "Tan inmunda y tan feliz",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126725348",
+    "imdb": "tt22781016",
+    "tmdb": 1036001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 89
+}

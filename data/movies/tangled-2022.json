@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tangled_2022",
+  "title": "Tangled",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130355761",
+    "imdb": "tt15173232",
+    "tmdb": 924307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-03"
+}

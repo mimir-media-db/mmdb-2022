@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tack_for_senast_2022",
+  "title": "Tack för senast",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115556631",
+    "imdb": "tt20190462",
+    "tmdb": 1046633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

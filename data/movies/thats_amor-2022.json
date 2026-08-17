@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thats_amor_2022",
+  "title": "That's Amor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113502835",
+    "imdb": "tt21388556",
+    "tmdb": 1005835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25"
+}

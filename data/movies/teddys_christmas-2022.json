@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teddys_christmas_2022",
+  "title": "Teddy's Christmas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110075923",
+    "imdb": "tt21054736",
+    "tmdb": 1020969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-11"
+}

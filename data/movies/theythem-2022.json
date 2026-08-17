@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theythem_2022",
+  "title": "They/Them",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108934012",
+    "imdb": "tt14502344",
+    "tmdb": 816977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-05",
+  "runtime_minutes": 104
+}

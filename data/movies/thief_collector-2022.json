@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thief_collector_2022",
+  "title": "The Thief Collector",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119350427",
+    "imdb": "tt14361892",
+    "tmdb": 934476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-13",
+  "runtime_minutes": 106
+}

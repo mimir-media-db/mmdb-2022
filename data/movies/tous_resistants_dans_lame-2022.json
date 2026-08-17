@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tous_resistants_dans_lame_2022",
+  "title": "Tous résistants dans l’âme",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120629589",
+    "imdb": "tt23656676",
+    "tmdb": 1039500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-16",
+  "runtime_minutes": 135
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tre_uomini_e_un_fantasma_2022",
+  "title": "Tre uomini e un fantasma",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115435319",
+    "imdb": "tt24265682",
+    "tmdb": 1050746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24"
+}

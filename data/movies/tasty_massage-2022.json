@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tasty_massage_2022",
+  "title": "Tasty Massage",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842472",
+    "tmdb": 1016026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-10"
+}

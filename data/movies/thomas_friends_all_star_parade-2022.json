@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_friends_all_star_parade_2022",
+  "title": "Thomas & Friends: All Star Parade",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111048341",
+    "imdb": "tt14187234"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-25"
+}

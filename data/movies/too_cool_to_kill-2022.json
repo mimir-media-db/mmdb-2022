@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_too_cool_to_kill_2022",
+  "title": "Too Cool to Kill",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110868131",
+    "imdb": "tt16254308",
+    "tmdb": 923192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-01",
+  "runtime_minutes": 109
+}
