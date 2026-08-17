@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_onion_a_knives_out_mystery_2022",
+  "title": "Glass Onion: A Knives Out Mystery",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84712797",
+    "imdb": "tt11564570",
+    "tmdb": 661374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-13",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_escape_2022",
+  "title": "Golden Escape",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330661",
+    "imdb": "tt21849158",
+    "tmdb": 1008640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-05"
+}

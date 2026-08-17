@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gods_creatures_2022",
+  "title": "God's Creatures",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106982237",
+    "imdb": "tt10375396",
+    "tmdb": 828558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

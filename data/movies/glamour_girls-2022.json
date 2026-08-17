@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glamour_girls_2022",
+  "title": "Glamour Girls",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113101560",
+    "imdb": "tt20604466",
+    "tmdb": 982981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-24"
+}

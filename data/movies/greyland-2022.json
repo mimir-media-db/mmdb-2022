@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_greyland_2022",
+  "title": "Greyland",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124791305",
+    "imdb": "tt27481573"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22",
+  "runtime_minutes": 77
+}

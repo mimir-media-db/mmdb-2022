@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_song_2022",
+  "title": "Ghost Song",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111773731",
+    "imdb": "tt15023058",
+    "tmdb": 838892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-27",
+  "runtime_minutes": 80
+}

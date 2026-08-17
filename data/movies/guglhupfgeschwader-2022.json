@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guglhupfgeschwader_2022",
+  "title": "Guglhupfgeschwader",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107863171",
+    "imdb": "tt14210958",
+    "tmdb": 851238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-04",
+  "runtime_minutes": 97
+}

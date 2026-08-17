@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_the_golden_hands_2022",
+  "title": "The Girl With the Golden Hands",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110983561",
+    "imdb": "tt15000346",
+    "tmdb": 835357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-17"
+}

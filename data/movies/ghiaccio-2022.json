@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghiaccio_2022",
+  "title": "Ghiaccio",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051267",
+    "imdb": "tt14556112",
+    "tmdb": 812050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 95
+}

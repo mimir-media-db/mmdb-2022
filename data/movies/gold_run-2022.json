@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_run_2022",
+  "title": "Gold Run",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115738814",
+    "imdb": "tt18092672",
+    "tmdb": 964426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-15"
+}

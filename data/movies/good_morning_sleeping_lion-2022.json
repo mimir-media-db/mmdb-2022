@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_morning_sleeping_lion_2022",
+  "title": "Good Morning, Sleeping Lion",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111192101",
+    "imdb": "tt19872194",
+    "tmdb": 968681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-23"
+}

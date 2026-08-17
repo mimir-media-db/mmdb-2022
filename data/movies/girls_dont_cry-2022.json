@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_dont_cry_2022",
+  "title": "Girls don't cry",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125151421",
+    "imdb": "tt10471376",
+    "tmdb": 986719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

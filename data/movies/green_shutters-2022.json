@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_shutters_2022",
+  "title": "The Green Shutters",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109043381",
+    "imdb": "tt15167162",
+    "tmdb": 892503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-24",
+  "runtime_minutes": 97
+}

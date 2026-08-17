@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_on_the_balcony_2022",
+  "title": "God on the Balcony",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114641958",
+    "imdb": "tt13599570",
+    "tmdb": 760937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07"
+}

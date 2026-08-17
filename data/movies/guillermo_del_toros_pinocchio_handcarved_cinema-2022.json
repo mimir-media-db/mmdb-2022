@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guillermo_del_toros_pinocchio_handcarved_cinema_2022",
+  "title": "Guillermo del Toro's Pinocchio: Handcarved Cinema",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115662309",
+    "imdb": "tt24216364",
+    "tmdb": 1059301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 30
+}

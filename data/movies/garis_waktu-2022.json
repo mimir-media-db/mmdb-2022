@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garis_waktu_2022",
+  "title": "Garis Waktu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111141984",
+    "imdb": "tt13938818",
+    "tmdb": 799571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24",
+  "runtime_minutes": 100
+}

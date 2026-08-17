@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golui_2022",
+  "title": "Golui",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111994811",
+    "imdb": "tt19365538",
+    "tmdb": 962872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-03"
+}

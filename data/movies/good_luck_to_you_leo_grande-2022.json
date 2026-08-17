@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_luck_to_you_leo_grande_2022",
+  "title": "Good Luck to You, Leo Grande",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106740037",
+    "imdb": "tt13352968",
+    "tmdb": 758330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-22",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_game_2022",
+  "title": "The Game",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107951748",
+    "imdb": "tt13400142",
+    "tmdb": 925471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-09"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gardesmarines_iv_2022",
+  "title": "GardesMarines IV",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65150534",
+    "imdb": "tt28115118",
+    "tmdb": 579845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}
