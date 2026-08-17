@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vamos_brincar_com_a_turma_da_monica",
+  "title": "Vamos Brincar com a Turma da Mônica",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115840849",
+    "imdb": "tt27792191",
+    "tmdb": 230458
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

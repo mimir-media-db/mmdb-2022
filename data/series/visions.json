@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_visions",
+  "title": "Visions",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109314566",
+    "imdb": "tt19858116",
+    "tmdb": 200689
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

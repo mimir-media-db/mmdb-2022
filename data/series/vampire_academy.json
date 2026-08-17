@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_academy",
+  "title": "Vampire Academy",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108672912",
+    "imdb": "tt14689620",
+    "tmdb": 125940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
