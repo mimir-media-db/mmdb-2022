@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_free_skate_2022",
+  "title": "Free Skate",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113401620",
+    "imdb": "tt9587950",
+    "tmdb": 659711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fosforos_mojados_2022",
+  "title": "Fósforos Mojados",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115356488",
+    "imdb": "tt16403170",
+    "tmdb": 875249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 128
+}

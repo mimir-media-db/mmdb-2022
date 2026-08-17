@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fools_2022",
+  "title": "Fools",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122733495",
+    "imdb": "tt10963954",
+    "tmdb": 577874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 107
+}

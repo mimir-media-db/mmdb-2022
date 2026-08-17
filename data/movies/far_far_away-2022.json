@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_far_far_away_2022",
+  "title": "Far Far Away",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111799835",
+    "imdb": "tt15618938",
+    "tmdb": 898009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-04"
+}

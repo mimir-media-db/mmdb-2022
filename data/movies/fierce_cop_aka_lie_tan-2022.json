@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fierce_cop_aka_lie_tan_2022",
+  "title": "Fierce Cop a.k.a Lie Tan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116620370",
+    "imdb": "tt21352960",
+    "tmdb": 997392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-08"
+}

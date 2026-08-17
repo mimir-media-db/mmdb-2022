@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fam_2022",
+  "title": "The Fam",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109496796",
+    "imdb": "tt14077794",
+    "tmdb": 794782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 110
+}

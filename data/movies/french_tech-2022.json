@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_tech_2022",
+  "title": "French Tech",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98697796",
+    "imdb": "tt12078024",
+    "tmdb": 665387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-31",
+  "runtime_minutes": 92
+}

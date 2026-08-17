@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fuyu_soubi_2022",
+  "title": "Fuyu Soubi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119922666",
+    "imdb": "tt19864186",
+    "tmdb": 987128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-03"
+}

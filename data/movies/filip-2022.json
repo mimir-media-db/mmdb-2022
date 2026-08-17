@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filip_2022",
+  "title": "Filip",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114095472",
+    "imdb": "tt15460742",
+    "tmdb": 999125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 125
+}

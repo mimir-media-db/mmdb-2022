@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fail_better_2022",
+  "title": "Fail Better",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123485065",
+    "imdb": "tt19513090",
+    "tmdb": 996973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

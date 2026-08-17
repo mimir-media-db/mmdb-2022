@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flux_gourmet_2022",
+  "title": "Flux Gourmet",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108146664",
+    "imdb": "tt15010292",
+    "tmdb": 848818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-11",
+  "runtime_minutes": 111
+}

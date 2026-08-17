@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fir_2022_film_2022",
+  "title": "FIR (2022 film)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105580740",
+    "imdb": "tt11468258",
+    "tmdb": 667255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fires_in_the_dark_2022",
+  "title": "Fires in the Dark",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113460196",
+    "imdb": "tt11058214",
+    "tmdb": 735333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-03",
+  "runtime_minutes": 94
+}

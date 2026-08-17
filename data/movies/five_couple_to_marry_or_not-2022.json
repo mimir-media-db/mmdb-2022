@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_five_couple_to_marry_or_not_2022",
+  "title": "Five Couple To Marry, Or Not?",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842494",
+    "tmdb": 948628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-04"
+}

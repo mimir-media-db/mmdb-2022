@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_hannah_2022",
+  "title": "Finding Hannah",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116453865",
+    "imdb": "tt11764352",
+    "tmdb": 801480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

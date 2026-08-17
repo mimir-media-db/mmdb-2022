@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_force_of_nature_humanity_2022",
+  "title": "The force of nature humanity",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111359780",
+    "imdb": "tt16868156",
+    "tmdb": 927365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-07",
+  "runtime_minutes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_pages_2022",
+  "title": "Funny Pages",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113494750",
+    "imdb": "tt8174412",
+    "tmdb": 583095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-24",
+  "runtime_minutes": 86
+}

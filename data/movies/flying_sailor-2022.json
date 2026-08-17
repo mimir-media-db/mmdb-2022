@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_sailor_2022",
+  "title": "The Flying Sailor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115648153",
+    "imdb": "tt20240228",
+    "tmdb": 742872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 8
+}

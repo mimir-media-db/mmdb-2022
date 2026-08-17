@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_tale_2022",
+  "title": "The Fish Tale",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111167404",
+    "imdb": "tt18952724",
+    "tmdb": 952438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

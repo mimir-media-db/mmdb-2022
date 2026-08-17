@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_full_moon_2022",
+  "title": "Full Moon",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110038300",
+    "imdb": "tt11771656",
+    "tmdb": 945426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-12"
+}
