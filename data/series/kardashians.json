@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kardashians",
+  "title": "The Kardashians",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111160190",
+    "imdb": "tt15791630",
+    "tmdb": 154521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 71
+}

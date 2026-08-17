@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kung_fu_sock",
+  "title": "Kung Fu Sock",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118323971",
+    "imdb": "tt21791002",
+    "tmdb": 205953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 72
+}

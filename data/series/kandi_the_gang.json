@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kandi_the_gang",
+  "title": "Kandi & the Gang",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110640025",
+    "imdb": "tt17279668",
+    "tmdb": 156286
+  },
+  "last_updated": "2026-08-17"
+}
