@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barmageddon_2022",
+  "title": "Barmageddon 2022",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q115924278",
+    "imdb": "tt20056964",
+    "tmdb": 212800
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_because_we_forget_everything",
+  "title": "Because We Forget Everything",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113962205",
+    "imdb": "tt22055018",
+    "tmdb": 204070
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

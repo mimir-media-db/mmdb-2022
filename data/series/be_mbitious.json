@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_be_mbitious",
+  "title": "Be Mbitious",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114089242",
+    "imdb": "tt29517168",
+    "tmdb": 201742
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

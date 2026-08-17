@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boss",
+  "title": "The Boss",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107339175",
+    "imdb": "tt14362262",
+    "tmdb": 128306
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 25
+}

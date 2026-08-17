@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blood_sisters",
+  "title": "Blood Sisters",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111697847",
+    "imdb": "tt19398068",
+    "tmdb": 197428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_bet",
+  "title": "Big Bet",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112506131",
+    "imdb": "tt17329616",
+    "tmdb": 112486
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

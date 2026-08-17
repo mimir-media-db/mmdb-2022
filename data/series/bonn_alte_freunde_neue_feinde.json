@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bonn_alte_freunde_neue_feinde",
+  "title": "Bonn - Alte Freunde, neue Feinde",
+  "start_year": 2021,
+  "end_year": 1995,
+  "external_ids": {
+    "wikidata": "Q116226000",
+    "imdb": "tt13905034",
+    "tmdb": 2559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

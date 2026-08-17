@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_between_the_world_and_us",
+  "title": "Between the World and Us",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113660685",
+    "imdb": "tt17678852",
+    "tmdb": 203741
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

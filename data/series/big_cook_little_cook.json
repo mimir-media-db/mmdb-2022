@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_big_cook_little_cook",
+  "title": "Big Cook, Little Cook",
+  "start_year": 2022,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4905476",
+    "imdb": "tt0435942",
+    "tmdb": 6161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 150
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_guy",
+  "title": "The Bad Guy",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115656114",
+    "imdb": "tt14729094",
+    "tmdb": 158050
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

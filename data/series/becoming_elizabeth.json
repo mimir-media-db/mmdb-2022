@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_becoming_elizabeth",
+  "title": "Becoming Elizabeth",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107008079",
+    "imdb": "tt11444366",
+    "tmdb": 198085
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

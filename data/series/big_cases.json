@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_cases",
+  "title": "The Big Cases",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126964214",
+    "imdb": "tt28263201",
+    "tmdb": 206835
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

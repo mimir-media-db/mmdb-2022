@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_burning_flames",
+  "title": "Burning Flames",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124853278",
+    "imdb": "tt28455470",
+    "tmdb": 231040
+  },
+  "last_updated": "2026-08-17"
+}
