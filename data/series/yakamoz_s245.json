@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yakamoz_s245",
+  "title": "Yakamoz S-245",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111665905",
+    "imdb": "tt13317454",
+    "tmdb": 195930
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}
