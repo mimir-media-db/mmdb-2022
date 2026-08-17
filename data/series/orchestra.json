@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_orchestra",
+  "title": "The Orchestra",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113005078",
+    "imdb": "tt14527620",
+    "tmdb": 205180
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

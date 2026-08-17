@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_great_national_parks",
+  "title": "Our Great National Parks",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111610211",
+    "imdb": "tt18750552",
+    "tmdb": 195258
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

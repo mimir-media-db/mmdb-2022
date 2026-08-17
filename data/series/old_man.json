@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_old_man",
+  "title": "The Old Man",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q85808050",
+    "imdb": "tt5645432",
+    "tmdb": 111800
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

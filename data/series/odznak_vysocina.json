@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_odznak_vysocina",
+  "title": "Odznak Vysočina",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110873666",
+    "imdb": "tt17067456",
+    "tmdb": 153996
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
