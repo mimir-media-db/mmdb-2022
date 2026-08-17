@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_for_your_l1fe_2022",
+  "title": "Ride for your L1fe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311107",
+    "imdb": "tt18556196",
+    "tmdb": 950884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

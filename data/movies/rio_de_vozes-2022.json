@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rio_de_vozes_2022",
+  "title": "Rio de Vozes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112052889",
+    "imdb": "tt18376192",
+    "tmdb": 770767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-17"
+}

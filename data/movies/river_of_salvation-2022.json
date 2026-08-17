@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_river_of_salvation_2022",
+  "title": "River Of Salvation",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123980397",
+    "imdb": "tt15109218",
+    "tmdb": 884917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-07"
+}

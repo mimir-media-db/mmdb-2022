@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_runway_34_2022",
+  "title": "Runway 34",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106616993",
+    "imdb": "tt11460992",
+    "tmdb": 766116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 148
+}

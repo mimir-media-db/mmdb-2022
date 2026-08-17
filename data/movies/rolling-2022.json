@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rolling_2022",
+  "title": "ROLLING",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432253",
+    "imdb": "tt15211224",
+    "tmdb": 814628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25"
+}

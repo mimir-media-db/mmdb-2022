@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_railway_children_return_2022",
+  "title": "The Railway Children Return",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106911881",
+    "imdb": "tt14592998",
+    "tmdb": 826680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15",
+  "runtime_minutes": 98
+}

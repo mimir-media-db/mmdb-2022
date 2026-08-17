@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rutina_2022",
+  "title": "Rutina",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134614958",
+    "imdb": "tt29045676",
+    "tmdb": 1170463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-09"
+}

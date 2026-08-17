@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rookies_2022",
+  "title": "Rookies",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111207190",
+    "imdb": "tt17157266",
+    "tmdb": 916403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-13",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_for_the_living_2022",
+  "title": "Ride for the Living",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643519",
+    "imdb": "tt11368110",
+    "tmdb": 1365568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

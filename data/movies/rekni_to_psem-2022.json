@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rekni_to_psem_2022",
+  "title": "Řekni to psem",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110645675",
+    "imdb": "tt15223504",
+    "tmdb": 859580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 85
+}

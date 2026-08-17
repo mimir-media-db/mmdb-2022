@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reshala_brother_2022",
+  "title": "Reshala: Brother",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113435257",
+    "imdb": "tt19412968",
+    "tmdb": 953366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

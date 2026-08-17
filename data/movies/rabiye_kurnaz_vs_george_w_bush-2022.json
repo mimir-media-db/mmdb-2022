@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rabiye_kurnaz_vs_george_w_bush_2022",
+  "title": "Rabiye Kurnaz vs. George W. Bush",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110626745",
+    "imdb": "tt13471738",
+    "tmdb": 915960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 118
+}

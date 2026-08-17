@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raymond_ray_2022",
+  "title": "Raymond & Ray",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109116365",
+    "imdb": "tt15334032",
+    "tmdb": 869025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranasthali_2022",
+  "title": "Ranasthali",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121094747",
+    "imdb": "tt22169746",
+    "tmdb": 1140883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-26"
+}

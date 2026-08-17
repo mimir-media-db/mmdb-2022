@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rogue_agent_2022",
+  "title": "Rogue Agent",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107072164",
+    "imdb": "tt9731386",
+    "tmdb": 846956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-27",
+  "runtime_minutes": 115
+}

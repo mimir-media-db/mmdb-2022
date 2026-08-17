@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_herring_2022",
+  "title": "The Red Herring",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432245",
+    "imdb": "tt20779270",
+    "tmdb": 964638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-25"
+}

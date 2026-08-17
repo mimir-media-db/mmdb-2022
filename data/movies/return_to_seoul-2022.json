@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_seoul_2022",
+  "title": "Return to Seoul",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112762598",
+    "imdb": "tt19719836",
+    "tmdb": 952701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-22",
+  "runtime_minutes": 119
+}
