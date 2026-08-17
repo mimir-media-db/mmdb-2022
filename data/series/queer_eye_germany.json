@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_queer_eye_germany",
+  "title": "Queer Eye: Germany",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111914878",
+    "imdb": "tt16369694",
+    "tmdb": 156572
+  },
+  "last_updated": "2026-08-17"
+}

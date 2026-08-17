@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_qalandar",
+  "title": "Qalandar",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115517456",
+    "imdb": "tt22691868"
+  },
+  "last_updated": "2026-08-17"
+}

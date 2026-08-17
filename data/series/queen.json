@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen",
+  "title": "Queen",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112755793",
+    "imdb": "tt15213258",
+    "tmdb": 130950
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
