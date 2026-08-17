@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_house_partner_share_2022",
+  "title": "Sex House: Partner Share",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842474",
+    "tmdb": 1016035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_with_hope_2022",
+  "title": "Summer with Hope",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113380114",
+    "imdb": "tt20769484",
+    "tmdb": 993272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-07"
+}

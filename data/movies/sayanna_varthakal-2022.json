@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sayanna_varthakal_2022",
+  "title": "Sayanna Varthakal",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61797291",
+    "imdb": "tt9174214",
+    "tmdb": 877286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-05"
+}

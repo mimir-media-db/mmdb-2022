@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stasikomodie_2022",
+  "title": "Stasikomödie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110734087",
+    "imdb": "tt11891698",
+    "tmdb": 943000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-19"
+}

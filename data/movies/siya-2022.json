@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siya_2022",
+  "title": "Siya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116610601",
+    "imdb": "tt21398196",
+    "tmdb": 1010385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

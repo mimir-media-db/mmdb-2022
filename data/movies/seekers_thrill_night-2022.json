@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seekers_thrill_night_2022",
+  "title": "The Seekers: Thrill Night",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109729135",
+    "imdb": "tt15239542",
+    "tmdb": 863070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-21",
+  "runtime_minutes": 87
+}

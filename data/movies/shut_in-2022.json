@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shut_in_2022",
+  "title": "Shut In",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110968050",
+    "imdb": "tt10131024",
+    "tmdb": 629015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 89
+}

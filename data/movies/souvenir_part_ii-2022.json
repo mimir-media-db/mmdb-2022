@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_souvenir_part_ii_2022",
+  "title": "The Souvenir Part II",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64338088",
+    "imdb": "tt6992978",
+    "tmdb": 473021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-02",
+  "runtime_minutes": 107
+}

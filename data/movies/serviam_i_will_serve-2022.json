@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serviam_i_will_serve_2022",
+  "title": "Serviam – I Will Serve",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113030595",
+    "imdb": "tt21227008",
+    "tmdb": 958733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 106
+}

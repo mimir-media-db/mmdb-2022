@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_srimulat_hil_yang_mustahal_bagian_pertama_2022",
+  "title": "Srimulat: Hil yang Mustahal - Bagian Pertama",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109965528",
+    "imdb": "tt15712278",
+    "tmdb": 924809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-19",
+  "runtime_minutes": 110
+}

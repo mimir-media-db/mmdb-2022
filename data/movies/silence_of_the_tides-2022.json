@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_of_the_tides_2022",
+  "title": "Silence of the Tides",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107041267",
+    "imdb": "tt8694946",
+    "tmdb": 768953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10",
+  "runtime_minutes": 106
+}

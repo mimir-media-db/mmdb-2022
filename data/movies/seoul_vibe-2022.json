@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seoul_vibe_2022",
+  "title": "Seoul Vibe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108067645",
+    "imdb": "tt13611770",
+    "tmdb": 773867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-26",
+  "runtime_minutes": 139
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stealing_raden_saleh_2022",
+  "title": "Stealing Raden Saleh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106943371",
+    "imdb": "tt13484872",
+    "tmdb": 832544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25",
+  "runtime_minutes": 154
+}

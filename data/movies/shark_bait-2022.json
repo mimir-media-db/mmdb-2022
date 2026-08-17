@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_bait_2022",
+  "title": "Shark Bait",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112261869",
+    "imdb": "tt12550376",
+    "tmdb": 960258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 85
+}

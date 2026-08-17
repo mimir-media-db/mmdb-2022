@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_state_and_me_2022",
+  "title": "The State and Me",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113290816",
+    "imdb": "tt17544202",
+    "tmdb": 927993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-12"
+}

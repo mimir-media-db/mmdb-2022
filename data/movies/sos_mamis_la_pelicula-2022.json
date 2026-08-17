@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sos_mamis_la_pelicula_2022",
+  "title": "S.O.S. Mamis: La Película",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120299725",
+    "imdb": "tt18327658",
+    "tmdb": 949218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

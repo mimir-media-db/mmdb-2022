@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarajevo_safari_2022",
+  "title": "Sarajevo Safari",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136772119",
+    "imdb": "tt23861448",
+    "tmdb": 1022995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27"
+}

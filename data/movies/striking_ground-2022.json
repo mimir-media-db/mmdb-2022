@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_striking_ground_2022",
+  "title": "Striking Ground",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110820285",
+    "imdb": "tt17555634",
+    "tmdb": 928009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 66
+}

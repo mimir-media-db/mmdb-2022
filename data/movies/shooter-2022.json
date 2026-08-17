@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shooter_2022",
+  "title": "Shooter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85847202",
+    "imdb": "tt11749480",
+    "tmdb": 688266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-14"
+}

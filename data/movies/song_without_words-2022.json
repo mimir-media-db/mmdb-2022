@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_without_words_2022",
+  "title": "Song Without Words",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600839",
+    "imdb": "tt10054946",
+    "tmdb": 1438022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 83
+}

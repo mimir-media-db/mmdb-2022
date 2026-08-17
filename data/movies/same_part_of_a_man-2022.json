@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_same_part_of_a_man_2022",
+  "title": "The Same Part of a Man",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114151535",
+    "imdb": "tt10441878",
+    "tmdb": 784149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-07"
+}

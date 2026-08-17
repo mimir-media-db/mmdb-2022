@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_my_wife_2022",
+  "title": "The Story of My Wife",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64995036",
+    "imdb": "tt8205028",
+    "tmdb": 574078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 169
+}

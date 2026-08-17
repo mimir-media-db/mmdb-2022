@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subtraction_2022",
+  "title": "Subtraction",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113952414",
+    "imdb": "tt13920920",
+    "tmdb": 1008043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-12",
+  "runtime_minutes": 107
+}

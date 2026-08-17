@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saiyar_mori_re_2022",
+  "title": "Saiyar Mori Re",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120188611",
+    "imdb": "tt21094328",
+    "tmdb": 1212397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-08"
+}

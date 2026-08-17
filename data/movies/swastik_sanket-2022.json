@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swastik_sanket_2022",
+  "title": "Swastik Sanket",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106855868",
+    "imdb": "tt13684082",
+    "tmdb": 918574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

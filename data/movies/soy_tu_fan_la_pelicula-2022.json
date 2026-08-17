@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soy_tu_fan_la_pelicula_2022",
+  "title": "Soy Tu Fan: La Película",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115608903",
+    "imdb": "tt15021648",
+    "tmdb": 1002770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

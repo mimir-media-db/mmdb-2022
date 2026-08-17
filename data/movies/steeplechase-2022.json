@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steeplechase_2022",
+  "title": "Steeplechase",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127870933",
+    "imdb": "tt21401580",
+    "tmdb": 1100164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

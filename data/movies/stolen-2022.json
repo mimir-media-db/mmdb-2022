@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_2022",
+  "title": "The Stolen",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60849177",
+    "imdb": "tt1680140",
+    "tmdb": 484238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-10",
+  "runtime_minutes": 98
+}

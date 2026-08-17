@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_see_for_me_2022",
+  "title": "See for Me",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108166759",
+    "imdb": "tt11209212",
+    "tmdb": 825808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-07",
+  "runtime_minutes": 92
+}

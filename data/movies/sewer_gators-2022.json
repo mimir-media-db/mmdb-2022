@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sewer_gators_2022",
+  "title": "Sewer Gators",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112620645",
+    "imdb": "tt17373104",
+    "tmdb": 971065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schrille_nacht_2022",
+  "title": "Schrille Nacht",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115407258",
+    "imdb": "tt23498788",
+    "tmdb": 1064284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_satanic_hispanics_2022",
+  "title": "Satanic Hispanics",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124285725",
+    "imdb": "tt22085392",
+    "tmdb": 1015080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_terror_2022",
+  "title": "Silent Terror",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137599733",
+    "imdb": "tt21440572",
+    "tmdb": 1037754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-26",
+  "runtime_minutes": 75
+}

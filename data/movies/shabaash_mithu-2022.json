@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shabaash_mithu_2022",
+  "title": "Shabaash Mithu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109002043",
+    "imdb": "tt6265050",
+    "tmdb": 911154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-15",
+  "runtime_minutes": 156
+}

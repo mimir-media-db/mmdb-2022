@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strong_sex_2022",
+  "title": "The Strong Sex",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111431604",
+    "imdb": "tt11097420",
+    "tmdb": 835368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-26",
+  "runtime_minutes": 103
+}

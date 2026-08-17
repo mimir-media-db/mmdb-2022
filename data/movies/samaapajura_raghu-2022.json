@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samaapajura_raghu_2022",
+  "title": "Samaapajura Raghu",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110754796",
+    "imdb": "tt18361688",
+    "tmdb": 1027199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-30"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_salon_married_women_2022",
+  "title": "Salon Married Women",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842479",
+    "tmdb": 974821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_much_tenderness_2022",
+  "title": "So Much Tenderness",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113997780",
+    "imdb": "tt16022080",
+    "tmdb": 1011680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 118
+}

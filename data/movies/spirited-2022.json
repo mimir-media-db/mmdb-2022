@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirited_2022",
+  "title": "Spirited",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107463341",
+    "imdb": "tt10999120",
+    "tmdb": 632856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-11"
+}

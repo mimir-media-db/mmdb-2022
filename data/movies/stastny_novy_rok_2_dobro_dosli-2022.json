@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stastny_novy_rok_2_dobro_dosli_2022",
+  "title": "Šťastný nový rok 2: Dobro došli",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115868133",
+    "imdb": "tt16251138",
+    "tmdb": 835385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17",
+  "runtime_minutes": 95
+}

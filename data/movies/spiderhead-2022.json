@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiderhead_2022",
+  "title": "Spiderhead",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104094034",
+    "imdb": "tt9783600",
+    "tmdb": 615469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17",
+  "runtime_minutes": 107
+}

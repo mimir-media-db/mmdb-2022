@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_cold_the_river_2022",
+  "title": "So Cold the River",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110811891",
+    "imdb": "tt2184390",
+    "tmdb": 811061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-25",
+  "runtime_minutes": 95
+}

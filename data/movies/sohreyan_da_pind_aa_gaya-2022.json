@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sohreyan_da_pind_aa_gaya_2022",
+  "title": "Sohreyan Da Pind Aa Gaya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96405923",
+    "imdb": "tt11478150",
+    "tmdb": 680980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-08"
+}

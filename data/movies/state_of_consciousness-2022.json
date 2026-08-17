@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_consciousness_2022",
+  "title": "State of Consciousness",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127503611",
+    "imdb": "tt8390476",
+    "tmdb": 842927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

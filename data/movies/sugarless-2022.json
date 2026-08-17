@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sugarless_2022",
+  "title": "Sugarless",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113298166",
+    "imdb": "tt15333582",
+    "tmdb": 741926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-08"
+}

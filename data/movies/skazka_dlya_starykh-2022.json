@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skazka_dlya_starykh_2022",
+  "title": "Skazka dlya starykh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112977211",
+    "imdb": "tt22479920",
+    "tmdb": 938568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-25",
+  "runtime_minutes": 80
+}

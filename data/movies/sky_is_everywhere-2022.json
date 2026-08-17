@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_is_everywhere_2022",
+  "title": "The Sky Is Everywhere",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104845853",
+    "imdb": "tt2201261",
+    "tmdb": 640265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

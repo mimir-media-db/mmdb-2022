@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_will_2022",
+  "title": "Steel Will",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114368808",
+    "imdb": "tt22207578",
+    "tmdb": 1028531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-30"
+}

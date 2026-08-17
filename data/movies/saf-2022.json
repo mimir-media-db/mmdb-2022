@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saf_2022",
+  "title": "SAF",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110611574",
+    "imdb": "tt8901582",
+    "tmdb": 543994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24"
+}

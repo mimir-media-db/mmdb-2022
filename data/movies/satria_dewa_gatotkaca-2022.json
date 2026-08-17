@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_satria_dewa_gatotkaca_2022",
+  "title": "Satria Dewa: Gatotkaca",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97235156",
+    "imdb": "tt10090058",
+    "tmdb": 667062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-09",
+  "runtime_minutes": 129
+}

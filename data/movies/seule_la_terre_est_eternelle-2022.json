@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seule_la_terre_est_eternelle_2022",
+  "title": "Seule la terre est éternelle",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111222689",
+    "imdb": "tt18236266",
+    "tmdb": 943046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 112
+}

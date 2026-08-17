@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_of_the_mole_2022",
+  "title": "The Silence of the Mole",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117312248",
+    "imdb": "tt14560726",
+    "tmdb": 809481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 92
+}

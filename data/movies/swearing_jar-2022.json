@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swearing_jar_2022",
+  "title": "The Swearing Jar",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114043857",
+    "imdb": "tt6692776",
+    "tmdb": 826754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-11",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salir_del_closet_2022",
+  "title": "Salir del clóset",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116909634",
+    "imdb": "tt26628059",
+    "tmdb": 1038330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

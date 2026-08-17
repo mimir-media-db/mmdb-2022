@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_paradise_a_family_tale_2022",
+  "title": "Surviving Paradise: A Family Tale",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111811863",
+    "imdb": "tt18059108",
+    "tmdb": 936625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-03",
+  "runtime_minutes": 78
+}
