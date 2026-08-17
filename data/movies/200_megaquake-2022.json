@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_200_megaquake_2022",
+  "title": "20.0 Megaquake",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121294946",
+    "imdb": "tt23873418",
+    "tmdb": 1089345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08",
+  "runtime_minutes": 84
+}
