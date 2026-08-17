@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_coastal_railway_journeys",
+  "title": "Great Coastal Railway Journeys",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110811926",
+    "imdb": "tt17291394",
+    "tmdb": 156342
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_people",
+  "title": "Good People",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q117802724",
+    "imdb": "tt21160458",
+    "tmdb": 213073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

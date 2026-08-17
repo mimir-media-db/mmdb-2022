@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gilded_age",
+  "title": "The Gilded Age",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48816554",
+    "imdb": "tt4406178",
+    "tmdb": 81723
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 25
+}

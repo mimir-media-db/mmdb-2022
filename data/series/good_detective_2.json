@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_good_detective_2",
+  "title": "The Good Detective 2",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109537053",
+    "imdb": "tt12504214",
+    "tmdb": 99480
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

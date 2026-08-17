@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gaus_electronics",
+  "title": "Gaus Electronics",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113956937",
+    "imdb": "tt22873700",
+    "tmdb": 197084
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gods_favorite_idiot",
+  "title": "God's Favorite Idiot",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109237015",
+    "imdb": "tt13861620",
+    "tmdb": 114201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
