@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_snow_black",
+  "title": "Snow Black",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111534525",
+    "imdb": "tt19496270",
+    "tmdb": 194884
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

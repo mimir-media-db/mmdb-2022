@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sanjog",
+  "title": "Sanjog",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113127633",
+    "imdb": "tt21280118",
+    "tmdb": 209347
+  },
+  "last_updated": "2026-08-17"
+}

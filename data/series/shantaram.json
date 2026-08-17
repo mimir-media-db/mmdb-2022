@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shantaram",
+  "title": "Shantaram",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106582907",
+    "imdb": "tt0429087",
+    "tmdb": 95341
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

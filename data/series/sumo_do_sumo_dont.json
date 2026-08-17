@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sumo_do_sumo_dont",
+  "title": "Sumo Do, Sumo Don't",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114796307",
+    "imdb": "tt22187310",
+    "tmdb": 210345
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

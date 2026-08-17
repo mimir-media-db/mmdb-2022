@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_something_in_my_room",
+  "title": "Something in My Room",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113414398",
+    "imdb": "tt20213316"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

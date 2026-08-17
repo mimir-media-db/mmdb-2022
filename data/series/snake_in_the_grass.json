@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_snake_in_the_grass",
+  "title": "Snake in the Grass",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113649124",
+    "imdb": "tt20228422",
+    "tmdb": 206427
+  },
+  "last_updated": "2026-08-17"
+}

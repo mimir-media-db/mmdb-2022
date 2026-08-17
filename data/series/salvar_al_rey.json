@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_salvar_al_rey",
+  "title": "Salvar al rey",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q113899625",
+    "imdb": "tt22022560",
+    "tmdb": 209489
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

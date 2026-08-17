@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_savage_beauty",
+  "title": "Savage Beauty",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111702687",
+    "imdb": "tt19671142",
+    "tmdb": 197427
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

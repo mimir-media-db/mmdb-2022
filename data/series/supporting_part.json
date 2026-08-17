@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_supporting_part",
+  "title": "Supporting Part",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131756042"
+  },
+  "last_updated": "2026-08-17"
+}

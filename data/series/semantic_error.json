@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_semantic_error",
+  "title": "Semantic Error",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111137623",
+    "imdb": "tt17080956",
+    "tmdb": 157208
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

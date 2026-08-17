@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_trek_strange_new_worlds",
+  "title": "Star Trek: Strange New Worlds",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q94527193",
+    "imdb": "tt12327578",
+    "tmdb": 103516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 33
+}

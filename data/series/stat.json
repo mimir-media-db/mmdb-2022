@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stat",
+  "title": "Stat",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113380411",
+    "imdb": "tt22037002",
+    "tmdb": 210078
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 236
+}
