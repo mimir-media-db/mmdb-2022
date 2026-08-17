@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pantanal_2022",
+  "title": "Pantanal (2022)",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110388189",
+    "imdb": "tt19267756",
+    "tmdb": 158415
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 167
+}

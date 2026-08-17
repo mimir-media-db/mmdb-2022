@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_playground_2022_tv_series",
+  "title": "Playground (2022 TV series)",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124789188",
+    "imdb": "tt21186282",
+    "tmdb": 276251
+  },
+  "last_updated": "2026-08-17"
+}

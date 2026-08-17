@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_punishment",
+  "title": "Punishment",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112574058",
+    "imdb": "tt15545216",
+    "tmdb": 204946
+  },
+  "last_updated": "2026-08-17"
+}

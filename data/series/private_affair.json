@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_private_affair",
+  "title": "A Private Affair",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106571768",
+    "imdb": "tt10698534",
+    "tmdb": 112321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

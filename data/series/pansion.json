@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pansion",
+  "title": "Pansion",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q115119271",
+    "imdb": "tt22873772",
+    "tmdb": 213587
+  },
+  "last_updated": "2026-08-17"
+}

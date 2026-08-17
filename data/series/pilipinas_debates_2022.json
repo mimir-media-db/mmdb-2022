@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_pilipinas_debates_2022",
+  "title": "PiliPinas Debates 2022",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110714842"
+  },
+  "last_updated": "2026-08-17"
+}
