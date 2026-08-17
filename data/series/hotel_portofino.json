@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_portofino",
+  "title": "Hotel Portofino",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110895851",
+    "imdb": "tt14815774",
+    "tmdb": 155623
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

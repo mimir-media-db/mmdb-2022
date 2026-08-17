@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heartbreak_high",
+  "title": "Heartbreak High",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110010433",
+    "imdb": "tt15054962",
+    "tmdb": 158154
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

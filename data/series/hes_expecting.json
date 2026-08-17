@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hes_expecting",
+  "title": "He's Expecting",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107354829",
+    "imdb": "tt14719276",
+    "tmdb": 152291
+  },
+  "last_updated": "2026-08-17"
+}

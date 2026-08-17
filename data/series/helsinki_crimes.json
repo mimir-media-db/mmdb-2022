@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_helsinki_crimes",
+  "title": "Helsinki Crimes",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110446318",
+    "imdb": "tt17605198",
+    "tmdb": 209866
+  },
+  "last_updated": "2026-08-17"
+}
