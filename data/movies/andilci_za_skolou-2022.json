@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andilci_za_skolou_2022",
+  "title": "Andílci za skolou",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898012",
+    "imdb": "tt8608822",
+    "tmdb": 663234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

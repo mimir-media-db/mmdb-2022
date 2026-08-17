@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_hail_2022",
+  "title": "All Hail",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110986789",
+    "imdb": "tt16427718",
+    "tmdb": 682344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 118
+}

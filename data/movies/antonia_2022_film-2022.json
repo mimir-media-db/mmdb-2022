@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antonia_2022_film_2022",
+  "title": "Antonia (2022 film)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123943787",
+    "imdb": "tt27524390",
+    "tmdb": 1004442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_along_the_way_2022",
+  "title": "Along the Way",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110815705",
+    "imdb": "tt15710474",
+    "tmdb": 924128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-04",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_joan_2022",
+  "title": "About Joan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100557141",
+    "imdb": "tt13153470",
+    "tmdb": 820713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-15",
+  "runtime_minutes": 101
+}

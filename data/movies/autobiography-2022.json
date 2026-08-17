@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_autobiography_2022",
+  "title": "Autobiography",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111755353",
+    "imdb": "tt21372280",
+    "tmdb": 859981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 115
+}

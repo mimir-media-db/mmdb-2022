@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_quiet_on_the_western_front_2022",
+  "title": "All Quiet on the Western Front",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108837349",
+    "imdb": "tt1016150",
+    "tmdb": 49046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-12",
+  "runtime_minutes": 147
+}

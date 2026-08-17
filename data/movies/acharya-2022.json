@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_acharya_2022",
+  "title": "Acharya",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371440",
+    "imdb": "tt11563070",
+    "tmdb": 679919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

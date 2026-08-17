@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amber_road_2022",
+  "title": "Amber Road",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123012895",
+    "imdb": "tt11416582",
+    "tmdb": 1095775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_argentina_1985_2022",
+  "title": "Argentina, 1985",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113450389",
+    "imdb": "tt15301048",
+    "tmdb": 714888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-03",
+  "runtime_minutes": 140
+}

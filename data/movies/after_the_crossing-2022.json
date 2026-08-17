@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_crossing_2022",
+  "title": "After the Crossing",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q87277453",
+    "imdb": "tt11803676",
+    "tmdb": 665474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-05",
+  "runtime_minutes": 77
+}

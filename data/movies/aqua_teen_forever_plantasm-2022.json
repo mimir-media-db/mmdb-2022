@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aqua_teen_forever_plantasm_2022",
+  "title": "Aqua Teen Forever: Plantasm",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113588515",
+    "imdb": "tt14636190",
+    "tmdb": 828900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

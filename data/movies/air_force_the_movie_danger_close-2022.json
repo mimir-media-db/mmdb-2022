@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_air_force_the_movie_danger_close_2022",
+  "title": "Air Force The Movie: Danger Close",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113468946",
+    "imdb": "tt14571464",
+    "tmdb": 988294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-25"
+}

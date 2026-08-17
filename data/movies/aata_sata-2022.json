@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aata_sata_2022",
+  "title": "Aata Sata",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114502430",
+    "imdb": "tt22493462",
+    "tmdb": 1035303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

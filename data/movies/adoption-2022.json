@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_adoption_2022",
+  "title": "Adoption",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137101497",
+    "imdb": "tt16379824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-08"
+}

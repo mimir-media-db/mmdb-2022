@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aristocrats_2022",
+  "title": "Aristocrats",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97159861",
+    "imdb": "tt12440140",
+    "tmdb": 718498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-30",
+  "runtime_minutes": 124
+}

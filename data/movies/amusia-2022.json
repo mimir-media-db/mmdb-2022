@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amusia_2022",
+  "title": "Amusia",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118188918",
+    "imdb": "tt15216236",
+    "tmdb": 922133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 91
+}

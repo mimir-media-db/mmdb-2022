@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anthrax_attacks_in_the_shadow_of_911_2022",
+  "title": "The Anthrax Attacks: In the Shadow of 9/11",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120637255",
+    "imdb": "tt21746178",
+    "tmdb": 1013609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08",
+  "runtime_minutes": 94
+}

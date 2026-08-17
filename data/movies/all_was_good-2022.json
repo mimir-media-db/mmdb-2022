@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_was_good_2022",
+  "title": "All Was Good",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111104890",
+    "imdb": "tt17554444",
+    "tmdb": 926880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 77
+}

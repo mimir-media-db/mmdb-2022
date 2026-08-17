@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_against_the_ice_2022",
+  "title": "Against The Ice",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105658120",
+    "imdb": "tt13873302",
+    "tmdb": 836009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alors_on_danse_2022",
+  "title": "Alors on danse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107171860",
+    "imdb": "tt12883472",
+    "tmdb": 781478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16",
+  "runtime_minutes": 87
+}

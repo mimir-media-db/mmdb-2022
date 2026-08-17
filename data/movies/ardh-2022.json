@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ardh_2022",
+  "title": "Ardh",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112117282",
+    "imdb": "tt20840000",
+    "tmdb": 945324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-10"
+}

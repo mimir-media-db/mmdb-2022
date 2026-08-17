@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aheds_knee_2022",
+  "title": "Ahed's Knee",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107089450",
+    "imdb": "tt12494638",
+    "tmdb": 662029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-17"
+}

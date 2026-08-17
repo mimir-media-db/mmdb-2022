@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_algo_que_paso_en_ano_nuevo_2022",
+  "title": "Algo que pasó en Año Nuevo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115573176",
+    "imdb": "tt22192366",
+    "tmdb": 1017396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

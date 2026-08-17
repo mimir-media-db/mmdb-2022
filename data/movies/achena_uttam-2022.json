@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_achena_uttam_2022",
+  "title": "Achena Uttam",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110128024",
+    "imdb": "tt21296906",
+    "tmdb": 809195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-22"
+}
