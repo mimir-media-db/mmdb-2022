@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trixie_motel",
+  "title": "Trixie Motel",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107103781",
+    "imdb": "tt14721926",
+    "tmdb": 202723
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_teppachi",
+  "title": "Teppachi",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111908497",
+    "imdb": "tt21116272",
+    "tmdb": 204319
+  },
+  "last_updated": "2026-08-17"
+}

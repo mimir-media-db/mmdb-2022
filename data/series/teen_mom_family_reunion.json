@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_teen_mom_family_reunion",
+  "title": "Teen Mom: Family Reunion",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111949348",
+    "imdb": "tt16288636",
+    "tmdb": 153524
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_going_to_hurt",
+  "title": "This Is Going to Hurt",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107210698",
+    "imdb": "tt8681148",
+    "tmdb": 154359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}
