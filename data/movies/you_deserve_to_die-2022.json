@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_deserve_to_die_2022",
+  "title": "You Deserve to Die",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125758160",
+    "imdb": "tt21154728",
+    "tmdb": 1018518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-13",
+  "runtime_minutes": 106
+}

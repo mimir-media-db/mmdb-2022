@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yt_2022",
+  "title": "Yt",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111608559",
+    "imdb": "tt15485228",
+    "tmdb": 876895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-15",
+  "runtime_minutes": 102
+}
