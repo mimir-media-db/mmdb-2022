@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_harkis_2022",
+  "title": "Les Harkis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111657627",
+    "imdb": "tt19785552",
+    "tmdb": 934752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-18",
+  "runtime_minutes": 82
+}

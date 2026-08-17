@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_las_razones_del_lobo_2022",
+  "title": "Las razones del lobo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116885445",
+    "imdb": "tt14154236"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

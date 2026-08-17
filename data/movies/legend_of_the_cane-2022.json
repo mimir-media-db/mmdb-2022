@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_cane_2022",
+  "title": "The Legend of the Cane",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110113293",
+    "imdb": "tt20764134",
+    "tmdb": 1481072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 105
+}

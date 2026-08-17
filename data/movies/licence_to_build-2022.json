@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_licence_to_build_2022",
+  "title": "Licence to Build",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111103511",
+    "imdb": "tt13941852",
+    "tmdb": 886563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 93
+}

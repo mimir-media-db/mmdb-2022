@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_francais_qui_nont_pas_invente_internet_2022",
+  "title": "Les Français qui n'ont pas inventé internet",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111366249",
+    "imdb": "tt17009574",
+    "tmdb": 1071269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_girls_2022",
+  "title": "The Lost Girls",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110263615",
+    "imdb": "tt1023464",
+    "tmdb": 762006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

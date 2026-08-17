@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lapland_odyssey_4_2022",
+  "title": "Lapland Odyssey 4",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113394380",
+    "imdb": "tt21956076",
+    "tmdb": 879301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

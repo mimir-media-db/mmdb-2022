@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luomo_sulla_strada_2022",
+  "title": "L'uomo sulla strada",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115353075",
+    "imdb": "tt18792604",
+    "tmdb": 1033569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-15",
+  "runtime_minutes": 110
+}

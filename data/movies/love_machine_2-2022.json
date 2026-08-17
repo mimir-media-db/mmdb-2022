@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_machine_2_2022",
+  "title": "Love Machine 2",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110015480",
+    "imdb": "tt16450934",
+    "tmdb": 888305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-06"
+}

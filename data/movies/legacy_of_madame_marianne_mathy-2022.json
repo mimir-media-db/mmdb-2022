@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legacy_of_madame_marianne_mathy_2022",
+  "title": "The Legacy of Madame Marianne Mathy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128789609",
+    "imdb": "tt17634118"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 69
+}

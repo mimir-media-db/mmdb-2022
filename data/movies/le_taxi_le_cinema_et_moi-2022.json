@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_taxi_le_cinema_et_moi_2022",
+  "title": "Le taxi, le cinéma et moi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126016930",
+    "imdb": "tt21951504",
+    "tmdb": 1064584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

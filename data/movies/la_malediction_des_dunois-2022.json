@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_malediction_des_dunois_2022",
+  "title": "La Malédiction des Dunois",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187380",
+    "imdb": "tt22206894",
+    "tmdb": 1027646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-26"
+}

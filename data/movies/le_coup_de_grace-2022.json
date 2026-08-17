@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_coup_de_grace_2022",
+  "title": "Le coup de grâce",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118868190",
+    "imdb": "tt21368220",
+    "tmdb": 1086356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-21",
+  "runtime_minutes": 115
+}

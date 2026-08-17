@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_caballos_mueren_al_amanecer_2022",
+  "title": "Los caballos mueren al amanecer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119104538",
+    "imdb": "tt19514026",
+    "tmdb": 948328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lou_2022",
+  "title": "Lou",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114142833",
+    "imdb": "tt5315210",
+    "tmdb": 429473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 107
+}

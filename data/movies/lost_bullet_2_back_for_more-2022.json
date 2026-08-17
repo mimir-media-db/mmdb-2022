@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_bullet_2_back_for_more_2022",
+  "title": "Lost Bullet 2: Back for More",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114642553",
+    "imdb": "tt14465706",
+    "tmdb": 948276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-10",
+  "runtime_minutes": 98
+}

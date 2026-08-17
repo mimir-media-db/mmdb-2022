@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leave_in_summer_2022",
+  "title": "Leave in Summer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333223",
+    "imdb": "tt18750286",
+    "tmdb": 1009642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larry_2022",
+  "title": "Larry",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114670765",
+    "imdb": "tt12952376",
+    "tmdb": 1037675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01",
+  "runtime_minutes": 108
+}

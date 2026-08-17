@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_it_ghost_2022",
+  "title": "Let It Ghost",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111799802",
+    "imdb": "tt23331612",
+    "tmdb": 991538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27"
+}

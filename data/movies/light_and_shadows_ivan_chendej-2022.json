@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_light_and_shadows_ivan_chendej_2022",
+  "title": "Light and Shadows. Ivan Chendej",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573899",
+    "imdb": "tt21934732",
+    "tmdb": 1269078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-16",
+  "runtime_minutes": 74
+}

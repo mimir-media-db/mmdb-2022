@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamborghini_the_man_behind_the_legend_2022",
+  "title": "Lamborghini: The Man Behind the Legend",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54020736",
+    "imdb": "tt5533370",
+    "tmdb": 457232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-18"
+}

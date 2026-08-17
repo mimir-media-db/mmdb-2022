@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_deutschmarks_and_death_2022",
+  "title": "Love, Deutschmarks and Death",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110610946",
+    "imdb": "tt13588944",
+    "tmdb": 928350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-15",
+  "runtime_minutes": 96
+}

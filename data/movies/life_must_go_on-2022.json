@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_must_go_on_2022",
+  "title": "Life Must Go On",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108003300",
+    "imdb": "tt22325980",
+    "tmdb": 1005548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-06"
+}

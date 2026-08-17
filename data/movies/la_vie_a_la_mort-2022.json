@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_a_la_mort_2022",
+  "title": "À la vie, à la mort",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136225994",
+    "imdb": "tt25377500"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

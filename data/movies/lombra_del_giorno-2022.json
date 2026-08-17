@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lombra_del_giorno_2022",
+  "title": "L'ombra del giorno",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111620847",
+    "imdb": "tt14404954",
+    "tmdb": 834141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-24",
+  "runtime_minutes": 125
+}

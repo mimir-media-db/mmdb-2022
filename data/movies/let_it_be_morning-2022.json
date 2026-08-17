@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_it_be_morning_2022",
+  "title": "Let It Be Morning",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107298396",
+    "imdb": "tt14775586",
+    "tmdb": 504600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-13",
+  "runtime_minutes": 101
+}

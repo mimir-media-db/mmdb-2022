@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_campagne_de_france_2022",
+  "title": "La campagne de France",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111489060",
+    "imdb": "tt13578540",
+    "tmdb": 877614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 98
+}

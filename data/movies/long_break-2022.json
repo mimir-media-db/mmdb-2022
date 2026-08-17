@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_break_2022",
+  "title": "A Long Break",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119978906",
+    "imdb": "tt11703882",
+    "tmdb": 865578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 110
+}

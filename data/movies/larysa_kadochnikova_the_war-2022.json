@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larysa_kadochnikova_the_war_2022",
+  "title": "Larysa Kadochnikova. The War",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575985",
+    "imdb": "tt27865286",
+    "tmdb": 1097556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-30",
+  "runtime_minutes": 70
+}

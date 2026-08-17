@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laal_singh_chaddha_2022",
+  "title": "Laal Singh Chaddha",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73093255",
+    "imdb": "tt10028196",
+    "tmdb": 601635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-11",
+  "runtime_minutes": 159
+}

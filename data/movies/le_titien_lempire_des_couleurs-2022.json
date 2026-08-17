@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_titien_lempire_des_couleurs_2022",
+  "title": "Le Titien, l'empire des couleurs",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126918655",
+    "imdb": "tt22048180",
+    "tmdb": 1031609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

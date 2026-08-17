@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_comrade_2022",
+  "title": "The Little Comrade",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56223523",
+    "imdb": "tt6315438",
+    "tmdb": 514464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-19",
+  "runtime_minutes": 100
+}

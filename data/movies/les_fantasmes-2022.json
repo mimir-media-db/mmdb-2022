@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_fantasmes_2022",
+  "title": "Les Fantasmes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105631967",
+    "imdb": "tt13502758",
+    "tmdb": 768127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13"
+}

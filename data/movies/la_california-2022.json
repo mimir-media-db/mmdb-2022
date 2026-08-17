@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_california_2022",
+  "title": "La California",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115314108",
+    "imdb": "tt3485924",
+    "tmdb": 1037746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-18"
+}
