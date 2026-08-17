@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_framed_a_sicilian_murder_mystery",
+  "title": "Framed! A Sicilian Murder Mystery",
+  "start_year": 2021,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110390582",
+    "imdb": "tt16745502",
+    "tmdb": 154535
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

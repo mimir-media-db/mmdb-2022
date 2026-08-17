@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fuerza_de_paz",
+  "title": "Fuerza de paz",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107400601",
+    "imdb": "tt14077264",
+    "tmdb": 128033
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first_kill",
+  "title": "First Kill",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111992658",
+    "imdb": "tt13315156",
+    "tmdb": 111616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

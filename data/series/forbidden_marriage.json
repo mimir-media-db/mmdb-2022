@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_forbidden_marriage",
+  "title": "The Forbidden Marriage",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112563437",
+    "imdb": "tt24224784",
+    "tmdb": 201330
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
