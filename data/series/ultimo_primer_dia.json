@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimo_primer_dia",
+  "title": "Último primer día",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109619544",
+    "imdb": "tt19799522",
+    "tmdb": 200558
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
