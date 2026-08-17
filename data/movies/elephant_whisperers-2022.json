@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_whisperers_2022",
+  "title": "The Elephant Whisperers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115673833",
+    "imdb": "tt23628262",
+    "tmdb": 1041580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08",
+  "runtime_minutes": 41
+}

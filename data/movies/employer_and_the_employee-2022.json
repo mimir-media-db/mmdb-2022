@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_employer_and_the_employee_2022",
+  "title": "The Employer and the Employee",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111765798",
+    "imdb": "tt14812780",
+    "tmdb": 764443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-06",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_everywhere_all_at_once_2022",
+  "title": "Everything Everywhere All at Once",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83808444",
+    "imdb": "tt6710474",
+    "tmdb": 545611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-11",
+  "runtime_minutes": 139
+}

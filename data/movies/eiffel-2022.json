@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eiffel_2022",
+  "title": "Eiffel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97164958",
+    "imdb": "tt10366514",
+    "tmdb": 655082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-10",
+  "runtime_minutes": 108
+}

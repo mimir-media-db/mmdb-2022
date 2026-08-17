@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elvis_2022",
+  "title": "Elvis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84362533",
+    "imdb": "tt3704428",
+    "tmdb": 614934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-25",
+  "runtime_minutes": 159
+}

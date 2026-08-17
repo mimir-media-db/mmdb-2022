@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eddie_sunny_2022",
+  "title": "Eddie & Sunny",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051253",
+    "imdb": "tt6032812",
+    "tmdb": 855445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 98
+}

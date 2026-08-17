@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_critico_2022",
+  "title": "El crítico",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114498209",
+    "imdb": "tt21936604",
+    "tmdb": 1018931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

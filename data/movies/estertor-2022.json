@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estertor_2022",
+  "title": "Estertor",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115309143",
+    "imdb": "tt23182014",
+    "tmdb": 1044119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

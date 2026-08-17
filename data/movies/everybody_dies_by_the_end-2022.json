@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_dies_by_the_end_2022",
+  "title": "Everybody Dies by the End",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114834839",
+    "imdb": "tt9150828",
+    "tmdb": 999874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

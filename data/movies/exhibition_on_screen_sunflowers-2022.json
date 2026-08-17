@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_sunflowers_2022",
+  "title": "Exhibition On Screen: Sunflowers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107134117",
+    "imdb": "tt14726184",
+    "tmdb": 828080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27",
+  "runtime_minutes": 85
+}

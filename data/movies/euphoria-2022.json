@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_euphoria_2022",
+  "title": "Euphoria",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131017364",
+    "imdb": "tt30448039",
+    "tmdb": 1056272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

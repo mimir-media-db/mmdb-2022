@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_in_between_2022",
+  "title": "Everything In Between",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600353",
+    "imdb": "tt13905818",
+    "tmdb": 939029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ero_in_guerra_ma_non_lo_sapevo_2022",
+  "title": "Ero in guerra ma non lo sapevo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110955228",
+    "imdb": "tt11854326",
+    "tmdb": 776340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-24",
+  "runtime_minutes": 93
+}

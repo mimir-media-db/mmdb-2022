@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_2022",
+  "title": "Elephant",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120863819",
+    "imdb": "tt15655826",
+    "tmdb": 996565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-27",
+  "runtime_minutes": 94
+}

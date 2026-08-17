@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_will_be_ok_2022",
+  "title": "Everything Will Be Ok",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110621295",
+    "imdb": "tt15386518",
+    "tmdb": 928715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 98
+}

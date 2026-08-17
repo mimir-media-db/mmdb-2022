@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_villain_returns_2022",
+  "title": "Ek Villain Returns",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106040398",
+    "imdb": "tt11947158",
+    "tmdb": 682401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-29",
+  "runtime_minutes": 129
+}

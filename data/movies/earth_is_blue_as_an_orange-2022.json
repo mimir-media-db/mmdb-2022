@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_is_blue_as_an_orange_2022",
+  "title": "The Earth Is Blue as an Orange",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84267513",
+    "imdb": "tt11394290",
+    "tmdb": 653753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-08",
+  "runtime_minutes": 74
+}

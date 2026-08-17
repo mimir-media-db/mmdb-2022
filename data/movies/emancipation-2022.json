@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emancipation_2022",
+  "title": "Emancipation",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107803472",
+    "imdb": "tt12530246",
+    "tmdb": 715931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 132
+}

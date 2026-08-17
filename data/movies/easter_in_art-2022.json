@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_easter_in_art_2022",
+  "title": "Easter in Art",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110936731",
+    "imdb": "tt11848258",
+    "tmdb": 607707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-05",
+  "runtime_minutes": 86
+}
