@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cattivo_sangue_2022",
+  "title": "Cattivo sangue",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116392456",
+    "imdb": "tt8378322",
+    "tmdb": 892447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

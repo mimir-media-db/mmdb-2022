@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_come_with_me_to_the_cinema_the_gregors_2022",
+  "title": "Come With Me To The Cinema - The Gregors",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113320134",
+    "imdb": "tt17544496",
+    "tmdb": 926940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-13",
+  "runtime_minutes": 155
+}

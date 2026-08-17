@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corrective_measures_2022",
+  "title": "Corrective Measures",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111630219",
+    "imdb": "tt15391770",
+    "tmdb": 872177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-29",
+  "runtime_minutes": 106
+}

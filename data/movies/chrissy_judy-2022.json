@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chrissy_judy_2022",
+  "title": "Chrissy Judy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124618157",
+    "imdb": "tt20117432",
+    "tmdb": 972706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 96
+}

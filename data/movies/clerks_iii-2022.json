@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clerks_iii_2022",
+  "title": "Clerks III",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107871488",
+    "imdb": "tt11128440",
+    "tmdb": 635891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-13",
+  "runtime_minutes": 100
+}

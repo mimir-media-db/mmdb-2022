@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaudhry_the_martyr_2022",
+  "title": "Chaudhry – The Martyr",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768642",
+    "imdb": "tt21217804",
+    "tmdb": 996262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-24"
+}

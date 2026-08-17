@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_con_chi_viaggi_2022",
+  "title": "Con chi viaggi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112254299",
+    "imdb": "tt16088368",
+    "tmdb": 893672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-23",
+  "runtime_minutes": 73
+}

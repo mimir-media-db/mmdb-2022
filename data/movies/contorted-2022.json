@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_contorted_2022",
+  "title": "Contorted",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114407234",
+    "imdb": "tt21263500",
+    "tmdb": 877260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-13"
+}

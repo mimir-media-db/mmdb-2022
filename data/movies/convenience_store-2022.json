@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_convenience_store_2022",
+  "title": "Convenience Store",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110792920",
+    "imdb": "tt17079178",
+    "tmdb": 779056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 106
+}

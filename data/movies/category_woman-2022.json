@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_category_woman_2022",
+  "title": "Category: Woman",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125019168",
+    "imdb": "tt19733646",
+    "tmdb": 956802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-01",
+  "runtime_minutes": 80
+}

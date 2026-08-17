@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_compound_eyes_of_tropical_2022",
+  "title": "Compound Eyes of Tropical",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123412902",
+    "imdb": "tt27744708",
+    "tmdb": 1030957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

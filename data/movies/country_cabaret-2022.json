@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_country_cabaret_2022",
+  "title": "Country Cabaret",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111833848",
+    "imdb": "tt14793714",
+    "tmdb": 892508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 109
+}

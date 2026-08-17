@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catherine_called_birdy_2022",
+  "title": "Catherine Called Birdy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106362830",
+    "imdb": "tt11727866",
+    "tmdb": 795109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 108
+}

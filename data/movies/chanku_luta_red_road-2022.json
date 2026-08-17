@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chanku_luta_red_road_2022",
+  "title": "Chankú Lúta – Red Road",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137947195",
+    "imdb": "tt22462894"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-27",
+  "runtime_minutes": 20
+}

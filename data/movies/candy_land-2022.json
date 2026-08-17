@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_land_2022",
+  "title": "Candy Land",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117196641",
+    "imdb": "tt13857556",
+    "tmdb": 826753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 93
+}

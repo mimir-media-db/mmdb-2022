@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_couleurs_de_lincendie_2022",
+  "title": "Couleurs de l'incendie",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112099877",
+    "imdb": "tt13217988",
+    "tmdb": 785980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-09",
+  "runtime_minutes": 134
+}

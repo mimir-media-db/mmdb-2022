@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chinas_warrior_queen_fu_hao_2022",
+  "title": "China's Warrior Queen: Fu Hao",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111252365",
+    "imdb": "tt18374990",
+    "tmdb": 951847
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-21",
+  "runtime_minutes": 52
+}

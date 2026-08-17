@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_community_life_2022",
+  "title": "Community life",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122386977",
+    "imdb": "tt28509138",
+    "tmdb": 1171161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-01",
+  "runtime_minutes": 44
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_and_the_city_2022",
+  "title": "The City and the City",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110643235",
+    "imdb": "tt14210824",
+    "tmdb": 928728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

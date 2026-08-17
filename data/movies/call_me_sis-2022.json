@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_sis_2022",
+  "title": "Call Me sis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432277",
+    "tmdb": 596753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-08"
+}

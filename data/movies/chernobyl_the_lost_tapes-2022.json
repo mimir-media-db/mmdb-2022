@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chernobyl_the_lost_tapes_2022",
+  "title": "Chernobyl: The Lost Tapes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113002466",
+    "imdb": "tt13913326",
+    "tmdb": 944625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-28",
+  "runtime_minutes": 91
+}

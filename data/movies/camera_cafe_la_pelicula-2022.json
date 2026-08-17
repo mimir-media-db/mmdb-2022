@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camera_cafe_la_pelicula_2022",
+  "title": "Camera Café: la película",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111383097",
+    "imdb": "tt12089564",
+    "tmdb": 762823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

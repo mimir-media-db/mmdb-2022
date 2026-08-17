@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cave_2022",
+  "title": "The Cave",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597921",
+    "tmdb": 874762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-20"
+}

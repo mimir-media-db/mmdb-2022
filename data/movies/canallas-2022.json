@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_canallas_2022",
+  "title": "Canallas",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110827294",
+    "imdb": "tt11694374",
+    "tmdb": 939892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-01"
+}

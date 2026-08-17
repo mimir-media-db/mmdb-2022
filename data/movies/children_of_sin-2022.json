@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_sin_2022",
+  "title": "Children of Sin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131234497",
+    "imdb": "tt14926864",
+    "tmdb": 923763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cord_of_life_2022",
+  "title": "The Cord of Life",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131302015",
+    "imdb": "tt20448482",
+    "tmdb": 1026904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-25",
+  "runtime_minutes": 96
+}

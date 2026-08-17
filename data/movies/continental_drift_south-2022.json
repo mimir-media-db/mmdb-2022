@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_continental_drift_south_2022",
+  "title": "Continental Drift (South)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113303859",
+    "imdb": "tt8923444",
+    "tmdb": 958978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

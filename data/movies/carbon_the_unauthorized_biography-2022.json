@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carbon_the_unauthorized_biography_2022",
+  "title": "Carbon - The Unauthorized Biography",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135414461",
+    "imdb": "tt17939566",
+    "tmdb": 931766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compassionate_spy_2022",
+  "title": "A Compassionate Spy",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116880980",
+    "imdb": "tt21376858",
+    "tmdb": 1004677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 102
+}

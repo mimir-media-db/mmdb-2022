@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_on_mistletoe_farm_2022",
+  "title": "Christmas On Mistletoe Farm",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116245032",
+    "imdb": "tt20561114",
+    "tmdb": 1038627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-23"
+}

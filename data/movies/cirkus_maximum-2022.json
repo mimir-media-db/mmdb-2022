@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cirkus_maximum_2022",
+  "title": "Cirkus Maximum",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113362763",
+    "imdb": "tt22820232",
+    "tmdb": 1025012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 97
+}
