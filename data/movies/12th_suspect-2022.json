@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12th_suspect_2022",
+  "title": "The 12th Suspect",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64577280",
+    "imdb": "tt10410602",
+    "tmdb": 605767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-23",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_18_pages_2022",
+  "title": "18 Pages",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107462978",
+    "imdb": "tt11915042",
+    "tmdb": 894758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-23",
+  "runtime_minutes": 133
+}

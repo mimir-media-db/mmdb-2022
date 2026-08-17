@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1996_dharmapuri_2022",
+  "title": "1996 Dharmapuri",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115783139",
+    "imdb": "tt20223526",
+    "tmdb": 1057541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22",
+  "runtime_minutes": 132
+}

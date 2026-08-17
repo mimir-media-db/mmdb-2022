@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_2022",
+  "title": "13",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110895861",
+    "imdb": "tt3975918",
+    "tmdb": 673271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-12",
+  "runtime_minutes": 94
+}

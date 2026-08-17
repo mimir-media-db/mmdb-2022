@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_cerita_glen_anggara_2022",
+  "title": "12 Cerita Glen Anggara",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97214909",
+    "imdb": "tt14403244",
+    "tmdb": 811711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-18",
+  "runtime_minutes": 118
+}

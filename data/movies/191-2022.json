@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_191_2022",
+  "title": "19(1)",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107548074",
+    "imdb": "tt13394304",
+    "tmdb": 766418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-29",
+  "runtime_minutes": 108
+}

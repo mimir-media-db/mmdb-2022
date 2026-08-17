@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1341_frames_of_love_and_war_2022",
+  "title": "1341 Frames of Love and War",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119011397",
+    "imdb": "tt17593934",
+    "tmdb": 916390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-13",
+  "runtime_minutes": 136
+}
