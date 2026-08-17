@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_my_ghost_2022",
+  "title": "Oh! My Ghost",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107675694",
+    "imdb": "tt27547850",
+    "tmdb": 795295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15"
+}

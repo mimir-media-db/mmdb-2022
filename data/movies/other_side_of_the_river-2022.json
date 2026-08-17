@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_side_of_the_river_2022",
+  "title": "The Other Side of the River",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109987978",
+    "imdb": "tt14599510",
+    "tmdb": 816561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-27",
+  "runtime_minutes": 92
+}

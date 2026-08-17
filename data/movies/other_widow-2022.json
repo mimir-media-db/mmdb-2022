@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_widow_2022",
+  "title": "The Other Widow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121240404",
+    "imdb": "tt22781826",
+    "tmdb": 1053135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-21",
+  "runtime_minutes": 83
+}

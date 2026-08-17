@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olsen_gang_last_scream_2022",
+  "title": "The Olsen Gang - Last scream!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107050761",
+    "imdb": "tt14806994",
+    "tmdb": 985064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-02"
+}

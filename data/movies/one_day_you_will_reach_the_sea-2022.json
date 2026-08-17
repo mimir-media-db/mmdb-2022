@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_you_will_reach_the_sea_2022",
+  "title": "One Day, You Will Reach the Sea",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109596263",
+    "imdb": "tt16734276",
+    "tmdb": 923837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

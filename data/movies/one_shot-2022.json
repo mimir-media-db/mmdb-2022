@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_shot_2022",
+  "title": "One Shot",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109716480",
+    "imdb": "tt14199590",
+    "tmdb": 811592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-06"
+}

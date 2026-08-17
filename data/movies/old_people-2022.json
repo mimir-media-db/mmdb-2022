@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_people_2022",
+  "title": "Old People",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114094347",
+    "imdb": "tt21933110",
+    "tmdb": 999722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

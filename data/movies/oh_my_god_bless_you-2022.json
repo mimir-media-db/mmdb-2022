@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_my_god_bless_you_2022",
+  "title": "Oh My God Bless You",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432134",
+    "tmdb": 1017081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-15"
+}

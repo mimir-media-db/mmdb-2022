@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_desert_2022",
+  "title": "Once Upon a Time in the Desert",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105301635",
+    "imdb": "tt16161492",
+    "tmdb": 589764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-23",
+  "runtime_minutes": 121
+}

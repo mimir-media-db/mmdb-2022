@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_man_dies_a_million_times_2022",
+  "title": "One Man Dies a Million Times",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113529091",
+    "imdb": "tt7477788",
+    "tmdb": 545595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-29"
+}

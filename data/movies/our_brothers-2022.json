@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_brothers_2022",
+  "title": "Our Brothers",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113241292",
+    "imdb": "tt19725816",
+    "tmdb": 962541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 92
+}

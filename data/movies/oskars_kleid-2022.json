@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oskars_kleid_2022",
+  "title": "Oskars Kleid",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102037506",
+    "imdb": "tt11436640",
+    "tmdb": 916712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-22",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_mother_2022",
+  "title": "An Ordinary Mother",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111222433",
+    "imdb": "tt14200930",
+    "tmdb": 893904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-23",
+  "runtime_minutes": 87
+}
