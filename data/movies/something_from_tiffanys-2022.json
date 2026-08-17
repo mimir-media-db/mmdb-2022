@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_something_from_tiffanys_2022",
+  "title": "Something from Tiffany's",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113954229",
+    "imdb": "tt16233952",
+    "tmdb": 916053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-09"
+}

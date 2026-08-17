@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seeds_of_vandana_shiva_2022",
+  "title": "The Seeds of Vandana Shiva",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115206760",
+    "imdb": "tt4828328",
+    "tmdb": 814497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01",
+  "runtime_minutes": 82
+}

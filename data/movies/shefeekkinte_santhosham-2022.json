@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shefeekkinte_santhosham_2022",
+  "title": "Shefeekkinte Santhosham",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123173286",
+    "imdb": "tt15263194",
+    "tmdb": 962079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25",
+  "runtime_minutes": 128
+}

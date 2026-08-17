@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunny_side_of_the_street_2022",
+  "title": "The Sunny Side of the Street",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115367502",
+    "imdb": "tt18280126",
+    "tmdb": 1029168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-15",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sashenka_2022",
+  "title": "Sashenka",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575512",
+    "imdb": "tt19358770",
+    "tmdb": 1039095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-17",
+  "runtime_minutes": 134
+}

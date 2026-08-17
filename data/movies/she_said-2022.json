@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_said_2022",
+  "title": "She Said",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107969593",
+    "imdb": "tt11198810",
+    "tmdb": 837881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-17",
+  "runtime_minutes": 129
+}
