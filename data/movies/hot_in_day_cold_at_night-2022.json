@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_in_day_cold_at_night_2022",
+  "title": "Hot in Day, Cold at Night",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110936474",
+    "imdb": "tt15689882",
+    "tmdb": 877409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-15"
+}

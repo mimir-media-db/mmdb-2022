@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heimatkunde_2022",
+  "title": "Heimatkunde",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114885544",
+    "imdb": "tt15100778"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-10",
+  "runtime_minutes": 89
+}

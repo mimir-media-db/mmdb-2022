@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoy_se_arregla_el_mundo_2022",
+  "title": "Hoy se arregla el mundo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111207868",
+    "imdb": "tt11592014",
+    "tmdb": 656796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13",
+  "runtime_minutes": 112
+}

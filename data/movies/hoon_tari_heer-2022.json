@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hoon_tari_heer_2022",
+  "title": "Hoon Tari Heer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114434639",
+    "imdb": "tt16751916",
+    "tmdb": 1035408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07"
+}

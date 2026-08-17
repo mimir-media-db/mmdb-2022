@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hazard_lights_2022",
+  "title": "Hazard Lights",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111144927",
+    "imdb": "tt18081680",
+    "tmdb": 854878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-15"
+}

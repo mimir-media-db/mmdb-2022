@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hawk_as_big_as_a_horse_2022",
+  "title": "A Hawk as Big as a Horse",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126208795",
+    "imdb": "tt22489366",
+    "tmdb": 1031003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

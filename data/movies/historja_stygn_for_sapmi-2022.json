@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_historja_stygn_for_sapmi_2022",
+  "title": "Historjá – Stygn för Sápmi",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111462134",
+    "imdb": "tt15518656",
+    "tmdb": 925848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-30",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_bookstore_2022",
+  "title": "Hello, Bookstore",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115475417",
+    "imdb": "tt19242256",
+    "tmdb": 955695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hawk_2022",
+  "title": "The Hawk",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111286005",
+    "imdb": "tt13262202",
+    "tmdb": 940739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-06"
+}

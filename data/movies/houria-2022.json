@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_houria_2022",
+  "title": "Houria",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116981053",
+    "imdb": "tt15000700",
+    "tmdb": 926893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-24",
+  "runtime_minutes": 98
+}

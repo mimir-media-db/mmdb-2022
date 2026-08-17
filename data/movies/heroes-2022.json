@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroes_2022",
+  "title": "Heroes",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111109910",
+    "imdb": "tt9314340",
+    "tmdb": 611293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 70
+}

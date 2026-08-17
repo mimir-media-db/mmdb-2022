@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hermit_of_treig_2022",
+  "title": "The Hermit of Treig",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109622189",
+    "imdb": "tt18296448",
+    "tmdb": 896572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-05",
+  "runtime_minutes": 79
+}

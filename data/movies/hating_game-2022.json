@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hating_game_2022",
+  "title": "The Hating Game",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q103955657",
+    "imdb": "tt8718158",
+    "tmdb": 603661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-20",
+  "runtime_minutes": 102
+}

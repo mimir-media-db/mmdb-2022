@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harbinger_2022",
+  "title": "The Harbinger",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115808912",
+    "imdb": "tt13610158",
+    "tmdb": 974191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 87
+}

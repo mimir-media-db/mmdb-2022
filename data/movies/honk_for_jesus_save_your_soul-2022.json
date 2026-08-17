@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honk_for_jesus_save_your_soul_2022",
+  "title": "Honk for Jesus, Save Your Soul",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110027954",
+    "imdb": "tt12655436",
+    "tmdb": 848331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-02",
+  "runtime_minutes": 102
+}

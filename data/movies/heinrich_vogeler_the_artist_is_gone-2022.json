@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heinrich_vogeler_the_artist_is_gone_2022",
+  "title": "Heinrich Vogeler - The Artist is Gone",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111262247",
+    "imdb": "tt11603984",
+    "tmdb": 965160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-05-12",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hummus_full_trailer_2022",
+  "title": "Hummus Full Trailer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112671916",
+    "imdb": "tt11167448",
+    "tmdb": 732492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-09",
+  "runtime_minutes": 92
+}

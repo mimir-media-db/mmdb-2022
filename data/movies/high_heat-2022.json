@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_heat_2022",
+  "title": "High Heat",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115806100",
+    "imdb": "tt15721088",
+    "tmdb": 1015963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hridita_2022",
+  "title": "Hridita",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120742342",
+    "imdb": "tt28449981"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07"
+}

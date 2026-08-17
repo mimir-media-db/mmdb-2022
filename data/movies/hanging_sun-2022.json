@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanging_sun_2022",
+  "title": "The Hanging Sun",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113661052",
+    "imdb": "tt6986990",
+    "tmdb": 866267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-10",
+  "runtime_minutes": 93
+}

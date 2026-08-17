@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_fell_in_love_with_a_gangster_2022",
+  "title": "How I Fell in Love with a Gangster",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110544088",
+    "imdb": "tt16453244",
+    "tmdb": 809972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 179
+}
