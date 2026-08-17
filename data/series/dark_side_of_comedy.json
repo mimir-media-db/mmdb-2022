@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_side_of_comedy",
+  "title": "Dark Side of Comedy",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114444545",
+    "imdb": "tt17516478",
+    "tmdb": 205568
+  },
+  "last_updated": "2026-08-17"
+}

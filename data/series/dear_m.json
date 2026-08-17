@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_m",
+  "title": "Dear. M",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q102142297",
+    "imdb": "tt13760386",
+    "tmdb": 116377
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

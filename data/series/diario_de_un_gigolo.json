@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_diario_de_un_gigolo",
+  "title": "Diario de un gigoló",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110145446",
+    "imdb": "tt16481820",
+    "tmdb": 208925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

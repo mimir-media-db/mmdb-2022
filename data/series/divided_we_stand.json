@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_divided_we_stand",
+  "title": "Divided We Stand",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110936171",
+    "imdb": "tt13938328",
+    "tmdb": 155749
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

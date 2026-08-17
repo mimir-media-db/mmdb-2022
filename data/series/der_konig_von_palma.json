@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_der_konig_von_palma",
+  "title": "Der König von Palma",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114258191",
+    "imdb": "tt16450488",
+    "tmdb": 158540
+  },
+  "last_updated": "2026-08-17"
+}

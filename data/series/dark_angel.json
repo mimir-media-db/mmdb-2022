@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_angel",
+  "title": "Dark Angel",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q134355534",
+    "tmdb": 210660
+  },
+  "last_updated": "2026-08-17"
+}

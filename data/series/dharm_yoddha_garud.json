@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dharm_yoddha_garud",
+  "title": "Dharm Yoddha Garud",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111945795",
+    "imdb": "tt14888568",
+    "tmdb": 195348
+  },
+  "last_updated": "2026-08-17"
+}

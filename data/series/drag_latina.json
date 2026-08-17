@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_drag_latina",
+  "title": "Drag Latina",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114231977",
+    "imdb": "tt22688938",
+    "tmdb": 228944
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

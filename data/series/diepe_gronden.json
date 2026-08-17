@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_diepe_gronden",
+  "title": "Diepe Gronden",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110680062",
+    "imdb": "tt16225584",
+    "tmdb": 139312
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

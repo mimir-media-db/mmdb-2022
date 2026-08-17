@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_domino_masters",
+  "title": "Domino Masters",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111168444",
+    "imdb": "tt14456526",
+    "tmdb": 125572
+  },
+  "last_updated": "2026-08-17"
+}

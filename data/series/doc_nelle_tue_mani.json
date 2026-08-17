@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doc_nelle_tue_mani",
+  "title": "Doc - Nelle tue mani",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q88787767",
+    "imdb": "tt11876490",
+    "tmdb": 101048
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 48
+}
