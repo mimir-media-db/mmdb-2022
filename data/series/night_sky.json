@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_night_sky",
+  "title": "Night Sky",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107144760",
+    "imdb": "tt13361448",
+    "tmdb": 111894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

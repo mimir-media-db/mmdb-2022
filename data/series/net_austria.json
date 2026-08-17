@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_net_austria",
+  "title": "The Net Austria",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114708275",
+    "imdb": "tt17528670",
+    "tmdb": 216061
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nylevoy_pacient",
+  "title": "Nylevoy Pacient",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112130011",
+    "imdb": "tt15527340",
+    "tmdb": 154598
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}
