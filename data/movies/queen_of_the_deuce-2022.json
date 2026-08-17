@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_the_deuce_2022",
+  "title": "Queen of the Deuce",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126079770",
+    "imdb": "tt20319148",
+    "tmdb": 1047544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

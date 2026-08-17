@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_qala_2022",
+  "title": "Qala",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115048848",
+    "imdb": "tt14428598",
+    "tmdb": 934419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01"
+}

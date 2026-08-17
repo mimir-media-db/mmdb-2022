@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qodrat_2022",
+  "title": "Qodrat",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114892072",
+    "imdb": "tt18436986",
+    "tmdb": 1026836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27",
+  "runtime_minutes": 102
+}
