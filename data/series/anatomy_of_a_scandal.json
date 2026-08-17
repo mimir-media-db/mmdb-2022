@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_anatomy_of_a_scandal",
+  "title": "Anatomy of a Scandal",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107299032",
+    "imdb": "tt12748084",
+    "tmdb": 113984
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_awlad_al_darb",
+  "title": "Awlad Al Darb",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111825680",
+    "imdb": "tt19892720",
+    "tmdb": 233355
+  },
+  "last_updated": "2026-08-17"
+}

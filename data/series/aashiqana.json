@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aashiqana",
+  "title": "Aashiqana",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q133896065",
+    "imdb": "tt20673854",
+    "tmdb": 203504
+  },
+  "last_updated": "2026-08-17"
+}

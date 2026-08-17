@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alaska_daily",
+  "title": "Alaska Daily",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113635074",
+    "imdb": "tt15421858",
+    "tmdb": 201948
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

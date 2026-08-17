@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_all_star_shore",
+  "title": "All Star Shore",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112575851",
+    "imdb": "tt20859150",
+    "tmdb": 157742
+  },
+  "last_updated": "2026-08-17"
+}

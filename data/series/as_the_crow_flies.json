@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_as_the_crow_flies",
+  "title": "As the Crow Flies",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q112176958",
+    "imdb": "tt13323566",
+    "tmdb": 202010
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

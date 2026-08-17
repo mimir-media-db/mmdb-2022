@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_angelyne",
+  "title": "Angelyne",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112119596",
+    "imdb": "tt7632118",
+    "tmdb": 93751
+  },
+  "last_updated": "2026-08-17"
+}
