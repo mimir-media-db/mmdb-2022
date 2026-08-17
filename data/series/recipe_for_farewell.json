@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_recipe_for_farewell",
+  "title": "Recipe for Farewell",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116680122",
+    "imdb": "tt24669186",
+    "tmdb": 195743
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

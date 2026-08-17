@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rules_of_the_game",
+  "title": "Rules of the Game",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q116884380",
+    "imdb": "tt14466362",
+    "tmdb": 154390
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

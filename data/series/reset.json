@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reset",
+  "title": "Reset",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110622646",
+    "imdb": "tt17506706",
+    "tmdb": 155441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_repatriated",
+  "title": "Repatriated",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106488064",
+    "imdb": "tt15559824",
+    "tmdb": 120999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

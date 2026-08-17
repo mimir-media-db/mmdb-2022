@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_remember_15",
+  "title": "Remember 15",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q123456631",
+    "imdb": "tt23897266",
+    "tmdb": 158317
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

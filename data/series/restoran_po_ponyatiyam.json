@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_restoran_po_ponyatiyam",
+  "title": "Restoran po ponyatiyam",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113005303",
+    "imdb": "tt17489430",
+    "tmdb": 156014
+  },
+  "last_updated": "2026-08-17"
+}

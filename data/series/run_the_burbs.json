@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_run_the_burbs",
+  "title": "Run the Burbs",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q106462498",
+    "imdb": "tt14456760",
+    "tmdb": 139474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 38
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rakkaat_lapset",
+  "title": "Rakkaat lapset",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115617893",
+    "imdb": "tt25181532",
+    "tmdb": 233372
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

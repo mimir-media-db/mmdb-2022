@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_real_love_boat",
+  "title": "The Real Love Boat",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114608282",
+    "imdb": "tt18967556",
+    "tmdb": 195879
+  },
+  "last_updated": "2026-08-17"
+}

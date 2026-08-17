@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_amsterdam",
+  "title": "The Real Housewives of Amsterdam",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116285507",
+    "imdb": "tt21424426",
+    "tmdb": 214463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}
