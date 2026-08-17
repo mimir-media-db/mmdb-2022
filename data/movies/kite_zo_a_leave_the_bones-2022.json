@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kite_zo_a_leave_the_bones_2022",
+  "title": "Kite Zo A: Leave the Bones",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124788507",
+    "imdb": "tt26594235",
+    "tmdb": 1029645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-08",
+  "runtime_minutes": 68
+}

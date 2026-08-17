@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kisi_ka_bhai_kisi_ki_jaan_2022",
+  "title": "Kisi Ka Bhai Kisi Ki Jaan",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112161059",
+    "imdb": "tt3679040",
+    "tmdb": 966719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-30",
+  "runtime_minutes": 144
+}

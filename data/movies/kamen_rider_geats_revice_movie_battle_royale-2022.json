@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kamen_rider_geats_revice_movie_battle_royale_2022",
+  "title": "Kamen Rider Geats × Revice: Movie Battle Royale",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117221181",
+    "imdb": "tt21417736",
+    "tmdb": 1002780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-23",
+  "runtime_minutes": 96
+}

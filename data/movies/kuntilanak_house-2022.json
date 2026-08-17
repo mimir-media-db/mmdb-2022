@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kuntilanak_house_2022",
+  "title": "Kuntilanak House",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083764",
+    "tmdb": 978906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-02"
+}

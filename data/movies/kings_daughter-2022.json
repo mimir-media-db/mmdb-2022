@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_daughter_2022",
+  "title": "The King's Daughter",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17379618",
+    "imdb": "tt2328678",
+    "tmdb": 245842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kobane_2022",
+  "title": "Kobanê",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113988651",
+    "imdb": "tt16591574",
+    "tmdb": 1017154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-20"
+}

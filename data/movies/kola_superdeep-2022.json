@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kola_superdeep_2022",
+  "title": "Kola Superdeep",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97181122",
+    "imdb": "tt11815960",
+    "tmdb": 579828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-16"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_katuri_the_movie_the_big_city_adventure_2022",
+  "title": "KATURI the Movie: The Big City Adventure",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432132",
+    "tmdb": 1007012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-08"
+}

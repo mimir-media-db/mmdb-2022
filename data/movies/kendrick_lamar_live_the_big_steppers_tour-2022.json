@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kendrick_lamar_live_the_big_steppers_tour_2022",
+  "title": "Kendrick Lamar Live: The Big Steppers Tour",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115408371",
+    "imdb": "tt22940628",
+    "tmdb": 1007028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 103
+}

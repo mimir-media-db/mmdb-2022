@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killroy_was_here_2022",
+  "title": "KillRoy Was Here",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65677532",
+    "imdb": "tt6993240",
+    "tmdb": 1218707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-12",
+  "runtime_minutes": 63
+}

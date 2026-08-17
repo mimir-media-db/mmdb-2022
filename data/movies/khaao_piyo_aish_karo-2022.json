@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khaao_piyo_aish_karo_2022",
+  "title": "Khaao Piyo Aish Karo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684534",
+    "imdb": "tt14728278",
+    "tmdb": 996755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-01"
+}
