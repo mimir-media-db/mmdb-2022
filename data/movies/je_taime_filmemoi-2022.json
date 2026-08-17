@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_taime_filmemoi_2022",
+  "title": "Je t'aime, filme-moi!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111874903",
+    "imdb": "tt20779134",
+    "tmdb": 944266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-15",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jadran_split_europa_2022",
+  "title": "Jadran Split Europa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124302729",
+    "imdb": "tt17058122"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-16",
+  "runtime_minutes": 15
+}

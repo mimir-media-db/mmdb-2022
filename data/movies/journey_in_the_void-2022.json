@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_in_the_void_2022",
+  "title": "Journey in the Void",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575486",
+    "imdb": "tt14988574",
+    "tmdb": 1076710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-19",
+  "runtime_minutes": 90
+}

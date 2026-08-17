@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jaggu_ki_lalten_2022",
+  "title": "Jaggu Ki Lalten",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123461113",
+    "imdb": "tt22478232",
+    "tmdb": 1055709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-14",
+  "runtime_minutes": 2
+}

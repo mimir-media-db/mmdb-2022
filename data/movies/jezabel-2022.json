@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jezabel_2022",
+  "title": "Jezabel",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125850387",
+    "imdb": "tt9339850",
+    "tmdb": 772445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

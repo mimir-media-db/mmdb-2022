@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_beyond_the_night_2022",
+  "title": "Journey Beyond The Night",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128867631",
+    "imdb": "tt15348354",
+    "tmdb": 875522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-21"
+}

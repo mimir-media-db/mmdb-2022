@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_juntos_e_enrolados_2022",
+  "title": "Juntos e Enrolados",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110407376",
+    "imdb": "tt12473774",
+    "tmdb": 687577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-13"
+}

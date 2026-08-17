@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joyride_2022",
+  "title": "Joyride",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107610344",
+    "imdb": "tt13515090",
+    "tmdb": 762361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-24",
+  "runtime_minutes": 94
+}
