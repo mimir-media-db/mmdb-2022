@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_school_president",
+  "title": "My School President",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115631996",
+    "imdb": "tt16359870",
+    "tmdb": 214873
+  },
+  "last_updated": "2026-08-17"
+}

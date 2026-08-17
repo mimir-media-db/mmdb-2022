@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moon_knight",
+  "title": "Moon Knight",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q84712802",
+    "imdb": "tt10234724",
+    "tmdb": 92749
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

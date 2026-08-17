@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_dear_rescuer",
+  "title": "My Dear Rescuer",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q120833483",
+    "imdb": "tt16220596",
+    "tmdb": 201488
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

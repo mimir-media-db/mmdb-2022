@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_horror_six_nights",
+  "title": "Midnight Horror: Six Nights",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130621337",
+    "imdb": "tt23032110",
+    "tmdb": 213274
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

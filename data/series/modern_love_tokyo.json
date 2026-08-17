@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_modern_love_tokyo",
+  "title": "Modern Love Tokyo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119607878",
+    "imdb": "tt19265146",
+    "tmdb": 208596
+  },
+  "last_updated": "2026-08-17"
+}

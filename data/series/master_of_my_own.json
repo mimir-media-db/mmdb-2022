@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_master_of_my_own",
+  "title": "Master of My Own",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113332411",
+    "imdb": "tt14597982",
+    "tmdb": 199925
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

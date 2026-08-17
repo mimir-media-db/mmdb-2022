@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_name_is",
+  "title": "my name is",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111991829",
+    "imdb": "tt25578758",
+    "tmdb": 201763
+  },
+  "last_updated": "2026-08-17"
+}

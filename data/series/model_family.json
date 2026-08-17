@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_model_family",
+  "title": "A Model Family",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110637991",
+    "imdb": "tt21289712",
+    "tmdb": 132171
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
