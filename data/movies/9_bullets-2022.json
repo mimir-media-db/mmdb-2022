@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_9_bullets_2022",
+  "title": "9 Bullets",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116460248",
+    "imdb": "tt13680520",
+    "tmdb": 777831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-22",
+  "runtime_minutes": 97
+}
