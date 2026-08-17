@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boogie_nights_2022",
+  "title": "Boogie Nights",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597820",
+    "imdb": "tt22054008",
+    "tmdb": 940164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-28"
+}

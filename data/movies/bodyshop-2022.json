@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bodyshop_2022",
+  "title": "Bodyshop",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85879145",
+    "imdb": "tt20603692",
+    "tmdb": 1002317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-19"
+}

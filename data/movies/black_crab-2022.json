@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_crab_2022",
+  "title": "Black Crab",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111262699",
+    "imdb": "tt6708668",
+    "tmdb": 760868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-18",
+  "runtime_minutes": 114
+}

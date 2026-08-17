@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_salon_special_service_4_2022",
+  "title": "Beauty Salon: Special Service 4",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842434",
+    "tmdb": 721187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-01"
+}

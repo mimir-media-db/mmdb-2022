@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_the_sea_2022",
+  "title": "Back to the Sea",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949943",
+    "imdb": "tt2190193",
+    "tmdb": 137200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-27",
+  "runtime_minutes": 96
+}

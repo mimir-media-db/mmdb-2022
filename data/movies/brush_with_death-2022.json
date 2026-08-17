@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brush_with_death_2022",
+  "title": "A Brush With Death",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121010240",
+    "imdb": "tt21856874",
+    "tmdb": 1271762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-10"
+}

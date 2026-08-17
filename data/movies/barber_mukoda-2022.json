@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_barber_mukoda_2022",
+  "title": "Barber Mukoda",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135180803",
+    "tmdb": 981043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bon_bini_holland_3_2022",
+  "title": "Bon Bini Holland 3",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111686264",
+    "imdb": "tt11177150",
+    "tmdb": 800309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-30"
+}

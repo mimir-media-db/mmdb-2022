@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brilliant_darkness_2022",
+  "title": "The Brilliant Darkness!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113970161",
+    "imdb": "tt18264554",
+    "tmdb": 949931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-04-08"
+}

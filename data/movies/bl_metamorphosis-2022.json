@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bl_metamorphosis_2022",
+  "title": "BL Metamorphosis",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126724436",
+    "imdb": "tt20413256",
+    "tmdb": 963131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-06-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_george_barrington_2022",
+  "title": "The Ballad of George Barrington",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122431415",
+    "imdb": "tt28152456"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01"
+}

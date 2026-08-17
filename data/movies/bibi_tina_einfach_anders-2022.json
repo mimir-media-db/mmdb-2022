@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bibi_tina_einfach_anders_2022",
+  "title": "Bibi & Tina: Einfach Anders",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109394261",
+    "imdb": "tt19838584",
+    "tmdb": 889272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-21",
+  "runtime_minutes": 102
+}

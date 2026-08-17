@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_karma_2022",
+  "title": "Blood Karma",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115618531",
+    "imdb": "tt23747380",
+    "tmdb": 1057919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-25",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_the_window_2022",
+  "title": "By The Window",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116341508",
+    "imdb": "tt22179718",
+    "tmdb": 1017417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-26",
+  "runtime_minutes": 143
+}

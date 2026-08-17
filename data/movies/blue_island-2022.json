@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_island_2022",
+  "title": "Blue Island",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113570299",
+    "imdb": "tt15282802",
+    "tmdb": 924120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-07-16"
+}

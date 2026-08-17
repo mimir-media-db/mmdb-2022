@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babli_bouncer_2022",
+  "title": "Babli Bouncer",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111907329",
+    "imdb": "tt19838608",
+    "tmdb": 1002082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-23"
+}

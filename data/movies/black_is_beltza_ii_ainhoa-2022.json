@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_is_beltza_ii_ainhoa_2022",
+  "title": "Black is Beltza II: Ainhoa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113881993",
+    "imdb": "tt15467046",
+    "tmdb": 814773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 86
+}

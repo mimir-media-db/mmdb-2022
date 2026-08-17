@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bar_fight_2022",
+  "title": "Bar Fight!",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115249864",
+    "imdb": "tt15250656",
+    "tmdb": 862553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-11",
+  "runtime_minutes": 84
+}

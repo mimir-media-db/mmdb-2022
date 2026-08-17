@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_universe_2022",
+  "title": "Beyond the Universe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114976277",
+    "imdb": "tt16027944",
+    "tmdb": 962232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-27",
+  "runtime_minutes": 126
+}

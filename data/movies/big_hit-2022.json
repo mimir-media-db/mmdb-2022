@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_hit_2022",
+  "title": "The Big Hit",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100573244",
+    "imdb": "tt12444440",
+    "tmdb": 712152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-12-15",
+  "runtime_minutes": 105
+}

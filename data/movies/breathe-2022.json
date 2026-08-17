@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breathe_2022",
+  "title": "Breathe",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114727481",
+    "imdb": "tt22766520",
+    "tmdb": 1037896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-11-07",
+  "runtime_minutes": 90
+}

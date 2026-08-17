@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_girl_boogey_2022",
+  "title": "Bad Girl Boogey",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126980640",
+    "imdb": "tt18227236",
+    "tmdb": 929118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 80
+}

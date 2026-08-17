@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berta_soy_yo_2022",
+  "title": "Berta soy yo",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137826688",
+    "imdb": "tt20417718",
+    "tmdb": 1018846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 135
+}

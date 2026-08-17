@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bis_zum_letzten_tropfen_2022",
+  "title": "Bis zum letzten Tropfen",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120410948",
+    "imdb": "tt18885042",
+    "tmdb": 947451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-03-09",
+  "runtime_minutes": 90
+}

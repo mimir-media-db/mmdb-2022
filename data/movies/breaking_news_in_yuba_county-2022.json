@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_news_in_yuba_county_2022",
+  "title": "Breaking News in Yuba County",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64338082",
+    "imdb": "tt7737640",
+    "tmdb": 556867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-22",
+  "runtime_minutes": 96
+}

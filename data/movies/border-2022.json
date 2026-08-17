@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_border_2022",
+  "title": "The Border",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575496",
+    "imdb": "tt4824058"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 100
+}

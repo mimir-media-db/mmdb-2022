@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blasted_2022",
+  "title": "Blasted",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114555677",
+    "imdb": "tt14866710",
+    "tmdb": 660267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 114
+}

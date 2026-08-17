@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_adam_2022",
+  "title": "Black Adam",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28657013",
+    "imdb": "tt6443346",
+    "tmdb": 436270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-10-19",
+  "runtime_minutes": 124
+}

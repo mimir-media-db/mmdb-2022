@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_a_white_cow_2022",
+  "title": "Ballad of a White Cow",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85973822",
+    "imdb": "tt11773484",
+    "tmdb": 669401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-03",
+  "runtime_minutes": 105
+}

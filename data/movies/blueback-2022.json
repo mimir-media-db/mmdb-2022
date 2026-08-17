@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blueback_2022",
+  "title": "Blueback",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113570329",
+    "imdb": "tt14201576",
+    "tmdb": 807132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 103
+}

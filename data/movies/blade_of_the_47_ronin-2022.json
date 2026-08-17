@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blade_of_the_47_ronin_2022",
+  "title": "Blade of the 47 Ronin",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109941604",
+    "imdb": "tt12610794",
+    "tmdb": 732459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-01-01",
+  "runtime_minutes": 106
+}

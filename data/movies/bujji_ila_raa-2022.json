@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bujji_ila_raa_2022",
+  "title": "Bujji Ila Raa",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120970334",
+    "imdb": "tt21626274",
+    "tmdb": 1022396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-09-02"
+}

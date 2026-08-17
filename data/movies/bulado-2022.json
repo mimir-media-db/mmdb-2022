@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bulado_2022",
+  "title": "Buladó",
+  "year": 2022,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101126708",
+    "imdb": "tt12182440",
+    "tmdb": 737756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2022-02-09",
+  "runtime_minutes": 88
+}
