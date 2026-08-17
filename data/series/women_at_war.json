@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_women_at_war",
+  "title": "Women at War",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109255232",
+    "imdb": "tt14579330",
+    "tmdb": 155491
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

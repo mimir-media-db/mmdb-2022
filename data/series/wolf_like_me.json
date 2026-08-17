@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wolf_like_me",
+  "title": "Wolf Like Me",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108443631",
+    "imdb": "tt14452228",
+    "tmdb": 136738
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

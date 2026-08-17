@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whatever_you_say",
+  "title": "Whatever You Say",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117303840",
+    "imdb": "tt38593898",
+    "tmdb": 231359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 93
+}
