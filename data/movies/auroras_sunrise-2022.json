@@ -17,5 +17,10 @@
     "Documentary",
     "War"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AM",
+    "DE",
+    "LT"
+  ]
 }

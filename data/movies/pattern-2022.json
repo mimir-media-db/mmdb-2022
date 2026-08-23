@@ -12,5 +12,8 @@
   "last_updated": "2026-08-23",
   "release_date": "2022-09-29",
   "runtime_minutes": 86,
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "UA"
+  ]
 }

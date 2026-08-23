@@ -12,5 +12,8 @@
     "Drama",
     "family film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
 }

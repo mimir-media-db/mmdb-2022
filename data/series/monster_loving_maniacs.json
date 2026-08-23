@@ -14,5 +14,12 @@
     "comedy television series",
     "adventure television series"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "CA",
+    "DE",
+    "DK",
+    "IT"
+  ]
 }

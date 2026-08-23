@@ -7,7 +7,10 @@
   "external_ids": {
     "wikidata": "Q107668334"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-05-18",
-  "runtime_minutes": 125
+  "runtime_minutes": 125,
+  "countries": [
+    "JP"
+  ]
 }

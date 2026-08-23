@@ -16,5 +16,8 @@
     "Sci-Fi",
     "Western"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
 }

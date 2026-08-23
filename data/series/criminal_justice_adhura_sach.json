@@ -9,6 +9,9 @@
     "imdb": "tt21818260",
     "tmdb": 208939
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 8
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "countries": [
+    "IN"
+  ]
 }

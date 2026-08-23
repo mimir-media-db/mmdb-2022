@@ -16,5 +16,8 @@
     "Disaster",
     "historical drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
 }

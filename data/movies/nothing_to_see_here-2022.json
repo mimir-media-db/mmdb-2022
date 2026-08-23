@@ -16,5 +16,10 @@
     "Documentary",
     "Short"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "HU",
+    "PT"
+  ]
 }

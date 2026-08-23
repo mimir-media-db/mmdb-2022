@@ -13,5 +13,8 @@
     "reality television",
     "travel television show"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
 }

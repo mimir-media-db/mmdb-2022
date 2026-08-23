@@ -15,5 +15,8 @@
     "Disaster",
     "family drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
 }
