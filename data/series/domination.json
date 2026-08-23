@@ -14,5 +14,8 @@
     "game show",
     "quiz show"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
 }

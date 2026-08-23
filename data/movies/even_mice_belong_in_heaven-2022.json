@@ -17,5 +17,12 @@
     "Animation",
     "Comedy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "CZ",
+    "FR",
+    "PL",
+    "SK"
+  ]
 }

@@ -14,5 +14,9 @@
     "short film",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HK",
+    "SG"
+  ]
 }

@@ -8,7 +8,10 @@
     "wikidata": "Q122902023",
     "tmdb": 1129592
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-01-11",
-  "runtime_minutes": 79
+  "runtime_minutes": 79,
+  "countries": [
+    "JP"
+  ]
 }

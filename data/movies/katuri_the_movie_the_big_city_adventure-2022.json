@@ -8,6 +8,9 @@
     "wikidata": "Q117432132",
     "tmdb": 1007012
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-09-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-09-08",
+  "countries": [
+    "KR"
+  ]
 }

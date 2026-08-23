@@ -9,6 +9,9 @@
     "imdb": "tt22774776",
     "tmdb": 717908
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-10-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-10-12",
+  "countries": [
+    "KR"
+  ]
 }
