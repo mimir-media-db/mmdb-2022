@@ -9,7 +9,11 @@
     "imdb": "tt16088368",
     "tmdb": 893672
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-05-23",
-  "runtime_minutes": 73
+  "runtime_minutes": 73,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt18313946",
     "tmdb": 195298
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 7
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Sci-Fi",
+    "Western"
+  ],
+  "is_adult": false
 }

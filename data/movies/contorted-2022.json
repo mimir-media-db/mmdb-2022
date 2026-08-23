@@ -9,6 +9,11 @@
     "imdb": "tt21263500",
     "tmdb": 877260
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-07-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-07-13",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false
 }

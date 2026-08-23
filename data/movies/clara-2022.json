@@ -8,7 +8,12 @@
     "wikidata": "Q135005665",
     "tmdb": 947517
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-01-01",
-  "runtime_minutes": 81
+  "runtime_minutes": 81,
+  "genres": [
+    "Documentary",
+    "LGBTQ-related film"
+  ],
+  "is_adult": false
 }

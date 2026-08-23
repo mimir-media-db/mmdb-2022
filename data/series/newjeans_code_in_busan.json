@@ -8,5 +8,10 @@
     "wikidata": "Q115869893",
     "tmdb": 212383
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television",
+    "travel television show"
+  ],
+  "is_adult": false
 }

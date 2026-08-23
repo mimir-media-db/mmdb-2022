@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q126627738"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-10-18",
-  "runtime_minutes": 92
+  "runtime_minutes": 92,
+  "genres": [
+    "Drama",
+    "coming-of-age film"
+  ],
+  "is_adult": false
 }

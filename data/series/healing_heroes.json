@@ -8,5 +8,9 @@
     "wikidata": "Q134449357",
     "tmdb": 208136
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "medical drama"
+  ],
+  "is_adult": false
 }

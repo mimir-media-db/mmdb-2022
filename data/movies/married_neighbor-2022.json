@@ -8,6 +8,10 @@
     "wikidata": "Q139842464",
     "tmdb": 1016018
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-06-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-06-03",
+  "genres": [
+    "Musical"
+  ],
+  "is_adult": false
 }

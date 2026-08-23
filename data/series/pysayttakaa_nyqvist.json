@@ -9,5 +9,11 @@
     "imdb": "tt19882916",
     "tmdb": 203864
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery"
+  ],
+  "is_adult": false
 }

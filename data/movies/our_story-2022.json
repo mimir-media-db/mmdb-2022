@@ -9,6 +9,12 @@
     "imdb": "tt19363972",
     "tmdb": 959914
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-04-07"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-04-07",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "is_adult": false
 }

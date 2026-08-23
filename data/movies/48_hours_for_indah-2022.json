@@ -8,6 +8,10 @@
     "wikidata": "Q133444738",
     "tmdb": 1024680
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-09-15"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-09-15",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

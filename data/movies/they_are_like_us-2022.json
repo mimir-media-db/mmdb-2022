@@ -8,7 +8,13 @@
     "wikidata": "Q136144919",
     "tmdb": 1542804
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-01-01",
-  "runtime_minutes": 72
+  "runtime_minutes": 72,
+  "genres": [
+    "Horror",
+    "splatter film",
+    "exploitation film"
+  ],
+  "is_adult": false
 }

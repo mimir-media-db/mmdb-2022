@@ -9,6 +9,12 @@
     "imdb": "tt21477914",
     "tmdb": 1115873
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-04-27"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-04-27",
+  "genres": [
+    "Animation",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

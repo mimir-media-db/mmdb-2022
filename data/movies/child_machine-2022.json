@@ -9,7 +9,11 @@
     "imdb": "tt11828692",
     "tmdb": 1023665
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-11-20",
-  "runtime_minutes": 92
+  "runtime_minutes": 92,
+  "genres": [
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

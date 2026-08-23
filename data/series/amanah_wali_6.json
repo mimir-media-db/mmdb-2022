@@ -7,6 +7,12 @@
   "external_ids": {
     "wikidata": "Q111432650"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 333
+  "last_updated": "2026-08-23",
+  "total_episodes": 333,
+  "genres": [
+    "soap opera",
+    "Western",
+    "religious film"
+  ],
+  "is_adult": false
 }

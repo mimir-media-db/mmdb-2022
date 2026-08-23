@@ -9,6 +9,12 @@
     "imdb": "tt14518692",
     "tmdb": 97970
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 6
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Biography",
+    "Crime"
+  ],
+  "is_adult": false
 }

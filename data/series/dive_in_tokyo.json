@@ -8,5 +8,9 @@
     "wikidata": "Q131274585",
     "tmdb": 228885
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false
 }

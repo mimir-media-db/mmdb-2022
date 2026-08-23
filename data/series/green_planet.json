@@ -9,6 +9,11 @@
     "imdb": "tt16986646",
     "tmdb": 96323
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 5
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,11 @@
     "imdb": "tt14479956",
     "tmdb": 157528
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false
 }

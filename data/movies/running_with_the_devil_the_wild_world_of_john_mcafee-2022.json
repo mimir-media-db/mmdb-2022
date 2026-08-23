@@ -9,7 +9,13 @@
     "imdb": "tt21379574",
     "tmdb": 1005342
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-08-24",
-  "runtime_minutes": 105
+  "runtime_minutes": 105,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false
 }

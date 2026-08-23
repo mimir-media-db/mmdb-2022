@@ -8,7 +8,12 @@
     "wikidata": "Q131468237",
     "tmdb": 933088
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-02-06",
-  "runtime_minutes": 98
+  "runtime_minutes": 98,
+  "genres": [
+    "Fantasy",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

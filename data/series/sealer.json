@@ -9,6 +9,12 @@
     "imdb": "tt20413902",
     "tmdb": 155168
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 9
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

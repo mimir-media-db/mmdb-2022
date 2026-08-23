@@ -8,7 +8,11 @@
     "wikidata": "Q130380436",
     "tmdb": 207099
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 13
+  "total_episodes": 13,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false
 }

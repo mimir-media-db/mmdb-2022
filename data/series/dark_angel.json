@@ -8,5 +8,9 @@
     "wikidata": "Q134355534",
     "tmdb": 210660
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false
 }
