@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_you_light_me_up_2022",
+  "title": "You Light Me Up",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123735688",
+    "tmdb": 207341
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "HK"
+  ]
+}

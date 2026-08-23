@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cucut_2022",
+  "title": "Cucut",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110390875",
+    "imdb": "tt14596388"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

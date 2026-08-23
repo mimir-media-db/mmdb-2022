@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rock_island_mysteries_2022",
+  "title": "Rock Island Mysteries",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q111982592",
+    "imdb": "tt14322058",
+    "tmdb": 202121
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 60,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

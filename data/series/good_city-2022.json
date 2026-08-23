@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_good_city_2022",
+  "title": "The Good City",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107360799",
+    "imdb": "tt21301782",
+    "tmdb": 229322
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

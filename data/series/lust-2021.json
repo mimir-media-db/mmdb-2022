@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_lust_2021",
+  "title": "Lust",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110551766",
+    "imdb": "tt17550758",
+    "tmdb": 155648
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

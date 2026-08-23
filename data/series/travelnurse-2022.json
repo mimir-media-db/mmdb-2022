@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_travelnurse_2022",
+  "title": "THE TRAVELNURSE",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112731915",
+    "imdb": "tt26673780",
+    "tmdb": 210891
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 17,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

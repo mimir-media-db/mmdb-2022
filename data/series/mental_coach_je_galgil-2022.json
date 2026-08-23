@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mental_coach_je_galgil_2022",
+  "title": "Mental Coach Je Gal-gil",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111366726",
+    "imdb": "tt23033870",
+    "tmdb": 195627
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_paris_paris_2022",
+  "title": "Paris Paris",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111210960",
+    "imdb": "tt15125760",
+    "tmdb": 153866
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

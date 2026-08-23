@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_appi_aamchi_collector_2022",
+  "title": "Appi Aamchi Collector",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114831742",
+    "imdb": "tt29452980",
+    "tmdb": 275995
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 412,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

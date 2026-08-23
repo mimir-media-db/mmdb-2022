@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_kazu_laser_to_manabu_2022",
+  "title": "Kazu Laser to Manabu",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116251777",
+    "tmdb": 218980
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

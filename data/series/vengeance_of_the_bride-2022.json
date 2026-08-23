@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_vengeance_of_the_bride_2022",
+  "title": "Vengeance of the Bride",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113529018",
+    "tmdb": 211174
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 102,
+  "genres": [
+    "soap opera",
+    "melodrama",
+    "family drama",
+    "revenge series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

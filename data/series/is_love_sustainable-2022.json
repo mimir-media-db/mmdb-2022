@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_is_love_sustainable_2022",
+  "title": "Is love sustainable?",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110932402",
+    "imdb": "tt19756988",
+    "tmdb": 195345
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

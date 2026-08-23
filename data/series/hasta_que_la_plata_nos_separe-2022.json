@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hasta_que_la_plata_nos_separe_2022",
+  "title": "Hasta que la plata nos separe",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111372467",
+    "imdb": "tt17640966",
+    "tmdb": 196614
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 88,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_daddies_on_request_2022",
+  "title": "Daddies on Request",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106477765",
+    "imdb": "tt15373506",
+    "tmdb": 114138
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

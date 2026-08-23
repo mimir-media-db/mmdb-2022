@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_3pu_paris_police_psychiatric_unit_2021",
+  "title": "3PU - Paris Police Psychiatric Unit",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113838559",
+    "imdb": "tt16911106",
+    "tmdb": 203130
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

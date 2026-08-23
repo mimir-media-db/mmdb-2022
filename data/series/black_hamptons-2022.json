@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_black_hamptons_2022",
+  "title": "The Black Hamptons",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114434588",
+    "imdb": "tt16026956",
+    "tmdb": 204794
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

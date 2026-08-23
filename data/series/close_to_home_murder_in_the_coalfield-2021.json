@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_close_to_home_murder_in_the_coalfield_2021",
+  "title": "Close to Home: Murder in the Coalfield",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q114350209",
+    "imdb": "tt21955940",
+    "tmdb": 208855
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

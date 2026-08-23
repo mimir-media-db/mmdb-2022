@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_day_2022",
+  "title": "THE DANCE DAY",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117084908",
+    "tmdb": 292021
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mai_2021",
+  "title": "Mai",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111697720",
+    "imdb": "tt14160684",
+    "tmdb": 195900
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

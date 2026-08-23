@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_of_the_little_forest_2022",
+  "title": "A Romance of the Little Forest",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114050787",
+    "imdb": "tt22096832",
+    "tmdb": 135185
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 35,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

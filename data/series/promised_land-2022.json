@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_promised_land_2022",
+  "title": "Promised Land",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110100978",
+    "imdb": "tt14590210",
+    "tmdb": 130980
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

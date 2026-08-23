@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_sisters_2022",
+  "title": "Bad Sisters",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111943988",
+    "imdb": "tt15469618",
+    "tmdb": 199318
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "GB",
+    "IE",
+    "US"
+  ]
+}

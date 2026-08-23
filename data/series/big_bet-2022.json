@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_big_bet_2022",
+  "title": "Big Bet",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112506131",
+    "imdb": "tt17329616",
+    "tmdb": 112486
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

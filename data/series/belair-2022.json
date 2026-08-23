@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_belair_2022",
+  "title": "Bel-Air",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110192708",
+    "imdb": "tt12878838",
+    "tmdb": 107365
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

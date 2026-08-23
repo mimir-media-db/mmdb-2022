@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_beauty_2022",
+  "title": "Bad Beauty",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112202087",
+    "imdb": "tt19632144"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

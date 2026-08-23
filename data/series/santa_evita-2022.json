@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_santa_evita_2022",
+  "title": "Santa Evita",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107094507",
+    "imdb": "tt11563256",
+    "tmdb": 122048
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kuasa_2022",
+  "title": "Kuasa",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q125611091",
+    "imdb": "tt19388822"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MY"
+  ]
+}

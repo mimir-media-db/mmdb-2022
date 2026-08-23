@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_rusalki_2022",
+  "title": "Rusalki",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q61356966",
+    "imdb": "tt12942576",
+    "tmdb": 209339
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

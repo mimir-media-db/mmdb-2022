@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_golda_and_meir_2021",
+  "title": "Golda and Meir",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113412083"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

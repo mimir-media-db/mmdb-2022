@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_complex_25_2022",
+  "title": "Complex 25",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113556417",
+    "imdb": "tt37486730"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

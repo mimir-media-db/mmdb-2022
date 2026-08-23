@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_prehistoric_planet_2022",
+  "title": "Prehistoric Planet",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111582387",
+    "imdb": "tt10324164",
+    "tmdb": 95171
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Animation",
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

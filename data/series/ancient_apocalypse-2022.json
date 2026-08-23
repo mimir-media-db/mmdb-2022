@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ancient_apocalypse_2022",
+  "title": "Ancient Apocalypse",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q115206358",
+    "imdb": "tt22807484",
+    "tmdb": 212869
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

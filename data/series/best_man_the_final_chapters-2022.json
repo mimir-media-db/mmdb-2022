@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_best_man_the_final_chapters_2022",
+  "title": "The Best Man: The Final Chapters",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115474260",
+    "imdb": "tt14022728",
+    "tmdb": 213463
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

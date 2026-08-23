@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_delicacies_destiny_2022",
+  "title": "Delicacies Destiny",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111550329",
+    "imdb": "tt20724990",
+    "tmdb": 197107
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "period drama film",
+    "Disaster",
+    "historical drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

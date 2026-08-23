@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aura_2022",
+  "title": "Aura",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115707075"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "countries": [
+    "ID"
+  ]
+}

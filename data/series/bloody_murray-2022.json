@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bloody_murray_2022",
+  "title": "Bloody Murray",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111842235",
+    "imdb": "tt19414582",
+    "tmdb": 203591
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

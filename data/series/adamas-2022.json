@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_adamas_2022",
+  "title": "Adamas",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110941718",
+    "imdb": "tt21195588",
+    "tmdb": 205040
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

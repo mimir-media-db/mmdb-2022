@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_terminal_list_2022",
+  "title": "The Terminal List",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105753211",
+    "imdb": "tt11743610",
+    "tmdb": 120911
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

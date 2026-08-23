@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_exceptional_2022",
+  "title": "Exceptional",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112968784",
+    "imdb": "tt27464113"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

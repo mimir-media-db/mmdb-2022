@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_ruta_2021",
+  "title": "La ruta",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111541455",
+    "imdb": "tt13347046",
+    "tmdb": 128019
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

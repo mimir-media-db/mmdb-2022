@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_comme_des_tetes_pas_de_poule_2022",
+  "title": "Comme des têtes pas de poule",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111208109",
+    "imdb": "tt22332810",
+    "tmdb": 210480
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tiktoclock_2022",
+  "title": "TiktoClock",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113499386",
+    "imdb": "tt21363166",
+    "tmdb": 261381
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

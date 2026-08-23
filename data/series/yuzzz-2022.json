@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_yuzzz_2022",
+  "title": "YuZZZ",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115932684",
+    "imdb": "tt20426876",
+    "tmdb": 202934
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

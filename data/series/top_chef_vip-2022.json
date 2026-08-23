@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_top_chef_vip_2022",
+  "title": "Top Chef VIP",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113297942",
+    "imdb": "tt21959284",
+    "tmdb": 209374
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 99,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

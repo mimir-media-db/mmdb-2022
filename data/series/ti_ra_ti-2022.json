@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_ti_ra_ti_2022",
+  "title": "Ti Ra Ti",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111801244"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "sitcom",
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

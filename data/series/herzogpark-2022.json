@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_herzogpark_2022",
+  "title": "Herzogpark",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112166691",
+    "imdb": "tt11932562",
+    "tmdb": 129365
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

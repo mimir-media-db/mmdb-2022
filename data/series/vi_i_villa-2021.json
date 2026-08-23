@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vi_i_villa_2021",
+  "title": "Vi i villa",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111584428",
+    "imdb": "tt17521418",
+    "tmdb": 196246
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

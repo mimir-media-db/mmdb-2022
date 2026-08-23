@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_davina_shaniawe_love_monaco_2022",
+  "title": "Davina & Shania—We Love Monaco",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124388033"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 24,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

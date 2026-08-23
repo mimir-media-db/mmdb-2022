@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lesson_in_love_2022",
+  "title": "Lesson in Love",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116054081",
+    "imdb": "tt23023988",
+    "tmdb": 201672
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

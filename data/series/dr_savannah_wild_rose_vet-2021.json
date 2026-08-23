@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_savannah_wild_rose_vet_2021",
+  "title": "Dr. Savannah: Wild Rose Vet",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117529212",
+    "imdb": "tt21872610"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

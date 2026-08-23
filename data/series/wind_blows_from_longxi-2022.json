@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_wind_blows_from_longxi_2022",
+  "title": "The Wind Blows From Longxi",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111976958",
+    "imdb": "tt14521046",
+    "tmdb": 136548
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

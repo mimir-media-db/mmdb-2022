@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_seni_kalbime_sakladm_2022",
+  "title": "Seni Kalbime Sakladım",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113513782",
+    "imdb": "tt20319272",
+    "tmdb": 205149
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

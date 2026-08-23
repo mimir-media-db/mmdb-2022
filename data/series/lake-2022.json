@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lake_2022",
+  "title": "The Lake",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108766501",
+    "imdb": "tt15176890",
+    "tmdb": 158051
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

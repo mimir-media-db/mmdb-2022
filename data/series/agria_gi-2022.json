@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_agria_gi_2022",
+  "title": "Agria gi",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113291471",
+    "imdb": "tt21849150",
+    "tmdb": 210616
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 115,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

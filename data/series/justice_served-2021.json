@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_justice_served_2021",
+  "title": "Justice Served",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113337049",
+    "imdb": "tt21195532",
+    "tmdb": 205788
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

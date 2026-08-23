@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_les_disparus_de_la_foretnoire_2022",
+  "title": "Les Disparus de la Forêt-Noire",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111212170",
+    "imdb": "tt23826450",
+    "tmdb": 215229
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "DE",
+    "FR"
+  ]
+}

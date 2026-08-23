@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_from_scratch_2022",
+  "title": "From Scratch",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111949103",
+    "imdb": "tt11252254",
+    "tmdb": 207717
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

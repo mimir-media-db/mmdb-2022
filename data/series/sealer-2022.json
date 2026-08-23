@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sealer_2022",
+  "title": "The Sealer",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113987767",
+    "imdb": "tt20413902",
+    "tmdb": 155168
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

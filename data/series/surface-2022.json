@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_surface_2022",
+  "title": "Surface",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107862527",
+    "imdb": "tt13694702",
+    "tmdb": 127641
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

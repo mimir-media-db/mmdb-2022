@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_our_flag_means_death_2022",
+  "title": "Our Flag Means Death",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q107324490",
+    "imdb": "tt11000902",
+    "tmdb": 109939
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

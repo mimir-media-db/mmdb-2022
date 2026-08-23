@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_palin_into_iraq_2022",
+  "title": "Michael Palin: Into Iraq",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q122570924",
+    "imdb": "tt21878174",
+    "tmdb": 210730
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

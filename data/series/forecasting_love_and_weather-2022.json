@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_forecasting_love_and_weather_2022",
+  "title": "Forecasting Love and Weather",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107343177",
+    "imdb": "tt15140592",
+    "tmdb": 152511
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

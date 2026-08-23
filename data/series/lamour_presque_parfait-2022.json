@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_lamour_presque_parfait_2022",
+  "title": "L'Amour (presque) parfait",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110716579",
+    "imdb": "tt17157672",
+    "tmdb": 155659
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "countries": [
+    "FR"
+  ]
+}

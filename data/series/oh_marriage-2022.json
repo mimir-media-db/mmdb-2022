@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_marriage_2022",
+  "title": "Oh Marriage",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116029013",
+    "imdb": "tt24515530",
+    "tmdb": 216592
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 150,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

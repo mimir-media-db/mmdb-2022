@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_man_who_fell_to_earth_2022",
+  "title": "The Man Who Fell to Earth",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107335321",
+    "imdb": "tt10758074",
+    "tmdb": 118663
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

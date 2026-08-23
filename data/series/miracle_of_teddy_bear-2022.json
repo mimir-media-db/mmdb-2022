@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle_of_teddy_bear_2022",
+  "title": "The Miracle of Teddy Bear",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111836949",
+    "imdb": "tt19729114",
+    "tmdb": 196103
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_faadu_2022",
+  "title": "Faadu",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115819322",
+    "imdb": "tt16085542",
+    "tmdb": 216030
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

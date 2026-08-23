@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_peacemaker_2022",
+  "title": "Peacemaker",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q101089777",
+    "imdb": "tt13146488",
+    "tmdb": 110492
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

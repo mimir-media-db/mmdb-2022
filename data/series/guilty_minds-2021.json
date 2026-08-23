@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_guilty_minds_2021",
+  "title": "Guilty Minds",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111698026",
+    "imdb": "tt19355272",
+    "tmdb": 196847
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

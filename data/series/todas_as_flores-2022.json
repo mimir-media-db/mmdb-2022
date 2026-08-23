@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_todas_as_flores_2022",
+  "title": "Todas as Flores",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112873578",
+    "imdb": "tt22309050",
+    "tmdb": 196429
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 85,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

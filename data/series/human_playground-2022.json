@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_human_playground_2022",
+  "title": "Human Playground",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115978650",
+    "imdb": "tt10112282",
+    "tmdb": 211269
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

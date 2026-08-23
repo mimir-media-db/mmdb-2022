@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tell_me_lies_2022",
+  "title": "Tell Me Lies",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113866067",
+    "imdb": "tt13018148",
+    "tmdb": 130464
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chelsea_detective_2022",
+  "title": "The Chelsea Detective",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111733643",
+    "imdb": "tt14321914",
+    "tmdb": 156240
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

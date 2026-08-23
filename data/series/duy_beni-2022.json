@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_duy_beni_2022",
+  "title": "Duy Beni",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113193302",
+    "imdb": "tt20248478",
+    "tmdb": 205588
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

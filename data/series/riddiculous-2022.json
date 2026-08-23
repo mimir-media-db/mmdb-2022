@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_riddiculous_2022",
+  "title": "Riddiculous",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115803467",
+    "imdb": "tt21257646",
+    "tmdb": 214523
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_love_proposal_2022",
+  "title": "The Love Proposal",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111672330",
+    "imdb": "tt16078250",
+    "tmdb": 195877
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 15,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

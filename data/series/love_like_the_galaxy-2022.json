@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_love_like_the_galaxy_2022",
+  "title": "Love Like The Galaxy",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111961959",
+    "imdb": "tt21301278",
+    "tmdb": 137870
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 56,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": []
+}

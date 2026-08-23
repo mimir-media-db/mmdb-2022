@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_golden_hour_2022",
+  "title": "The Golden Hour",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114866427",
+    "imdb": "tt15554596",
+    "tmdb": 212408
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

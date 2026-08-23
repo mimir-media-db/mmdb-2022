@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_guru_miniseries_2022",
+  "title": "Guru (miniseries)",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110878665",
+    "imdb": "tt17053490",
+    "tmdb": 154086
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

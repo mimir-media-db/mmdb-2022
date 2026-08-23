@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_theodosia_2022",
+  "title": "Theodosia",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113396041",
+    "imdb": "tt14432384",
+    "tmdb": 139061
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 52,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "FR"
+  ]
+}

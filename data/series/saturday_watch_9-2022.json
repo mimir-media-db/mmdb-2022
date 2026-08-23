@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saturday_watch_9_2022",
+  "title": "Saturday Watch 9",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113297499",
+    "tmdb": 210527
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

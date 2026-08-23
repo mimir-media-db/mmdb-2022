@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_red_balloon_2022",
+  "title": "Red Balloon",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113611219",
+    "imdb": "tt25830366",
+    "tmdb": 208832
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

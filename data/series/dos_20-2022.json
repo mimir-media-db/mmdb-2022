@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dos_20_2022",
+  "title": "Dos 20",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111986726",
+    "imdb": "tt26546507"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

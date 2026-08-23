@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brunch_2022",
+  "title": "The Big Brunch",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109536416",
+    "imdb": "tt15824600",
+    "tmdb": 210052
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

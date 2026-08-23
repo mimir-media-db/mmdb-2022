@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_msnbc_prime_2022",
+  "title": "MSNBC Prime",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116671952"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

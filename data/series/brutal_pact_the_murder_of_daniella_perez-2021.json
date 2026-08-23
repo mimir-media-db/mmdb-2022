@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_brutal_pact_the_murder_of_daniella_perez_2021",
+  "title": "A Brutal Pact: The Murder of Daniella Perez",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q115841192",
+    "imdb": "tt21339770",
+    "tmdb": 204774
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

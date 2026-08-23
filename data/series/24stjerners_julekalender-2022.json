@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_24stjerners_julekalender_2022",
+  "title": "24-stjerners julekalender",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q115632082",
+    "imdb": "tt24077200",
+    "tmdb": 214756
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 72,
+  "genres": [
+    "Comedy",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

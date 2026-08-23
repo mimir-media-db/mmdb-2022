@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_life_is_beautiful_2022",
+  "title": "Life is Beautiful",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111848256",
+    "imdb": "tt27235459",
+    "tmdb": 204666
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 323,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

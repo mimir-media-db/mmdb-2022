@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_last_bus_2022",
+  "title": "The Last Bus",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111460224",
+    "imdb": "tt12885670",
+    "tmdb": 169590
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

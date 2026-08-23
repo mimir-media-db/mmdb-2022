@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_sisters_stand_tall_2022",
+  "title": "Sisters Stand Tall",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q134417626",
+    "tmdb": 203598
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SG"
+  ]
+}

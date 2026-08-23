@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_why_didnt_they_ask_evans_2022",
+  "title": "Why Didn't They Ask Evans?",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112348205",
+    "imdb": "tt14829590",
+    "tmdb": 157372
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Comedy",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

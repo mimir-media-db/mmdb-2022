@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sect_2021",
+  "title": "The Sect",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q135458538",
+    "imdb": "tt22051212",
+    "tmdb": 225942
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CH"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lunch_2022",
+  "title": "Lunch",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115654946",
+    "imdb": "tt20217662",
+    "tmdb": 207772
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

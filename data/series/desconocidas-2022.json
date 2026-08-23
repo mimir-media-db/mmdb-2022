@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_desconocidas_2022",
+  "title": "Desconocidas",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127038836",
+    "imdb": "tt18074418",
+    "tmdb": 208698
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

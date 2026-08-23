@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_al_haboub_2022",
+  "title": "Al Haboub",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116242567"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "action television series",
+    "drama television series",
+    "adventure television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SA"
+  ]
+}

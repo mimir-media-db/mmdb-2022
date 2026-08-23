@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_reis_2022",
+  "title": "Reis",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109954829",
+    "imdb": "tt20827706",
+    "tmdb": 51018
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 334,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

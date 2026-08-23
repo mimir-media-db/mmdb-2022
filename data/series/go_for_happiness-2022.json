@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_go_for_happiness_2022",
+  "title": "Go for Happiness",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123745235",
+    "imdb": "tt30985773",
+    "tmdb": 205594
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

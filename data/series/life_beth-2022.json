@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_life_beth_2022",
+  "title": "Life & Beth",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110874699",
+    "imdb": "tt10731032",
+    "tmdb": 156812
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

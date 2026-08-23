@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_syndicate_2022",
+  "title": "Syndicate",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113882263",
+    "imdb": "tt21351566",
+    "tmdb": 205845
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BD"
+  ]
+}

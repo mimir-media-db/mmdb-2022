@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_belascoaran_pi_2021",
+  "title": "Belascoarán, PI",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116665219",
+    "imdb": "tt21963650",
+    "tmdb": 206709
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

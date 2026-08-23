@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_green_planet_2022",
+  "title": "The Green Planet",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110822632",
+    "imdb": "tt16986646",
+    "tmdb": 96323
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

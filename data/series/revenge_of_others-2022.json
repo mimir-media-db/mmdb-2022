@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_revenge_of_others_2022",
+  "title": "Revenge of Others",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113877789",
+    "imdb": "tt23032890",
+    "tmdb": 208336
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

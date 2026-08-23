@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_het_jaar_van_fortuyn_2022",
+  "title": "Het jaar van Fortuyn",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111324666",
+    "imdb": "tt16103044",
+    "tmdb": 124841
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": []
+}

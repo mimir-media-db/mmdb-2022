@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_tinka_og_sjlens_spejl_2022",
+  "title": "Tinka og sjælens spejl",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106421307",
+    "imdb": "tt13921468",
+    "tmdb": 213036
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

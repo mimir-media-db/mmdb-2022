@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_generatie_bx_2022",
+  "title": "Generatie BX",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111982899"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

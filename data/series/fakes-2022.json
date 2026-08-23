@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fakes_2022",
+  "title": "Fakes",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113699312",
+    "imdb": "tt15764684",
+    "tmdb": 207841
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_everythings_trash_2022",
+  "title": "Everything's Trash",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113485212",
+    "imdb": "tt14218776",
+    "tmdb": 135312
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

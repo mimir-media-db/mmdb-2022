@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_marianne_2022",
+  "title": "Marianne",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111210468",
+    "imdb": "tt22025926",
+    "tmdb": 208446
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

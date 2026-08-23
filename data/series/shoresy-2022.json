@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_shoresy_2022",
+  "title": "Shoresy",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107388782",
+    "imdb": "tt18249282",
+    "tmdb": 158756
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

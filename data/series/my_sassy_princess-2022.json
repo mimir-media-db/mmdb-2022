@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sassy_princess_2022",
+  "title": "My Sassy Princess",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109342642",
+    "imdb": "tt20137094",
+    "tmdb": 197813
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

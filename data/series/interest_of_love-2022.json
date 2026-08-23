@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_interest_of_love_2022",
+  "title": "The Interest of Love",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114457789",
+    "imdb": "tt24224910",
+    "tmdb": 211746
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

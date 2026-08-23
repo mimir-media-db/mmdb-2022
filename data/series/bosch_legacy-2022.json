@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bosch_legacy_2022",
+  "title": "Bosch: Legacy",
+  "start_year": 2022,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q111905335",
+    "imdb": "tt14168162",
+    "tmdb": 153657
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

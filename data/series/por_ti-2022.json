@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_por_ti_2022",
+  "title": "Por Ti",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109376846",
+    "imdb": "tt15798526",
+    "tmdb": 157936
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

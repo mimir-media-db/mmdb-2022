@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_atoms_last_shot_2022",
+  "title": "Atom's Last Shot",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113363839",
+    "imdb": "tt23032854",
+    "tmdb": 211565
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pepsi_wheres_my_jet_2022",
+  "title": "Pepsi, Where's My Jet?",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115627473",
+    "imdb": "tt23022276",
+    "tmdb": 213134
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_geez_ann_the_series_2022",
+  "title": "Geez & Ann the Series",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110837414",
+    "imdb": "tt16282194",
+    "tmdb": 158120
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

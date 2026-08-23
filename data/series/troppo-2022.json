@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_troppo_2022",
+  "title": "Troppo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106740143",
+    "imdb": "tt13315664",
+    "tmdb": 130578
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

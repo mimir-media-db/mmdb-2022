@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_algiers_confidential_2022",
+  "title": "Algiers Confidential",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111207172",
+    "imdb": "tt13968396",
+    "tmdb": 153896
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "FR"
+  ]
+}

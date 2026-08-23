@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_cleaning_lady_2022",
+  "title": "The Cleaning Lady",
+  "start_year": 2022,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q106959460",
+    "imdb": "tt11188682",
+    "tmdb": 125282
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 46,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

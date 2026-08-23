@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_all_the_same_or_not_2022",
+  "title": "All the Same… or Not",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q107090727",
+    "imdb": "tt13574490",
+    "tmdb": 114105
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_black_sun_2022",
+  "title": "Kamen Rider Black Sun",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109683339",
+    "imdb": "tt14377480",
+    "tmdb": 135822
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

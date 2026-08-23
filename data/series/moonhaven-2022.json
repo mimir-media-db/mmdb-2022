@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_moonhaven_2022",
+  "title": "Moonhaven",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113457992",
+    "imdb": "tt14192428",
+    "tmdb": 125398
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

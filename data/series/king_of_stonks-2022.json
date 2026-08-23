@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_stonks_2022",
+  "title": "King of Stonks",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112300576",
+    "imdb": "tt15407486",
+    "tmdb": 204852
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

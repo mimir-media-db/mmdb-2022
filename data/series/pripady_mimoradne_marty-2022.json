@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pripady_mimoradne_marty_2022",
+  "title": "Prípady mimorádné Marty",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113976849",
+    "imdb": "tt22469540",
+    "tmdb": 213257
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

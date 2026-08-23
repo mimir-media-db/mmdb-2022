@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_lawyer_2022",
+  "title": "Doctor Lawyer",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110420048",
+    "imdb": "tt20854190",
+    "tmdb": 196906
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

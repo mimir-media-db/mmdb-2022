@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vice_versa_2022",
+  "title": "Vice Versa",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113126651",
+    "imdb": "tt16369008",
+    "tmdb": 205115
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

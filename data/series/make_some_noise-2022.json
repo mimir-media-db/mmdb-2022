@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_make_some_noise_2022",
+  "title": "Make Some Noise",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q126367174",
+    "imdb": "tt21047514",
+    "tmdb": 204031
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

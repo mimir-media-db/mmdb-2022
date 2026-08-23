@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_echo_3_2022",
+  "title": "Echo 3",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108240337",
+    "imdb": "tt12762512",
+    "tmdb": 106116
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

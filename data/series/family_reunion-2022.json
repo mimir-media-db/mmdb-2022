@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_family_reunion_2022",
+  "title": "Family Reunion",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111033479",
+    "imdb": "tt28514116"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 301,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

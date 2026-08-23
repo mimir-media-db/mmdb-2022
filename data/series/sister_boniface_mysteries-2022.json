@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sister_boniface_mysteries_2022",
+  "title": "Sister Boniface Mysteries",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111165537",
+    "imdb": "tt15407098",
+    "tmdb": 157282
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 38,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

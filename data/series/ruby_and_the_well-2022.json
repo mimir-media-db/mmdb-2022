@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ruby_and_the_well_2022",
+  "title": "Ruby and the Well",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114397678",
+    "imdb": "tt15113594",
+    "tmdb": 156190
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 32,
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

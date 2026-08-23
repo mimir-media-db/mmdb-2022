@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_naomi_2022",
+  "title": "Naomi",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108444706",
+    "imdb": "tt13624900",
+    "tmdb": 125474
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

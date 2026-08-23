@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_becoming_a_popstar_2022",
+  "title": "Becoming A Popstar",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111945696",
+    "imdb": "tt18399808",
+    "tmdb": 198208
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_criss_angels_magic_with_the_stars_2022",
+  "title": "Criss Angel's Magic with the Stars",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115819011",
+    "imdb": "tt21617204",
+    "tmdb": 213408
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vincenzo_malinconico_avvocato_dinsuccesso_2022",
+  "title": "Vincenzo Malinconico, avvocato d'insuccesso",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114782291",
+    "imdb": "tt14735266",
+    "tmdb": 213120
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

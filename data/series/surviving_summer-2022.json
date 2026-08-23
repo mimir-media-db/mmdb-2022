@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_surviving_summer_2022",
+  "title": "Surviving Summer",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105742212",
+    "imdb": "tt13925166",
+    "tmdb": 129141
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

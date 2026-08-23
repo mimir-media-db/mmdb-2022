@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_marked_heart_2022",
+  "title": "The Marked Heart",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111358777",
+    "imdb": "tt18974572",
+    "tmdb": 158916
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

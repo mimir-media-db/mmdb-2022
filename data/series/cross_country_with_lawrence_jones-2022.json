@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cross_country_with_lawrence_jones_2022",
+  "title": "Cross Country with Lawrence Jones",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120702531"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

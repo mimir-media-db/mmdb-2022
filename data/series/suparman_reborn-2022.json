@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_suparman_reborn_2022",
+  "title": "Suparman Reborn",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111459683"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 60,
+  "genres": [
+    "soap opera",
+    "Western"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

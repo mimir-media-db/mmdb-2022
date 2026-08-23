@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_first_lady_2022",
+  "title": "First Lady",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109299052",
+    "imdb": "tt15787006",
+    "tmdb": 158808
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 97,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

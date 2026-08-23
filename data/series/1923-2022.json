@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_1923_2022",
+  "title": "1923",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112862420",
+    "imdb": "tt18335752",
+    "tmdb": 157744
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Drama",
+    "Western"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

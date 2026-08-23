@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_pbs_news_hour_2022",
+  "title": "PBS News Hour",
+  "start_year": 2022,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7118447",
+    "imdb": "tt0247880",
+    "tmdb": 1655
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 32,
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

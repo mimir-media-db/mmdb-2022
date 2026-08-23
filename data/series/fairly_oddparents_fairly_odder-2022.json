@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fairly_oddparents_fairly_odder_2022",
+  "title": "The Fairly OddParents: Fairly Odder",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108841262",
+    "imdb": "tt15057532",
+    "tmdb": 129565
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

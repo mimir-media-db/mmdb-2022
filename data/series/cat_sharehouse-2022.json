@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_cat_sharehouse_2022",
+  "title": "Cat Sharehouse",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119658079",
+    "imdb": "tt19410178",
+    "tmdb": 194855
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

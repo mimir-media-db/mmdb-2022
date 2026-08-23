@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_le_bonheur_2021",
+  "title": "Le Bonheur",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116001059",
+    "imdb": "tt16611772",
+    "tmdb": 131197
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

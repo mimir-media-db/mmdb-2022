@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_609_bedtime_story_2022",
+  "title": "609 Bedtime Story",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115632879",
+    "imdb": "tt14925956",
+    "tmdb": 214163
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

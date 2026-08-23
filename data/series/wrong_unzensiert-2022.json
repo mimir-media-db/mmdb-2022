@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_wrong_unzensiert_2022",
+  "title": "Wrong – Unzensiert",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113514790",
+    "imdb": "tt18830222",
+    "tmdb": 194737
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

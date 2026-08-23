@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_piny_institute_of_new_york_2022",
+  "title": "PINY: Institute of New York",
+  "start_year": 2022,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q30898910"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 28,
+  "genres": [
+    "comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_of_the_dead_2022",
+  "title": "Woman of the Dead",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113991149",
+    "imdb": "tt5569404",
+    "tmdb": 214088
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "DE"
+  ]
+}

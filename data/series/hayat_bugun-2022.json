@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hayat_bugun_2022",
+  "title": "Hayat Bugün",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115343990",
+    "imdb": "tt21268566",
+    "tmdb": 212796
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

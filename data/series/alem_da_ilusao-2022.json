@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_alem_da_ilusao_2022",
+  "title": "Além da Ilusão",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110153067",
+    "imdb": "tt16762896",
+    "tmdb": 154911
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 167,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

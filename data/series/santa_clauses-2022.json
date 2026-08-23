@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_santa_clauses_2022",
+  "title": "The Santa Clauses",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111947838",
+    "imdb": "tt17047510",
+    "tmdb": 155631
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

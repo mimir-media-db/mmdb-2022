@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rebel_cheer_squad_2022",
+  "title": "Rebel Cheer Squad",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110975290",
+    "imdb": "tt18268134",
+    "tmdb": 196511
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

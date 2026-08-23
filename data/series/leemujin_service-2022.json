@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_leemujin_service_2022",
+  "title": "LeeMujin Service",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114092111",
+    "imdb": "tt29507363",
+    "tmdb": 195488
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

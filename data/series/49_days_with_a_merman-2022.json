@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_49_days_with_a_merman_2022",
+  "title": "49 Days with a Merman",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112333098",
+    "imdb": "tt16114460",
+    "tmdb": 132992
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

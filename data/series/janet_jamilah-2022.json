@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_janet_jamilah_2022",
+  "title": "Janet & Jamilah",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110707235"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "soap opera",
+    "Drama",
+    "Spy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

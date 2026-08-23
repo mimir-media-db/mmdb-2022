@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_superposition_2022",
+  "title": "Superposition",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131872813",
+    "imdb": "tt23613544",
+    "tmdb": 214203
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

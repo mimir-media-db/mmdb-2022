@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_monarch_2022",
+  "title": "Monarch",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q109728058",
+    "imdb": "tt11091696",
+    "tmdb": 125713
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

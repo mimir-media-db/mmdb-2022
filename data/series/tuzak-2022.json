@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tuzak_2022",
+  "title": "Tuzak",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116006524",
+    "imdb": "tt21741266",
+    "tmdb": 212799
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}
