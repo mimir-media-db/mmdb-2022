@@ -8,5 +8,10 @@
     "wikidata": "Q139916315",
     "imdb": "tt26559001"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

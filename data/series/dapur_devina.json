@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q111236044"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 30
+  "total_episodes": 30,
+  "genres": [
+    "educational entertainment",
+    "cooking show"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt20448482",
     "tmdb": 1026904
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-10-25",
-  "runtime_minutes": 96
+  "runtime_minutes": 96,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false
 }

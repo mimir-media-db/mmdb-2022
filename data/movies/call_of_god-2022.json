@@ -9,6 +9,12 @@
     "imdb": "tt5919910",
     "tmdb": 1004668
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-01-01",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+  ],
+  "is_adult": false
 }

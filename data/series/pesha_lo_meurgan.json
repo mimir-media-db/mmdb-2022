@@ -8,7 +8,12 @@
     "wikidata": "Q137205101",
     "imdb": "tt21598486"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 10
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false
 }

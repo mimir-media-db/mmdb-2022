@@ -8,7 +8,13 @@
     "wikidata": "Q110390875",
     "imdb": "tt14596388"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 5
+  "total_episodes": 5,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt6910006",
     "tmdb": 472500
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-12-15",
-  "runtime_minutes": 96
+  "runtime_minutes": 96,
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false
 }

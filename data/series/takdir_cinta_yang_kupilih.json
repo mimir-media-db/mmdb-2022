@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q113668021"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 577
+  "last_updated": "2026-08-23",
+  "total_episodes": 577,
+  "genres": [
+    "soap opera"
+  ],
+  "is_adult": false
 }

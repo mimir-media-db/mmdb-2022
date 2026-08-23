@@ -9,6 +9,12 @@
     "imdb": "tt22769164",
     "tmdb": 629273
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-09-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-09-21",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

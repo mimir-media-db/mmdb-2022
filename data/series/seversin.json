@@ -9,7 +9,12 @@
     "imdb": "tt19246566",
     "tmdb": 203205
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 20
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false
 }

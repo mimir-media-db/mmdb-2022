@@ -9,6 +9,12 @@
     "imdb": "tt5533370",
     "tmdb": 457232
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-11-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-11-18",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false
 }

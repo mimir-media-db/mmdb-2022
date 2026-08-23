@@ -8,7 +8,11 @@
     "wikidata": "Q125796351",
     "tmdb": 1018513
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-08-29",
-  "runtime_minutes": 81
+  "runtime_minutes": 81,
+  "genres": [
+    "Western"
+  ],
+  "is_adult": false
 }

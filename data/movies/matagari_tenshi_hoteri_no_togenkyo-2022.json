@@ -9,6 +9,11 @@
     "imdb": "tt21307580",
     "tmdb": 1525666
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-05-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-05-06",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

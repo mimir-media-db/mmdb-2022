@@ -9,5 +9,10 @@
     "imdb": "tt17405750",
     "tmdb": 215344
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false
 }

@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q112166623"
   },
-  "last_updated": "2026-08-17",
-  "total_seasons": 3
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,10 @@
     "imdb": "tt14369390",
     "tmdb": 158196
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,14 @@
     "wikidata": "Q113529018",
     "tmdb": 211174
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 102
+  "total_episodes": 102,
+  "genres": [
+    "soap opera",
+    "melodrama",
+    "family drama",
+    "revenge series"
+  ],
+  "is_adult": false
 }

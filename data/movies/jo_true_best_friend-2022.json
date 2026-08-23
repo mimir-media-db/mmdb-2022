@@ -8,7 +8,12 @@
     "wikidata": "Q134083615",
     "tmdb": 985364
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2022-08-11",
-  "runtime_minutes": 106
+  "runtime_minutes": 106,
+  "genres": [
+    "Drama",
+    "Adventure"
+  ],
+  "is_adult": false
 }

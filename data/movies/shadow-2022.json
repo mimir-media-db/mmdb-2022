@@ -9,6 +9,12 @@
     "imdb": "tt19814740",
     "tmdb": 895539
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-12-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-12-08",
+  "genres": [
+    "Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false
 }

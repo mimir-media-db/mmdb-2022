@@ -7,6 +7,13 @@
   "external_ids": {
     "wikidata": "Q120674541"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2022-06-16"
+  "last_updated": "2026-08-23",
+  "release_date": "2022-06-16",
+  "genres": [
+    "Comedy",
+    "Biography",
+    "action-adventure film",
+    "coming-of-age film"
+  ],
+  "is_adult": false
 }
