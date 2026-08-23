@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_george_tammy_2022",
+  "title": "George & Tammy",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110800138",
+    "imdb": "tt5545398",
+    "tmdb": 109377
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

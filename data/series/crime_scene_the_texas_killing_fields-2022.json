@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_scene_the_texas_killing_fields_2022",
+  "title": "Crime Scene: The Texas Killing Fields",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115600417",
+    "imdb": "tt23553310",
+    "tmdb": 214180
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

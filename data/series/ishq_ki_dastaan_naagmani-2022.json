@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ishq_ki_dastaan_naagmani_2022",
+  "title": "Ishq Ki Dastaan - Naagmani",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113005533",
+    "imdb": "tt21357604"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 438,
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

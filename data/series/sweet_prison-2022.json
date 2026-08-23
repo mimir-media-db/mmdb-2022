@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_prison_2022",
+  "title": "Sweet Prison",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q123705761",
+    "imdb": "tt28812256"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

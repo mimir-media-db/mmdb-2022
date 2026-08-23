@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_would_i_lie_to_you_2022",
+  "title": "Would I Lie to You?",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111950109",
+    "imdb": "tt14369390",
+    "tmdb": 158196
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

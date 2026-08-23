@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_adoption_story_documentary_series_2022",
+  "title": "An Adoption Story (documentary series)",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133800476",
+    "imdb": "tt23779136",
+    "tmdb": 234672
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

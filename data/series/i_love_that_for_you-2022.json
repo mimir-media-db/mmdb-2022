@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_i_love_that_for_you_2022",
+  "title": "I Love That for You",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111950370",
+    "imdb": "tt9319706",
+    "tmdb": 195815
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

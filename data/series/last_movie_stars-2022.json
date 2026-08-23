@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_last_movie_stars_2022",
+  "title": "The Last Movie Stars",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113372197",
+    "imdb": "tt13101040",
+    "tmdb": 157021
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

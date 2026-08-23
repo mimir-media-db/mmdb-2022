@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_far_from_home_2022",
+  "title": "Far From Home",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115945898",
+    "imdb": "tt23747008",
+    "tmdb": 215874
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NG"
+  ]
+}

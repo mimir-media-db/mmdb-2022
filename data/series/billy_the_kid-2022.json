@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_billy_the_kid_2022",
+  "title": "Billy the Kid",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114239338",
+    "imdb": "tt14586544",
+    "tmdb": 138971
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

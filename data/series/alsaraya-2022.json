@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_alsaraya_2022",
+  "title": "Al-Saraya",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124862217",
+    "imdb": "tt21307076",
+    "tmdb": 221261
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "LY"
+  ]
+}

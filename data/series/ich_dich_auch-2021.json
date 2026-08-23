@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ich_dich_auch_2021",
+  "title": "Ich dich auch!",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111292536",
+    "imdb": "tt16266560",
+    "tmdb": 157907
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

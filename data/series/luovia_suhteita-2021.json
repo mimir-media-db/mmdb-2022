@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_luovia_suhteita_2021",
+  "title": "Luovia suhteita",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110556277"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "FI"
+  ]
+}

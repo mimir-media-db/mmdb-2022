@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_decker_2022",
+  "title": "Ultraman Decker",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111437191",
+    "imdb": "tt18884220",
+    "tmdb": 154129
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

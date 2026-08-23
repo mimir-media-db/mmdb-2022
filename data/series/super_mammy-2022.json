@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_super_mammy_2022",
+  "title": "Super Mammy",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111812445",
+    "imdb": "tt19042662",
+    "tmdb": 196956
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

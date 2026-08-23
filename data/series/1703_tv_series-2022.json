@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_1703_tv_series_2022",
+  "title": "1703 (TV, series)",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114271180",
+    "imdb": "tt21426704",
+    "tmdb": 211220
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

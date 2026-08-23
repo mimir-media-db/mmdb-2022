@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dinge_van_n_kind_2022",
+  "title": "Dinge Van 'n Kind",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111671725",
+    "imdb": "tt18358226",
+    "tmdb": 232699
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

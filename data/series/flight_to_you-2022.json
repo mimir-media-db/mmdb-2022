@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_flight_to_you_2022",
+  "title": "Flight To You",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116885374",
+    "imdb": "tt19725610",
+    "tmdb": 217038
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 39,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

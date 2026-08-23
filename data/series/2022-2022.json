@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_2022_2022",
+  "title": "Стая (сериал, 2022)",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113574323",
+    "imdb": "tt17081376",
+    "tmdb": 209338
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

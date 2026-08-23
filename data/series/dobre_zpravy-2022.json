@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dobre_zpravy_2022",
+  "title": "Dobré zprávy",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112301439",
+    "imdb": "tt22045090",
+    "tmdb": 205636
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

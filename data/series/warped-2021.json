@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_warped_2021",
+  "title": "Warped!",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q108559182",
+    "imdb": "tt13449684",
+    "tmdb": 155924
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

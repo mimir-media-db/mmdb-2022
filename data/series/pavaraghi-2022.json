@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pavaraghi_2022",
+  "title": "Pavaraghi",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115996778",
+    "imdb": "tt28696085"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_thai_cave_rescue_2022",
+  "title": "Thai Cave Rescue",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113302637",
+    "imdb": "tt8726102",
+    "tmdb": 206903
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

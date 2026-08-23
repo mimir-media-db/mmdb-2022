@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_jennifer_hudson_show_2022",
+  "title": "The Jennifer Hudson Show",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112838685",
+    "imdb": "tt15847104",
+    "tmdb": 204746
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Music",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

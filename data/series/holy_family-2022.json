@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_holy_family_2022",
+  "title": "Holy Family",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113989330",
+    "imdb": "tt15576994",
+    "tmdb": 156883
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_from_now_on_showtime_2022",
+  "title": "From Now On, Showtime!",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110270589",
+    "imdb": "tt19848464",
+    "tmdb": 194820
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

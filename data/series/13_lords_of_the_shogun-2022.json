@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_13_lords_of_the_shogun_2022",
+  "title": "The 13 Lords of the Shogun",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q81412942",
+    "imdb": "tt16275756",
+    "tmdb": 125215
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 48,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

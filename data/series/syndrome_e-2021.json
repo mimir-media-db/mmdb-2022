@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_syndrome_e_2021",
+  "title": "Syndrome E",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114238941",
+    "imdb": "tt2347511",
+    "tmdb": 205203
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

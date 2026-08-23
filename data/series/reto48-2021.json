@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_reto48_2021",
+  "title": "#Reto48",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121540943"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

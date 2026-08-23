@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_walker_independence_2022",
+  "title": "Walker: Independence",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112054731",
+    "imdb": "tt16373746",
+    "tmdb": 201877
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

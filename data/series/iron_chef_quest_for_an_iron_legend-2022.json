@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_chef_quest_for_an_iron_legend_2022",
+  "title": "Iron Chef: Quest for an Iron Legend",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112605513",
+    "imdb": "tt17216636",
+    "tmdb": 201105
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

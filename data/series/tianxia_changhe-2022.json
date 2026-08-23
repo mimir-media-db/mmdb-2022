@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tianxia_changhe_2022",
+  "title": "Tianxia Changhe",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115521594",
+    "imdb": "tt23473346",
+    "tmdb": 214308
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 46,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

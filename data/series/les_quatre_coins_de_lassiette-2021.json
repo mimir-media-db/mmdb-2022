@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_les_quatre_coins_de_lassiette_2021",
+  "title": "Les Quatre Coins de l'assiette",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117475795",
+    "imdb": "tt21154944"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

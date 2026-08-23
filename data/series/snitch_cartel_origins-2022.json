@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_snitch_cartel_origins_2022",
+  "title": "The Snitch Cartel: Origins",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106878613",
+    "imdb": "tt14417802",
+    "tmdb": 128252
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 60,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

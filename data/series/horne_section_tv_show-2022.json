@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_horne_section_tv_show_2022",
+  "title": "The Horne Section TV Show",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134403714",
+    "imdb": "tt23319074",
+    "tmdb": 213726
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

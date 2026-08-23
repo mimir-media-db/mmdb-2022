@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mary_mary_mary_2022",
+  "title": "Mary, Mary, Mary",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113570633",
+    "imdb": "tt21439002",
+    "tmdb": 211850
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 43,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_twee_zomers_2022",
+  "title": "Twee Zomers",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110856631",
+    "imdb": "tt13018574",
+    "tmdb": 133979
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

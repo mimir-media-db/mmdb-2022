@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_good_job_2022",
+  "title": "Good Job",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113252657",
+    "imdb": "tt22247864",
+    "tmdb": 197072
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

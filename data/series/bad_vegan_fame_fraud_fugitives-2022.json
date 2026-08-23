@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_vegan_fame_fraud_fugitives_2022",
+  "title": "Bad Vegan: Fame. Fraud. Fugitives.",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111264125",
+    "imdb": "tt18260538",
+    "tmdb": 157709
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

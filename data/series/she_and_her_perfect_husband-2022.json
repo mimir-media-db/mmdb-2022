@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_she_and_her_perfect_husband_2022",
+  "title": "She and Her Perfect Husband",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q107197369",
+    "imdb": "tt12787732",
+    "tmdb": 127814
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

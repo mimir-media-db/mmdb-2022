@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_worst_roommate_ever_2022",
+  "title": "Worst Roommate Ever",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111474833",
+    "imdb": "tt8323702",
+    "tmdb": 156595
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_3_tonelada_atraco_al_banco_central_de_brasil_2022",
+  "title": "3 tonelada$: Atraco al Banco Central de Brasil",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111264163",
+    "imdb": "tt18274172",
+    "tmdb": 158762
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

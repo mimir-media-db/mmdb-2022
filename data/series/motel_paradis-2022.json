@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_motel_paradis_2022",
+  "title": "Motel Paradis",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131314515",
+    "imdb": "tt22746654",
+    "tmdb": 213276
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

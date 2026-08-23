@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_taboo_2022",
+  "title": "Taboo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124528570",
+    "imdb": "tt29609569",
+    "tmdb": 329550
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

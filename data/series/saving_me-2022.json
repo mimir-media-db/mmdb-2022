@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_saving_me_2022",
+  "title": "Saving Me",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115554685",
+    "imdb": "tt22441388",
+    "tmdb": 225954
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

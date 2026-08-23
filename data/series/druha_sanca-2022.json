@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_druha_sanca_2022",
+  "title": "Druhá šanca",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110521766",
+    "imdb": "tt24228654",
+    "tmdb": 154677
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 48,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SK"
+  ]
+}

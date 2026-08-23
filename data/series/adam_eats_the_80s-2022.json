@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_adam_eats_the_80s_2022",
+  "title": "Adam Eats the 80's",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124217546",
+    "imdb": "tt15619220",
+    "tmdb": 158716
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

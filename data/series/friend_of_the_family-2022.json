@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_friend_of_the_family_2022",
+  "title": "A Friend of the Family",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111943961",
+    "imdb": "tt12661338",
+    "tmdb": 197434
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

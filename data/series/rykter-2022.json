@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rykter_2022",
+  "title": "Rykter",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127011384",
+    "imdb": "tt22199742",
+    "tmdb": 210640
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 60,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

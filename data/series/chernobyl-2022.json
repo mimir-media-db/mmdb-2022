@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chernobyl_2022",
+  "title": "Chernobyl",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111377804",
+    "imdb": "tt14780354",
+    "tmdb": 196108
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

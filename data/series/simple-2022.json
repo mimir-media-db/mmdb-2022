@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_simple_2022",
+  "title": "Simple",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q116161717",
+    "imdb": "tt20755454",
+    "tmdb": 214617
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

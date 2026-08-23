@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_murderers_shopping_list_2022",
+  "title": "The Murderer's Shopping List",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110608157",
+    "imdb": "tt20192566",
+    "tmdb": 138246
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

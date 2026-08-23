@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bangla_la_serie_2021",
+  "title": "Bangla - La serie",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111740833",
+    "imdb": "tt19654028",
+    "tmdb": 197480
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

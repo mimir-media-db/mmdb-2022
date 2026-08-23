@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_american_gigolo_2022",
+  "title": "American Gigolo",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107377563",
+    "imdb": "tt4257262",
+    "tmdb": 127585
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

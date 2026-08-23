@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_dance_2021",
+  "title": "Fire Dance",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111842203",
+    "imdb": "tt18266822",
+    "tmdb": 201059
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

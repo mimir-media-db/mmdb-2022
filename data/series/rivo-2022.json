@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_rivo_2022",
+  "title": "Rivo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125491571"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "countries": [
+    "EG"
+  ]
+}

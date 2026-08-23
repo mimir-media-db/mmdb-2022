@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_iron_heart_2022",
+  "title": "The Iron Heart",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115907999",
+    "imdb": "tt23651372",
+    "tmdb": 211128
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 143,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

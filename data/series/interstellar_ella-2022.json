@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_interstellar_ella_2022",
+  "title": "Interstellar Ella",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120507249",
+    "imdb": "tt26699362",
+    "tmdb": 212171
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "CA"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dale_gas_2022",
+  "title": "Dale Gas",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111264139",
+    "imdb": "tt18568732",
+    "tmdb": 158913
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_andor_2022",
+  "title": "Andor",
+  "start_year": 2022,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q60462338",
+    "imdb": "tt9253284",
+    "tmdb": 83867
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

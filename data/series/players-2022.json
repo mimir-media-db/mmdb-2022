@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_players_2022",
+  "title": "Players",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112114991",
+    "imdb": "tt15314636",
+    "tmdb": 132178
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

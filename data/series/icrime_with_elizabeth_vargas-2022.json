@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_icrime_with_elizabeth_vargas_2022",
+  "title": "iCrime with Elizabeth Vargas",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115857603",
+    "imdb": "tt20879348",
+    "tmdb": 234838
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_terim_2021",
+  "title": "Terim",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q113612009",
+    "imdb": "tt14650054",
+    "tmdb": 209032
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

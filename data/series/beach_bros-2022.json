@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_beach_bros_2022",
+  "title": "Beach Bros",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113168909",
+    "imdb": "tt21147308",
+    "tmdb": 197327
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

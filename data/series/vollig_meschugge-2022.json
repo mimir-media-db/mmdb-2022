@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_vollig_meschugge_2022",
+  "title": "Völlig meschugge?!",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111668553",
+    "imdb": "tt15332562",
+    "tmdb": 197975
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

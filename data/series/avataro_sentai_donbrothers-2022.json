@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_avataro_sentai_donbrothers_2022",
+  "title": "Avataro Sentai Donbrothers",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110659846",
+    "imdb": "tt15776622",
+    "tmdb": 153918
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

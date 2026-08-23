@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_judge_steve_harvey_2022",
+  "title": "Judge Steve Harvey",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108695977",
+    "imdb": "tt15306330",
+    "tmdb": 154757
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_selling_the_oc_2022",
+  "title": "Selling the OC",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114024542",
+    "imdb": "tt15907000",
+    "tmdb": 139566
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

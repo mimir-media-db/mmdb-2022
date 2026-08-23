@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ze_network_2021",
+  "title": "Ze Network",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114935091",
+    "imdb": "tt14312836",
+    "tmdb": 213551
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dheeyan_meriyaan_2022",
+  "title": "Dheeyan Meriyaan",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123472247",
+    "imdb": "tt20234932"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 425,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

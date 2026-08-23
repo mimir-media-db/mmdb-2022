@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kimi_no_hana_ni_naru_2022",
+  "title": "Kimi no Hana ni Naru",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111906860",
+    "imdb": "tt26346520",
+    "tmdb": 209459
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

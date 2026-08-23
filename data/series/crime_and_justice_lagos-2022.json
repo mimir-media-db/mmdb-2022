@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_crime_and_justice_lagos_2022",
+  "title": "Crime and Justice Lagos",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116214387",
+    "imdb": "tt23847866"
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "NG"
+  ]
+}

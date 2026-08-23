@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_moul_lmlih_2022",
+  "title": "Moul Lmlih",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111740024",
+    "imdb": "tt19797622",
+    "tmdb": 209271
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_picturing_the_obamas_2022",
+  "title": "Picturing the Obamas",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116147937",
+    "imdb": "tt22057568",
+    "tmdb": 211126
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

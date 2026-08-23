@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_ola_2022",
+  "title": "Finding Ola",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110805288",
+    "imdb": "tt12432642",
+    "tmdb": 154810
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "EG"
+  ]
+}

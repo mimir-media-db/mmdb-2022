@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_slugterra_ascension_2021",
+  "title": "Slugterra: Ascension",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127101083",
+    "imdb": "tt21952804"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": []
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_2_good_2_be_true_2022",
+  "title": "2 Good 2 Be True",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q105320222",
+    "imdb": "tt20217314",
+    "tmdb": 135647
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 130,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

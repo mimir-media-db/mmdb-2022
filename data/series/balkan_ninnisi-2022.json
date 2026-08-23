@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_balkan_ninnisi_2022",
+  "title": "Balkan Ninnisi",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113593625",
+    "imdb": "tt20248548",
+    "tmdb": 204553
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 25,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_7_lives_of_lea_2022",
+  "title": "The 7 Lives of Lea",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112118733",
+    "imdb": "tt14140886",
+    "tmdb": 195928
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

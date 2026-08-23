@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_my_liberation_notes_2022",
+  "title": "My Liberation Notes",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110245384",
+    "imdb": "tt15146130",
+    "tmdb": 154887
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

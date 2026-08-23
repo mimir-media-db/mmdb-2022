@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lmaktoub_2022",
+  "title": "L'Maktoub",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111792304",
+    "imdb": "tt19876162",
+    "tmdb": 216818
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

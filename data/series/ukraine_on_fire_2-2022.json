@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ukraine_on_fire_2_2022",
+  "title": "Ukraine on Fire 2",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113027467",
+    "imdb": "tt18363546",
+    "tmdb": 292957
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 1055,
+  "genres": [
+    "Action",
+    "Biography",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "UA"
+  ]
+}

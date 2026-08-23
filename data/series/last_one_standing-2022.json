@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_last_one_standing_2022",
+  "title": "Last One Standing",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111203283",
+    "imdb": "tt18246842",
+    "tmdb": 157926
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_girl_in_the_mirror_2022",
+  "title": "The Girl in the Mirror",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q105888259",
+    "imdb": "tt13106334",
+    "tmdb": 127424
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

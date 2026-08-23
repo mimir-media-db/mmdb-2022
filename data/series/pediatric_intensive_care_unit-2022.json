@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_pediatric_intensive_care_unit_2022",
+  "title": "Pediatric Intensive Care Unit",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113297087",
+    "imdb": "tt24282156",
+    "tmdb": 209456
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

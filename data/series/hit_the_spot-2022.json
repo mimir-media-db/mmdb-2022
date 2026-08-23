@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_the_spot_2022",
+  "title": "Hit The Spot",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115916493",
+    "imdb": "tt26457968",
+    "tmdb": 211260
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

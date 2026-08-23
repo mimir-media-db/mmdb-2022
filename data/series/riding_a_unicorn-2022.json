@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_riding_a_unicorn_2022",
+  "title": "Riding A Unicorn",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112044466",
+    "imdb": "tt21200646",
+    "tmdb": 204027
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_for_suckers_2022",
+  "title": "Love Is for Suckers",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113807005",
+    "imdb": "tt22523300",
+    "tmdb": 197073
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wecrashed_2022",
+  "title": "WeCrashed",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q106959099",
+    "imdb": "tt12005128",
+    "tmdb": 117821
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

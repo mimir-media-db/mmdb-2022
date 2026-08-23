@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jivachi_hotiya_kahili_2022",
+  "title": "Jivachi Hotiya Kahili",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118902829",
+    "imdb": "tt21380598"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 314,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Short"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

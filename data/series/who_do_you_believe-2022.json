@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_who_do_you_believe_2022",
+  "title": "Who Do You Believe?",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111962688",
+    "imdb": "tt18566152",
+    "tmdb": 200760
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

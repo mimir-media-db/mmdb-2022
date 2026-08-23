@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_giver_2022",
+  "title": "The Giver",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112078413",
+    "imdb": "tt16078174"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

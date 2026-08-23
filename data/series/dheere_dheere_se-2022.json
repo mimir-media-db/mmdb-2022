@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dheere_dheere_se_2022",
+  "title": "Dheere Dheere Se",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115552617",
+    "imdb": "tt24177252",
+    "tmdb": 216498
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

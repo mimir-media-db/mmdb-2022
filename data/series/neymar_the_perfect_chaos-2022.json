@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_neymar_the_perfect_chaos_2022",
+  "title": "Neymar: The Perfect Chaos",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110710110",
+    "imdb": "tt16428640",
+    "tmdb": 153519
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR",
+    "US"
+  ]
+}

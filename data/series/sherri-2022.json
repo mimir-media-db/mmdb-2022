@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_sherri_2022",
+  "title": "Sherri",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115516674",
+    "imdb": "tt18300006",
+    "tmdb": 210081
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

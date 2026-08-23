@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_high_currency_2021",
+  "title": "High Currency",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116297269"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "GH"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dva_holma_2021",
+  "title": "Dva holma",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116910073",
+    "imdb": "tt15474794",
+    "tmdb": 157769
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

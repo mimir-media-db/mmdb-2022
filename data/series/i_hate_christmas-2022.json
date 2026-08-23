@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_i_hate_christmas_2022",
+  "title": "I Hate Christmas",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116922590",
+    "imdb": "tt23556972",
+    "tmdb": 212921
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

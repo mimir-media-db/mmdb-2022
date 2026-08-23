@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_biya_wla_bik_2022",
+  "title": "Biya Wla Bik",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113095746",
+    "imdb": "tt21284392"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MA"
+  ]
+}

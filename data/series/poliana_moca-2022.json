@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_poliana_moca_2022",
+  "title": "Poliana Moça",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q105967286",
+    "imdb": "tt19174300",
+    "tmdb": 157059
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 307,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_another_self_2022",
+  "title": "Another Self",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113326229",
+    "imdb": "tt14899624",
+    "tmdb": 206180
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

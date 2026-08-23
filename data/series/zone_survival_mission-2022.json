@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_zone_survival_mission_2022",
+  "title": "The Zone: Survival Mission",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113638060",
+    "imdb": "tt21875418",
+    "tmdb": 158900
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

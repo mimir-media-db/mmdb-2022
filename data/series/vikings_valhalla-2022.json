@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "s_vikings_valhalla_2022",
+  "title": "Vikings: Valhalla",
+  "start_year": 2022,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q104145677",
+    "imdb": "tt11311302",
+    "tmdb": 116135
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "IE",
+    "US"
+  ]
+}

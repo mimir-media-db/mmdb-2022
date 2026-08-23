@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_tweede_hans_2022",
+  "title": "Tweede Hans",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111909052",
+    "imdb": "tt15102972",
+    "tmdb": 199326
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

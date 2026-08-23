@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_young_famous_african_2022",
+  "title": "Young, Famous & African",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111306426",
+    "imdb": "tt15302054",
+    "tmdb": 157717
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

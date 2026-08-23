@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dancing_with_myself_2022",
+  "title": "Dancing with Myself",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q112623476",
+    "imdb": "tt16425030",
+    "tmdb": 203275
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

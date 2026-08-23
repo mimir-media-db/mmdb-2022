@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sassy_princess_snow_white_2022",
+  "title": "My Sassy Princess: Snow White",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q120833436",
+    "imdb": "tt20238770",
+    "tmdb": 212394
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

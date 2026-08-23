@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hijos_del_desierto_2022",
+  "title": "Hijos del desierto",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113587869",
+    "imdb": "tt21862790",
+    "tmdb": 208722
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

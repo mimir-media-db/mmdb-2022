@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_drag_i_love_you_2022",
+  "title": "Drag, I Love You",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115727015",
+    "imdb": "tt14086140",
+    "tmdb": 122010
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

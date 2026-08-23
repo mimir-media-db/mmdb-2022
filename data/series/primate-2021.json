@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_primate_2021",
+  "title": "Primate",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111465549",
+    "imdb": "tt18925250",
+    "tmdb": 196574
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

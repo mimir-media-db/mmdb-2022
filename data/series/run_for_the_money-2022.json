@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_run_for_the_money_2022",
+  "title": "Run for the Money",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114758215",
+    "imdb": "tt22263614",
+    "tmdb": 212630
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

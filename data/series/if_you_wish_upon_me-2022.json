@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_if_you_wish_upon_me_2022",
+  "title": "If You Wish Upon Me",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111910747",
+    "imdb": "tt20600078",
+    "tmdb": 135154
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

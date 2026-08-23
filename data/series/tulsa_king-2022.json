@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_tulsa_king_2022",
+  "title": "Tulsa King",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111967146",
+    "imdb": "tt16358384",
+    "tmdb": 153312
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 29,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

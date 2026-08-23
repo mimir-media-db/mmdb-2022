@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mai_am_gia_inh_viet_2022",
+  "title": "Mái ấm gia đình Việt",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118199625",
+    "tmdb": 310416
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 31,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

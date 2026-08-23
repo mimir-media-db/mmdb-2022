@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_rehearsal_2022",
+  "title": "The Rehearsal",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112915576",
+    "imdb": "tt10802170",
+    "tmdb": 204284
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

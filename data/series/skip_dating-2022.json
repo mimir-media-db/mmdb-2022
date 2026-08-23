@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_skip_dating_2022",
+  "title": "The Skip Dating",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115803315",
+    "imdb": "tt32270329",
+    "tmdb": 216399
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 11,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

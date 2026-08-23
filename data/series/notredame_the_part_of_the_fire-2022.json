@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_notredame_the_part_of_the_fire_2022",
+  "title": "Notre-Dame, the part of the fire",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109255281",
+    "imdb": "tt15046742",
+    "tmdb": 129057
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

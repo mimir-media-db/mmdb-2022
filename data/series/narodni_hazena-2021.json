@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_narodni_hazena_2021",
+  "title": "Národní házená",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112503607",
+    "imdb": "tt15712844",
+    "tmdb": 136714
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

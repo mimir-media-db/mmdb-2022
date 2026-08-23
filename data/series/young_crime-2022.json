@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_young_crime_2022",
+  "title": "Young Crime",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114679074"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "DE"
+  ]
+}

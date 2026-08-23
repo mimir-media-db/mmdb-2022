@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_old_dog_new_tricks_2022",
+  "title": "The Old Dog, New Tricks?",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111956887",
+    "imdb": "tt21299334",
+    "tmdb": 203935
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_birth_of_a_conflict_2022",
+  "title": "Birth of a Conflict",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115089661",
+    "imdb": "tt28321877",
+    "tmdb": 244520
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

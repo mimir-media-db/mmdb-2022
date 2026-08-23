@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_annenin_sirridir_cocuk_2021",
+  "title": "Annenin Sirridir Çocuk",
+  "start_year": 2021,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q111514802",
+    "imdb": "tt17678840",
+    "tmdb": 196964
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

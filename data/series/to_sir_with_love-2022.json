@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_to_sir_with_love_2022",
+  "title": "To Sir, With Love",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q116821503",
+    "imdb": "tt18990100",
+    "tmdb": 211598
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

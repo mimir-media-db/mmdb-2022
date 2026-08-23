@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_dive_in_tokyo_2022",
+  "title": "Dive in Tokyo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131274585",
+    "tmdb": 228885
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

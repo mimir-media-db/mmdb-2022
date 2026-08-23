@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_bright_future_2022",
+  "title": "Bright Future",
+  "start_year": 2022,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q113647097",
+    "imdb": "tt24073476",
+    "tmdb": 210747
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

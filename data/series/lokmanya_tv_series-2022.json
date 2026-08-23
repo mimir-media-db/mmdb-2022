@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lokmanya_tv_series_2022",
+  "title": "Lokmanya (TV series)",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116200127",
+    "imdb": "tt26510190",
+    "tmdb": 279077
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 136,
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

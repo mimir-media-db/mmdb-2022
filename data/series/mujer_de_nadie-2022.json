@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mujer_de_nadie_2022",
+  "title": "Mujer de nadie",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q111372385",
+    "imdb": "tt18252858",
+    "tmdb": 203888
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 45,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

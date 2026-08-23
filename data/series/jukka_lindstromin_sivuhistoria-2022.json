@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jukka_lindstromin_sivuhistoria_2022",
+  "title": "Jukka Lindströmin Sivuhistoria",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111702280",
+    "imdb": "tt19755244",
+    "tmdb": 324251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

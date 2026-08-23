@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bir_peri_masal_2022",
+  "title": "Bir Peri Masalı",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q115550217",
+    "imdb": "tt21435250",
+    "tmdb": 211144
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

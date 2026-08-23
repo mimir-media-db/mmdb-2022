@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kiss_sixth_sense_2022",
+  "title": "Kiss Sixth Sense",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111696062",
+    "imdb": "tt20235634",
+    "tmdb": 135895
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

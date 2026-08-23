@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_guardians_of_justice_2022",
+  "title": "The Guardians of Justice",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111054789",
+    "imdb": "tt16549788",
+    "tmdb": 157285
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

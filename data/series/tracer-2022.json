@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tracer_2022",
+  "title": "Tracer",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109804030",
+    "imdb": "tt16492732",
+    "tmdb": 135272
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

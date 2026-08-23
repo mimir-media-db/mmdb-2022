@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_finster_2022",
+  "title": "Alles Finster",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111344656",
+    "imdb": "tt21054814",
+    "tmdb": 198107
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT"
+  ]
+}

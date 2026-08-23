@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_pistol_2022",
+  "title": "Pistol",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106362893",
+    "imdb": "tt13823494",
+    "tmdb": 132159
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

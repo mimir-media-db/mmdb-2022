@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_765874_series_episode_list_2022",
+  "title": "765874 - Series: Episode List",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137188617"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "science fiction"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

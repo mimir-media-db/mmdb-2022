@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kamiki_ryunosukes_shooting_holidays_2022",
+  "title": "Kamiki Ryunosuke's Shooting Holidays",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q108839211",
+    "imdb": "tt16223762",
+    "tmdb": 139299
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

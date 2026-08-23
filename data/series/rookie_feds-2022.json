@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_rookie_feds_2022",
+  "title": "The Rookie: Feds",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114197876",
+    "imdb": "tt18076310",
+    "tmdb": 201992
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

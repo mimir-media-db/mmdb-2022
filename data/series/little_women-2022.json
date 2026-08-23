@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_little_women_2022",
+  "title": "Little Women",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q110246392",
+    "imdb": "tt21828868",
+    "tmdb": 134675
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

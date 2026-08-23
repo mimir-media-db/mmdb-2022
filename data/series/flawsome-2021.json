@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_flawsome_2021",
+  "title": "Flawsome",
+  "start_year": 2021,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116158655"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NG"
+  ]
+}
